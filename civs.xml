@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <civs>
 	<subcivalliancecost>
 		<gold>0</gold>
@@ -28,14 +27,45 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeSpanish</tech>
+			<Effect type="TechStatus" status="active">VeteranSkirmishersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranCrossbowmen</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranRodeleros</Effect>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
+			<Effect type="TechStatus" status="active">VeteranDragoonsShadow</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeSpanish</tech>
+			<Effect type="TechStatus" status="active">GuardDragoons</Effect>
+			<Effect type="TechStatus" status="active">RGTercio</Effect>
+			<Effect type="TechStatus" status="active">RGEspadachins</Effect>
+			<Effect type="TechStatus" status="active">GuardMusketeers</Effect>
+			<Effect type="TechStatus" status="active">RGGarrochista</Effect>
+			<Effect type="TechStatus" status="active">GuardHussars</Effect>
+			<Effect type="TechStatus" status="active">GuardSkirmishers</Effect>
+			
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeSpanish</tech>
+			<Effect type="TechStatus" status="active">ImperialDragoons</Effect>
+			<Effect type="TechStatus" status="active">ImperialSkirmishers</Effect>
+			<Effect type="TechStatus" status="active">ImperialEspada</Effect>
+			<Effect type="TechStatus" status="active">ImperialTercio</Effect>
+			<Effect type="TechStatus" status="active">ImperialMusketeers</Effect>
+			<Effect type="TechStatus" status="active">ImperialGarrochistas</Effect>
+			<Effect type="TechStatus" status="active">ImperialHussars</Effect>
+			<Effect type="TechStatus" status="active">ImperialCulverin</Effect>
+			<Effect type="TechStatus" status="active">ImperialCannon</Effect>
+			<Effect type="TechStatus" status="active">ImperialHowitzer</Effect>
+			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
+			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
+			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryNatives</Effect>
+			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>
+
 		</agetech>
 		<postindustrialtech>PostIndustrialSpanish</postindustrialtech>
 		<postimperialtech>PostImperialSpanish</postimperialtech>
@@ -104,14 +134,43 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeBritish</tech>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
+			<Effect type="TechStatus" status="active">VeteranLongbowmen</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">VeteranDragoonsShadow</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeBritish</tech>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
+			<Effect type="TechStatus" status="active">VeteranLongbowmen</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">VeteranDragoonsShadow</Effect>
+			<Effect type="TechStatus" status="active">GuardDragoons</Effect>
+			<Effect type="TechStatus" status="active">RGRedcoats</Effect>
+			<Effect type="TechStatus" status="active">RGLifeGuardHussars</Effect>
+			<Effect type="TechStatus" status="active">GuardGrenadiers</Effect>
+
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeBritish</tech>
+			<Effect type="TechStatus" status="active">ImperialDragoons</Effect>
+			<Effect type="TechStatus" status="active">ImperialRedcoat</Effect>
+			<Effect type="TechStatus" status="active">ImperialLifeGuard</Effect>
+			<Effect type="TechStatus" status="active">ImperialGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">ImperialCulverin</Effect>
+			<Effect type="TechStatus" status="active">ImperialRocket</Effect>
+			<Effect type="TechStatus" status="active">ImperialHowitzer</Effect>
+			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
+			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
+			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
+			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>
+			<Effect type="TechStatus" status="active">ImperialLongbowmen</Effect>
 		</agetech>
 		<postindustrialtech>PostIndustrialBritish</postindustrialtech>
 		<postimperialtech>PostImperialBritish</postimperialtech>
@@ -175,14 +234,47 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeFrench</tech>
+			<Effect type="TechStatus" status="active">VeteranCrossbowmen</Effect>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranDragoonsShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranSkirmishersShadow</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeFrench</tech>
+			<Effect type="TechStatus" status="active">VeteranCrossbowmen</Effect>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranDragoonsShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranSkirmishersShadow</Effect>
+			<Effect type="TechStatus" status="active">RGGendarmes</Effect>
+			<Effect type="TechStatus" status="active">GuardHalberdiers</Effect>
+			<Effect type="TechStatus" status="active">GuardDragoons</Effect>
+			<Effect type="TechStatus" status="active">RGVoltigeur</Effect>
+			<Effect type="TechStatus" status="active">GuardMusketeers</Effect>
+			<Effect type="TechStatus" status="active">GuardHussars</Effect>
+
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeFrench</tech>
+			<Effect type="TechStatus" status="active">ImperialGendarme</Effect>
+			<Effect type="TechStatus" status="active">ImperialDragoons</Effect>
+			<Effect type="TechStatus" status="active">ImperialVoltigeur</Effect>
+			<Effect type="TechStatus" status="active">ImperialMusketeers</Effect>
+			<Effect type="TechStatus" status="active">ImperialHussars</Effect>
+			<Effect type="TechStatus" status="active">ImperialHalberdiers</Effect>
+			<Effect type="TechStatus" status="active">ImperialCulverin</Effect>
+			<Effect type="TechStatus" status="active">ImperialCannon</Effect>
+			<Effect type="TechStatus" status="active">ImperialHowitzer</Effect>
+			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
+			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
+			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryNatives</Effect>
+			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>
 		</agetech>
 		<postindustrialtech>PostIndustrialFrench</postindustrialtech>
 		<postimperialtech>PostImperialFrench</postimperialtech>
@@ -246,14 +338,41 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizePortuguese</tech>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
+			<Effect type="TechStatus" status="active">VeteranCrossbowmen</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializePortuguese</tech>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
+			<Effect type="TechStatus" status="active">VeteranCrossbowmen</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">GuardHalberdiers</Effect>
+			<Effect type="TechStatus" status="active">GuardHussars</Effect>
+			<Effect type="TechStatus" status="active">GuardCacadores</Effect>
+			<Effect type="TechStatus" status="active">RGJinetes</Effect>
+			<Effect type="TechStatus" status="active">RGGuerreiros</Effect>
+			
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializePortuguese</tech>
+			<Effect type="TechStatus" status="active">ImperialCacadores</Effect>
+			<Effect type="TechStatus" status="active">ImperialJinetes</Effect>
+			<Effect type="TechStatus" status="active">ImperialGuerreiros</Effect>
+			<Effect type="TechStatus" status="active">ImperialHussars</Effect>
+			<Effect type="TechStatus" status="active">ImperialHalberdiers</Effect>
+			<Effect type="TechStatus" status="active">ImperialCulverin</Effect>
+			<Effect type="TechStatus" status="active">ImperialCannon</Effect>
+			<Effect type="TechStatus" status="active">ImperialHowitzer</Effect>
+			<Effect type="TechStatus" status="active">ImperialRabaulds</Effect>
+			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
+			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
+			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>
 		</agetech>
 		<postindustrialtech>PostIndustrialPortuguese</postindustrialtech>
 		<postimperialtech>PostImperialPortuguese</postimperialtech>
@@ -318,14 +437,41 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeDutch</tech>
+			<Effect type="TechStatus" status="active">VeteranRuytersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranSkirmishersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranGrenadiers</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeDutch</tech>
+			<Effect type="TechStatus" status="active">VeteranRuytersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranSkirmishersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">RGNassausLinearTactics</Effect>
+			<Effect type="TechStatus" status="active">GuardSkirmishers</Effect>
+			<Effect type="TechStatus" status="active">GuardHussars</Effect>
+			<Effect type="TechStatus" status="active">GuardGrenadiers</Effect>
+
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeDutch</tech>
+			<Effect type="TechStatus" status="active">ImperialSkirmishers</Effect>
+			<Effect type="TechStatus" status="active">ImperialCarabineer</Effect>
+			<Effect type="TechStatus" status="active">ImperialHussars</Effect>
+			<Effect type="TechStatus" status="active">ImperialNassauers</Effect>
+			<Effect type="TechStatus" status="active">ImperialGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">ImperialCulverin</Effect>
+			<Effect type="TechStatus" status="active">ImperialCannon</Effect>
+			<Effect type="TechStatus" status="active">ImperialHowitzer</Effect>
+			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
+			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
+			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
+			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>
 		</agetech>
 		<postindustrialtech>PostIndustrialDutch</postindustrialtech>
 		<postimperialtech>PostImperialDutch</postimperialtech>
@@ -390,14 +536,46 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeRussian</tech>
+			<Effect type="TechStatus" status="active">VeteranCossacks</Effect>
+			<Effect type="TechStatus" status="active">VeteranCavalryArchersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
+			<Effect type="TechStatus" status="active">VeteranGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">VeteranStrelets</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeRussian</tech>
+			<Effect type="TechStatus" status="active">VeteranCossacks</Effect>
+			<Effect type="TechStatus" status="active">VeteranCavalryArchersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
+			<Effect type="TechStatus" status="active">VeteranGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">VeteranStrelets</Effect>
+			<Effect type="TechStatus" status="active">GuardStrelets</Effect>
+			<Effect type="TechStatus" status="active">GuardOprichniks</Effect>
+			<Effect type="TechStatus" status="active">GuardMusketeers</Effect>
+			<Effect type="TechStatus" status="active">GuardCossacks</Effect>
+			<Effect type="TechStatus" status="active">GuardHalberdiers</Effect>
+			<Effect type="TechStatus" status="active">RGPavlovGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">RGTartarLoyalists</Effect>
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeRussian</tech>
+			<Effect type="TechStatus" status="active">ImperialTartarLoyalist</Effect>
+			<Effect type="TechStatus" status="active">ImperialCossack</Effect>
+			<Effect type="TechStatus" status="active">ImperialHalberdiers</Effect>
+			<Effect type="TechStatus" status="active">ImperialPavlovs</Effect>
+			<Effect type="TechStatus" status="active">ImperialStrelets</Effect>
+			<Effect type="TechStatus" status="active">ImperialOprichniks</Effect>
+			<Effect type="TechStatus" status="active">ImperialMusketeers</Effect>
+			<Effect type="TechStatus" status="active">ImperialCulverin</Effect>
+			<Effect type="TechStatus" status="active">ImperialCannon</Effect>
+			<Effect type="TechStatus" status="active">ImperialHowitzer</Effect>
+			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
+			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
+			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
+			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>
+
 		</agetech>
 		<postindustrialtech>PostIndustrialRussian</postindustrialtech>
 		<postimperialtech>PostImperialRussian</postimperialtech>
@@ -482,14 +660,41 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeGerman</tech>
+			<Effect type="TechStatus" status="active">VeteranSkirmishersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranUhlans</Effect>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranCrossbowmen</Effect>
+			<Effect type="TechStatus" status="active">VeteranDopplesoldners</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeGerman</tech>
+			<Effect type="TechStatus" status="active">VeteranSkirmishersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranUhlans</Effect>
+			<Effect type="TechStatus" status="active">VeteranPikemen</Effect>
+			<Effect type="TechStatus" status="active">VeteranCrossbowmen</Effect>
+			<Effect type="TechStatus" status="active">VeteranDopplesoldners</Effect>
+			<Effect type="TechStatus" status="active">GuardDopplesoldners</Effect>
+			<Effect type="TechStatus" status="active">GuardWarWagons</Effect>
+			<Effect type="TechStatus" status="active">RGCzapkaUhlans</Effect>
+			<Effect type="TechStatus" status="active">RGPrussianNeedleGun</Effect>
+
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeGerman</tech>
+			<Effect type="TechStatus" status="active">ImperialWarWagons</Effect>
+			<Effect type="TechStatus" status="active">ImperialCzapkaUhlans</Effect>
+			<Effect type="TechStatus" status="active">ImperialNeedleGun</Effect>
+			<Effect type="TechStatus" status="active">ImperialDopplesoldner</Effect>
+			<Effect type="TechStatus" status="active">ImperialCulverin</Effect>
+			<Effect type="TechStatus" status="active">ImperialCannon</Effect>
+			<Effect type="TechStatus" status="active">ImperialHowitzer</Effect>
+			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
+			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
+			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
+			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>
+
 		</agetech>
 		<postindustrialtech>PostIndustrialGerman</postindustrialtech>
 		<postimperialtech>PostImperialGerman</postimperialtech>
@@ -549,14 +754,42 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeOttoman</tech>
+			<Effect type="TechStatus" status="active">VeteranCavalryArchersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranAbusGuns</Effect>
+			<Effect type="TechStatus" status="active">VeteranJanissaries</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranGrenadiers</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeOttoman</tech>
+			<Effect type="TechStatus" status="active">VeteranCavalryArchersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranAbusGuns</Effect>
+			<Effect type="TechStatus" status="active">VeteranJanissaries</Effect>
+			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
+			<Effect type="TechStatus" status="active">VeteranGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">RGBaratcuCorps</Effect>
+			<Effect type="TechStatus" status="active">GuardAbusGuns</Effect>
+			<Effect type="TechStatus" status="active">GuardCavalryArchers</Effect>
+			<Effect type="TechStatus" status="active">GuardJanissaries</Effect>
+			<Effect type="TechStatus" status="active">RGGardener</Effect>
+
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeOttoman</tech>
+			<Effect type="TechStatus" status="active">ImperialAbusGun</Effect>
+			<Effect type="TechStatus" status="active">ImperialCavalryArchers</Effect>
+			<Effect type="TechStatus" status="active">ImperialJanissaries</Effect>
+			<Effect type="TechStatus" status="active">ImperialGardener</Effect>
+			<Effect type="TechStatus" status="active">ImperialBaratcu</Effect>
+			<Effect type="TechStatus" status="active">ImperialCulverin</Effect>
+			<Effect type="TechStatus" status="active">ImperialBombard</Effect>
+			<Effect type="TechStatus" status="active">ImperialHowitzer</Effect>
+			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
+			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
+			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
+
 		</agetech>
 		<postindustrialtech>PostIndustrialOttoman</postindustrialtech>
 		<postimperialtech>PostImperialOttoman</postimperialtech>
@@ -1033,14 +1266,36 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeXPIroquois</tech>
+			<Effect type="TechStatus" status="active">EliteTomahawks</Effect>
+			<Effect type="TechStatus" status="active">EliteMusketWarriorShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteMusketRiderShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteHorsemen</Effect>
+			<Effect type="TechStatus" status="active">EliteAennas</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeXPIroquois</tech>
+			
+			<Effect type="TechStatus" status="active">ChampionAennas</Effect>
+			<Effect type="TechStatus" status="active">ChampionHorsemen</Effect>
+			<Effect type="TechStatus" status="active">ChampionMantlets</Effect>
+			<Effect type="TechStatus" status="active">ChampionMusketRiders</Effect>
+			<Effect type="TechStatus" status="active">ChampionMusketWarriors</Effect>
+			<Effect type="TechStatus" status="active">ChampionRams</Effect>
+			<Effect type="TechStatus" status="active">ChampionTomahawk</Effect>
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeXPIroquois</tech>
+			<Effect type="TechStatus" status="active">ImpLegendaryTomahawks</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryRams</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryMusketWarriors</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryMusketRiders</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryMantlets</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryHorsemen</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryAennas</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryLightCannon</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryNativesNatives</Effect>
 		</agetech>
 		<postindustrialtech>PostIndustrialXPIroquois</postindustrialtech>
 		<postimperialtech>PostImperialXPIroquois</postimperialtech>
@@ -1105,14 +1360,43 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeXPSioux</tech>
+			<Effect type="TechStatus" status="active">EliteWarRifleShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteWarClubs</Effect>
+			<Effect type="TechStatus" status="active">EliteWarBows</Effect>
+			<Effect type="TechStatus" status="active">EliteRifleRiderShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteDogSoldierShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteAxeRiders</Effect>
+			<Effect type="TechStatus" status="active">EliteBowRider</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeXPSioux</tech>
+			
+			<Effect type="TechStatus" status="active">ChampionBowRider</Effect>
+			<Effect type="TechStatus" status="active">ChampionAxeRiders</Effect>
+			<Effect type="TechStatus" status="active">ChampionDogSoldierShadow</Effect>
+			<Effect type="TechStatus" status="active">ChampionRifleRiders</Effect>
+			<Effect type="TechStatus" status="active">ChampionWarBows</Effect>
+			<Effect type="TechStatus" status="active">ChampionWarClubs</Effect>
+			<Effect type="TechStatus" status="active">ChampionWarRifles</Effect>
+			<Effect type="TechStatus" status="active">EliteWarRifleShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteWarClubs</Effect>
+			<Effect type="TechStatus" status="active">EliteWarBows</Effect>
+			<Effect type="TechStatus" status="active">EliteRifleRiderShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteDogSoldierShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteAxeRiders</Effect>
+			<Effect type="TechStatus" status="active">EliteBowRider</Effect>
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeXPSioux</tech>
+			<Effect type="TechStatus" status="active">ImpLegendaryWarRifles</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryWarClubs</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryWarBows</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryRifleRiders</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryAxeRiders</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryBowRider</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryNativesNatives</Effect>
 		</agetech>
 		<postindustrialtech>PostIndustrialXPSioux</postindustrialtech>
 		<postimperialtech>PostImperialXPSioux</postimperialtech>
@@ -1176,14 +1460,39 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>FortressizeXPAztec</tech>
+			<Effect type="TechStatus" status="active">EliteSkullKnightShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteMacehualtins</Effect>
+			<Effect type="TechStatus" status="active">ElitePumaMen</Effect>
+			<Effect type="TechStatus" status="active">EliteCoyotemen</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>IndustrializeXPAztec</tech>
+			
+			Effect type ='Data' amount ='0.00' subtype ='EnableTradeRouteLOS' relativity ='Absolute'>
+			
+			<Effect type="TechStatus" status="active">EliteSkullKnightShadow</Effect>
+			<Effect type="TechStatus" status="active">EliteMacehualtins</Effect>
+			<Effect type="TechStatus" status="active">ElitePumaMen</Effect>
+			<Effect type="TechStatus" status="active">EliteCoyotemen</Effect>
+			<Effect type="TechStatus" status="active">ChampionArrowKnight</Effect>
+			<Effect type="TechStatus" status="active">ChampionCoyotemen</Effect>
+			<Effect type="TechStatus" status="active">ChampionEagleKnight</Effect>
+			<Effect type="TechStatus" status="active">ChampionJaguarKnight</Effect>
+			<Effect type="TechStatus" status="active">ChampionMacehualtins</Effect>
+			<Effect type="TechStatus" status="active">ChampionPumaMen</Effect>
+			<Effect type="TechStatus" status="active">ChampionSkullKnightShadow</Effect>
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>ImperializeXPAztec</tech>
+			<Effect type="TechStatus" status="active">ImpLegendaryPumaMen</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryMacehualtins</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryJaguarKnights</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryEagleKnights</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryCoyoteMen</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryArrowKnights</Effect>
+			<Effect type="TechStatus" status="active">ImpLegendaryNativesNatives</Effect>
 		</agetech>
 		<postindustrialtech>PostIndustrialXPAztec</postindustrialtech>
 		<postimperialtech>PostImperialXPAztec</postimperialtech>
@@ -1313,14 +1622,37 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>YPFortressizeJapanese</tech>
+			<Effect type="TechStatus" status="active">ypDisciplinedYabusameShadow</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedYumi</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedSamurai</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedAshigaru</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedNaginataRider</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>YPIndustrializeJapanese</tech>
+			<Effect type="TechStatus" status="active">ypDisciplinedYabusameShadow</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedYumi</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedSamurai</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedAshigaru</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedNaginataRider</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredYabusame</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredNaginataRider</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredAshigaru</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredSamurai</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredYumi</Effect>
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>YPImperializeJapanese</tech>
+			<Effect type="TechStatus" status="active">YPExaltedTekkousen</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedSamurai</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedAshigaru</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedYumi</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedNaginataRider</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedYabusame</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedFlamingArrow</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedMorutaru</Effect>
 		</agetech>
 		<postindustrialtech>ypPostIndustrialJapanese</postindustrialtech>
 		<postimperialtech>ypPostImperialJapanese</postimperialtech>
@@ -1701,14 +2033,44 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>YPFortressizeChinese</tech>
+			<Effect type="TechStatus" status="active">ypDisciplinedArquebusierShadow</Effect>
+			<Effect type="TechStatus" status="active">ypDisciplinedIronFlailShadow</Effect>
+			<Effect type="TechStatus" status="active">ypDisciplinedMeteorHammerShadow</Effect>
+			<Effect type="TechStatus" status="active">ypDisciplinedChangdaoShadow</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedFlameThrower</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedChuKoNu</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedSteppeRider</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedQiangPikeman</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedKeshik</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>YPIndustrializeChinese</tech>
+			<Effect type="TechStatus" status="active">YPHonoredHandMortar</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredFlameThrower</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredMeteorHammer</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredIronFlail</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredChangdao</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredArquebusier</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredKeshik</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredQiangPikeman</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredSteppeRider</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredChuKoNu</Effect>
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>YPImperializeChinese</tech>
+			<Effect type="TechStatus" status="active">YPExaltedFlameThrower</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedHandMortar</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedChuKoNu</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedQiangPikeman</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedChangdao</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedArquebusier</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedSteppeRider</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedKeshik</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedIronFlail</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedMeteorHammer</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedFuchuan</Effect>
 		</agetech>
 		<postindustrialtech>ypPostIndustrialChinese</postindustrialtech>
 		<postimperialtech>ypPostImperialChinese</postimperialtech>
@@ -2804,14 +3166,48 @@
 		<agetech>
 			<age>Age2</age>
 			<tech>YPFortressizeIndians</tech>
+			<Effect type="TechStatus" status="active">ypDisciplinedMahoutShadow</Effect>
+			<Effect type="TechStatus" status="active">ypDisciplinedHowdahShadow</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedFlailElephant</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedRajput</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedSepoy</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedGurkha</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedCamel</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedCamelGun</Effect>
 		</agetech>
 		<agetech>
 			<age>Age3</age>
 			<tech>YPIndustrializeIndians</tech>
+			<Effect type="TechStatus" status="active">ypDisciplinedMahoutShadow</Effect>
+			<Effect type="TechStatus" status="active">ypDisciplinedHowdahShadow</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedFlailElephant</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedRajput</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedSepoy</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedGurkha</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedCamel</Effect>
+			<Effect type="TechStatus" status="active">YPDisciplinedCamelGun</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredMahout</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredHowdah</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredCamelGun</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredCamel</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredGurkha</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredSepoy</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredRajput</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredSiegeElephant</Effect>
+			<Effect type="TechStatus" status="active">YPHonoredFlailElephant</Effect>
 		</agetech>
 		<agetech>
 			<age>Age4</age>
 			<tech>YPImperializeIndians</tech>
+			<Effect type="TechStatus" status="active">YPExaltedFlailElephant</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedMahout</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedSiegeElephant</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedGurkha</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedRajput</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedSepoy</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedCamel</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedCamelGun</Effect>
+			<Effect type="TechStatus" status="active">YPExaltedHowdah</Effect>
 		</agetech>
 		<postindustrialtech>ypPostIndustrialIndian</postindustrialtech>
 		<postimperialtech>ypPostImperialIndian</postimperialtech>
