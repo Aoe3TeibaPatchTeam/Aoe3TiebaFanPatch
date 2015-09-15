@@ -15422,7 +15422,7 @@
 				<Target type ='ProtoUnit'>AbstractConsulateUnitColonial</Target></Effect>
 				
 				
-				<Effect type="TechStatus" status="active">VeteranSkirmishersShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranSkirmishersShadow</Effect>
 			<Effect type="TechStatus" status="active">VeteranCrossbowmen</Effect>
 			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
 			<Effect type="TechStatus" status="active">VeteranRodeleros</Effect>
