@@ -8854,9 +8854,9 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
 			<Effect type ='SetName' proto ='Culverin' culture ='none' newName ='42390'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Culverin</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Culverin</Target></Effect>
 		</Effects>
 	</Tech>
@@ -8874,9 +8874,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Falconet</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Falconet</Target></Effect>
 			<Effect type ='SetName' proto ='Falconet' culture ='none' newName ='29368'></Effect>
 		</Effects>
@@ -8895,9 +8895,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Mortar</Target></Effect>
-			<Effect type ='Data' action ='CannonAttack' amount ='1.25' subtype ='Damage' relativity ='BasePercent'>
+			<Effect type ='Data' action ='CannonAttack' amount ='1.30' subtype ='Damage' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Mortar</Target></Effect>
 			<Effect type ='SetName' proto ='Mortar' culture ='none' newName ='24165'></Effect>
 		</Effects>
@@ -11974,6 +11974,20 @@
 			<Effect type="TechStatus" status="active">YPHonoredRajput</Effect>
 			<Effect type="TechStatus" status="active">YPHonoredSiegeElephant</Effect>
 			<Effect type="TechStatus" status="active">YPHonoredFlailElephant</Effect>
+			
+			<Effect type="TechStatus" status="active">Rabauld</Effect>
+			
+			<Effect type="TechStatus" status="active">GrapeShot</Effect>
+			
+			<Effect type="TechStatus" status="active">Howitzer</Effect>
+
+			<Effect type="TechStatus" status="active">HeavyHorseArtillery</Effect>
+
+			<Effect type="TechStatus" status="active">FieldCannon</Effect>
+
+			<Effect type="TechStatus" status="active">FieldGun</Effect>
+
+
 
 
 				
@@ -13680,9 +13694,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>OrganGun</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>OrganGun</Target></Effect>
 			<Effect type ='SetName' proto ='OrganGun' culture ='none' newName ='31288'></Effect>
 		</Effects>
@@ -16439,7 +16453,7 @@
 		<RolloverTextID>35297</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='0.65' subtype ='Cost' resource ='Wood' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.40' subtype ='Cost' resource ='Wood' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Manor</Target></Effect>
 			<Effect type ='TextOutput'>41819</Effect>
 		</Effects>
@@ -18144,7 +18158,7 @@
 				<Target type ='ProtoUnit'>Crossbowman</Target></Effect>
 			<Effect type ='Data' amount ='1.15' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Skirmisher</Target></Effect>
-			<Effect type ='Data' amount ='1.20' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.15' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Musketeer</Target></Effect>
 			<Effect type ='TextOutput'>41894</Effect>
 		</Effects>
@@ -18839,7 +18853,7 @@
 		<Icon>units\cavalry\cossack\cossack_icon</Icon>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='6.00' subtype ='FreeHomeCityUnit' unittype ='Cossack' relativity ='Absolute'>
+			<Effect type ='Data' amount ='7.00' subtype ='FreeHomeCityUnit' unittype ='Cossack' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect></Effects>
 	</Tech>
 	<Tech name ='HCShipCossacks3' type ='Normal'>
@@ -19199,26 +19213,26 @@
 		<Flag>HomeCity</Flag>
 		<Flag>TeamTech</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='0.10' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.00010' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>House</Target></Effect>
 			<Effect type ='TextOutput'>35991</Effect>
-			<Effect type ='Data' amount ='0.10' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.00010' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Manor</Target></Effect>
-			<Effect type ='Data' amount ='0.10' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.00010' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>HouseMed</Target></Effect>
-			<Effect type ='Data' amount ='0.10' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.00010' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>HouseEast</Target></Effect>
-			<Effect type ='Data' amount ='0.10' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.00010' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>HouseAztec</Target></Effect>
-			<Effect type ='Data' amount ='0.10' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.00010' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Longhouse</Target></Effect>
-			<Effect type ='Data' amount ='0.10' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.00010' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypHouseIndian</Target></Effect>
-			<Effect type ='Data' amount ='0.10' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.00010' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypVillage</Target></Effect>
-			<Effect type ='Data' amount ='0.10' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.00010' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypShrineJapanese</Target></Effect>
-			<Effect type ='Data' amount ='0.50' subtype ='BuildPoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.30' subtype ='BuildPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Teepee</Target></Effect>
 		</Effects>
 	</Tech>
@@ -24600,9 +24614,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>xpLightCannon</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>xpLightCannon</Target></Effect>
 			<Effect type ='SetName' proto ='xpLightCannon' culture ='none' newName ='43564'></Effect>
 		</Effects>
@@ -26927,12 +26941,16 @@
 		<Flag>TeamTech</Flag>
 		<Effects>
 			<Effect type ='Data' amount ='4.00' subtype ='LOS' relativity ='Absolute'>
-				<Target type ='ProtoUnit'>AbstractInfantry</Target>
+				<Target type ='ProtoUnit'>AbstractInfantry</Target></Effect>
 			<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
-				<Target type ='ProtoUnit'>AbstractInfantry</Target>
-		</Effect>
-			<Effect type ='TextOutput'>48815</Effect>
-		</Effects>
+				<Target type ='ProtoUnit'>AbstractInfantry</Target></Effect>
+				
+				
+
+<Effect type ='TextOutput'>48815</Effect>
+	
+	</Effects>
+	
 	</Tech>
 	<Tech name ='HCXPShipMantlets3' type ='Normal'>
 		<DBID>2896</DBID>
@@ -33592,7 +33610,7 @@
 		<RolloverTextID>46861</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='2.00' subtype ='DamageBonus' unittype ='AbstractVillager' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='4.00' subtype ='DamageBonus' unittype ='AbstractVillager' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>AbstractLightCavalry</Target></Effect>
 			<Effect type ='TextOutput'>46864</Effect>
 		</Effects>
@@ -34661,7 +34679,7 @@
 		<RolloverTextID>47005</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='ResourceTrickleRate' resource ='Gold' relativity ='Absolute'>
+			<Effect type ='Data' amount ='1.5' subtype ='ResourceTrickleRate' resource ='Gold' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
 			<Effect type ='TextOutput'>60890</Effect>
 		</Effects>
@@ -34676,7 +34694,7 @@
 		<RolloverTextID>47009</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='1.50' subtype ='ResourceTrickleRate' resource ='Food' relativity ='Absolute'>
+			<Effect type ='Data' amount ='1.75' subtype ='ResourceTrickleRate' resource ='Food' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
 			<Effect type ='TextOutput'>47012</Effect>
 		</Effects>
@@ -35580,10 +35598,10 @@
 		<RolloverTextID>47222</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='0.65' subtype ='ResourceTrickleRate' resource ='Wood' relativity ='Absolute'>
+			<Effect type ='Data' amount ='0.83' subtype ='ResourceTrickleRate' resource ='Wood' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
 			<Effect type ='TextOutput'>69793</Effect>
-			<Effect type ='Data' amount ='0.65' subtype ='ResourceTrickleRate' resource ='Gold' relativity ='Absolute'>
+			<Effect type ='Data' amount ='0.83' subtype ='ResourceTrickleRate' resource ='Gold' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
 		</Effects>
 	</Tech>
@@ -35962,9 +35980,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>xpHorseArtillery</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>xpHorseArtillery</Target></Effect>
 			<Effect type ='SetName' proto ='xpHorseArtillery' culture ='none' newName ='48900'></Effect>
 		</Effects>
@@ -37238,7 +37256,7 @@
 		<Flag>HomeCity</Flag>
 		<Flag>YPIgnorePopCostBuildLimitFreeHCUnitIfTechObtainable</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='2.35' subtype ='ResourceTrickleRate' resource ='Wood' relativity ='Absolute'>
+			<Effect type ='Data' amount ='2.58' subtype ='ResourceTrickleRate' resource ='Wood' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
 			<Effect type ='TextOutput'>60944</Effect>
 			<Effect tech ='ypFreeIndianVillager' type ='Data' amount ='1.00' subtype ='FreeHomeCityUnitIfTechObtainable' unittype ='ypSettlerIndian' relativity ='Absolute'>
