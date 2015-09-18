@@ -868,6 +868,13 @@
 		<Status>UNOBTAINABLE</Status>
 		<Flag>Shadow</Flag>
 		<Effects>
+		
+		
+		
+			<Effect type ='Data' amount ='1.00' subtype ='BuildLimit' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>TownCenter</Target></Effect>
+
+
 			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>Explorer</Target></Effect>
 			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -11986,6 +11993,10 @@
 			<Effect type="TechStatus" status="active">FieldCannon</Effect>
 
 			<Effect type="TechStatus" status="active">FieldGun</Effect>
+			
+			
+			
+
 
 
 
@@ -12086,9 +12097,34 @@
 				<Target type ='ProtoUnit'>ypWarJunk</Target></Effect>
 			<Effect type ='Data' action ='BroadsideAttack' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>ypWarJunk</Target></Effect>
-			
-			
 				
+				
+				<Effect type="TechStatus" status="active">WarriorSocietyCaribs</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyCherokee</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyComanche</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyCree</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyInca</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyMaya</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyNootka</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietySeminoles</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyTupi</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyHuron</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyZapotec</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyKlamath</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyApache</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyNavajo</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyCheyenne</Effect>
+				<Effect type="TechStatus" status="active">WarriorSocietyMapuche</Effect>
+				<Effect type="TechStatus" status="active">ypNatDisciplinedBhakti</Effect>
+				<Effect type="TechStatus" status="active">ypNatDisciplinedSufi</Effect>
+				<Effect type="TechStatus" status="active">ypNatDisciplinedJesuit</Effect>
+				<Effect type="TechStatus" status="active">ypNatDisciplinedShaolin</Effect>
+				<Effect type="TechStatus" status="active">ypNatDisciplinedZen</Effect>
+				<Effect type="TechStatus" status="active">ypNatDisciplinedUdasi</Effect>
+				
+				<Effect type="TechStatus" status="active">VeteranSpahiandbigguys</Effect>
+				
+
 				
 		</Effects>
 	</Tech>
@@ -12327,8 +12363,6 @@
 		<Icon>ui\post_game\time_line_age_2</Icon>
 		<Effects>
 			<Effect type ='TechStatus' status ='active'>Colonialize</Effect>
-			<Effect type ='Data' amount ='2.00' subtype ='BuildLimit' relativity ='Absolute'>
-				<Target type ='ProtoUnit'>TownCenter</Target></Effect>
 			<Effect type ='Data' amount ='0.80' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Cacadore</Target></Effect>
 			<Effect type ='Data' amount ='0.80' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
@@ -15087,28 +15121,28 @@
 		<RolloverTextID>33492</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='67.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+			<Effect type ='Data' amount ='25.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
 				<Target type ='Tech'>ChurchMilletSystem</Target></Effect>
-			<Effect type ='Data' amount ='400.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+			<Effect type ='Data' amount ='150.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
 				<Target type ='Tech'>ChurchAbbassidMarket</Target></Effect>
 			<Effect type ='TextOutput'>41876</Effect>
-			<Effect type ='Data' amount ='268.00' subtype ='Cost' resource ='Gold' relativity ='Assign'>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Gold' relativity ='Assign'>
 				<Target type ='Tech'>ChurchTanzimat</Target></Effect>
-			<Effect type ='Data' amount ='268.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
 				<Target type ='Tech'>ChurchTanzimat</Target></Effect>
-			<Effect type ='Data' amount ='268.00' subtype ='Cost' resource ='Food' relativity ='Assign'>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Food' relativity ='Assign'>
 				<Target type ='Tech'>ChurchTanzimat</Target></Effect>
-			<Effect type ='Data' amount ='268.00' subtype ='Cost' resource ='Gold' relativity ='Assign'>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Gold' relativity ='Assign'>
 				<Target type ='Tech'>ChurchTopkapi</Target></Effect>
-			<Effect type ='Data' amount ='268.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
 				<Target type ='Tech'>ChurchTopkapi</Target></Effect>
-			<Effect type ='Data' amount ='134.00' subtype ='Cost' resource ='Gold' relativity ='Assign'>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Gold' relativity ='Assign'>
 				<Target type ='Tech'>ChurchGalataTowerDistrict</Target></Effect>
-			<Effect type ='Data' amount ='172.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+			<Effect type ='Data' amount ='260.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
 				<Target type ='Tech'>ChurchKopruluViziers</Target></Effect>
-			<Effect type ='Data' amount ='1000.00' subtype ='Cost' resource ='Food' relativity ='Assign'>
+			<Effect type ='Data' amount ='750.00' subtype ='Cost' resource ='Food' relativity ='Assign'>
 				<Target type ='Tech'>ChurchTopcuCorps</Target></Effect>
-			<Effect type ='Data' amount ='670.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+			<Effect type ='Data' amount ='500.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
 				<Target type ='Tech'>ChurchTufanciCorps</Target></Effect>
 		</Effects>
 	</Tech>
@@ -52892,4 +52926,70 @@
 				<Target type ='Player'></Target></Effect>
 		</Effects>
 	</Tech>
+	
+	<Tech name ='VeteranSpahiandbigguys' type ='Normal'>
+		<DBID>5296</DBID>
+		<DisplayNameID>28069</DisplayNameID>
+		<Cost resourcetype ='Wood'>600.0000</Cost>
+		<Cost resourcetype ='Gold'>600.0000</Cost>
+		<ResearchPoints>30.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\techs\guard_archer_infantry\guard_archer_infantry</Icon>
+		<RolloverTextID>23262</RolloverTextID>
+		<Flag>CountsTowardMilitaryScore</Flag>
+		<Flag>UpgradeTech</Flag>
+		<Flag>ForceLastInLine</Flag>
+		<Prereqs>
+			
+		</Prereqs>
+		<Effects>
+			<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Spahi</Target></Effect>
+				
+			<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Spahi</Target></Effect>
+				
+			<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Lancer</Target></Effect>
+				
+			<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Lancer</Target></Effect>
+				
+			<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>WarWagon</Target></Effect>
+				
+			<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>WarWagon</Target></Effect>
+				
+			<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Cuirassier</Target></Effect>
+				
+			<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Cuirassier</Target></Effect>
+				
+			<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Halberdier</Target></Effect>
+				
+			<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Halberdier</Target></Effect>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+		</Effects>
+	</Tech>
+	
+	
+	
+	
+	
+	
+	
+	
 </TechTree>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<tactics>
+	<action>
+		<name stringid="69180">SpawnWagon</name>
+		<type>Maintain</type>
+		<rate type="SettlerWagon">1.0 </rate>
+		<active>0</active>
+		<persistent>1</persistent>
+		<singleuse>1</singleuse>
+	</action>
+	<tactic>
+		Normal
+		<action>SpawnWagon</action>
+	</tactic>
+</tactics>
