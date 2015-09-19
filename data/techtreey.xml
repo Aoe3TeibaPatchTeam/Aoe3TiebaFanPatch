@@ -49046,7 +49046,7 @@
 			<Effect type ='Data' amount ='10.00' subtype ='PlayerSpecificTrainLimitPerAction' relativity ='Assign'>
 				<Target type ='Player'></Target></Effect>
 			<Effect type ='Data' amount ='0.75' subtype ='TrainPoints' relativity ='BasePercent'>
-				<Target type ='ProtoUnit'>AbstractInfantry</Target></Effect></Effects>
+				<Target type ='ProtoUnit'>AbstractInfantry</Target></Effect>
 			</Effects>
 	</Tech>
 	<Tech name ='ypConsulateJapaneseKoujou' type ='Normal'>
@@ -49066,7 +49066,8 @@
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
 		<Effects>
 			<Effect type ='Data' action ='SpawnSamurai' amount ='1.00' subtype ='ActionAdd' unittype ='ypCastle' relativity ='Absolute'>
-				<Target type ='Player'></Target></Effect></Effects>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
 	</Tech>
 	<Tech name ='ypConsulateJapaneseMeijiRestoration' type ='Normal'>
 		<DBID>4942</DBID>
