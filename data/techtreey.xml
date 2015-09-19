@@ -16449,8 +16449,6 @@
 				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
 			<Effect type ='Data' amount ='0.77' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
-			<Effect type ='Data' amount ='0.77' subtype ='Hitpoints' relativity ='BasePercent'>
-				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
 			<Effect type ='Data' amount ='2.00' subtype ='LOS' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
 			<Effect type ='TextOutput'>41862</Effect>
