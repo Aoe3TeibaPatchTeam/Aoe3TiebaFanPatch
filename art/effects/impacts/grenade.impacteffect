@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<impacteffect metercount="4" meterlength="1.0">
+	<wood>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>CannonImpactWood</soundset>
+		<soundset>Grenade</soundset>
+	</wood>
+	<stone>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>CannonImpactStone</soundset>
+		<soundset>Grenade</soundset>
+	</stone>
+	<flesh>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>Grenade</soundset>
+	</flesh>
+	<dirt>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>Grenade</soundset>
+	</dirt>
+	<snow>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>Grenade</soundset>
+	</snow>
+	<animal>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>CannonImpactFlesh</soundset>
+		<soundset>Grenade</soundset>
+	</animal>
+	<terraingrass>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>Grenade</soundset>
+	</terraingrass>
+	<terrainwater>
+		<particleset>cannonball_impact_water</particleset>
+		<soundset>Grenade</soundset>
+	</terrainwater>
+	<terraindirt>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>Grenade</soundset>
+	</terraindirt>
+	<terrainstone>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>CannonImpactStone</soundset>
+		<soundset>Grenade</soundset>
+	</terrainstone>
+	<terrainsnow>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>Grenade</soundset>
+	</terrainsnow>
+	<terrainsand>
+		<particleset>grenade_impact_generic</particleset>
+		<soundset>Grenade</soundset>
+	</terrainsand>
+</impacteffect>
