@@ -191,7 +191,7 @@
 		<rangeindicatorprotoid radius="10.0" indicatorcount="8" speed="0.6">PowerRanger</rangeindicatorprotoid>
 		<unitaction>Heal</unitaction>
 		<soundset type="StartSound" listenertype="Caster">PowerGoodFortune</soundset>
-		<hitpointstoheal>1000</hitpointstoheal>
+		<hitpointstoheal>100000</hitpointstoheal>
 		<rate>1000</rate>
 		<allowduringnorush>1</allowduringnorush>
 	</power>

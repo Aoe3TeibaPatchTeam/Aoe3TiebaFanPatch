@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<particlesetdef>
+	<particleset name="cannonmuzzlefxsmall">
+		<particle filename="units\artillery\cannon\cannon_small_smoke_puff_ring" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\cannon_small_barrel_explosion" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\cannon_small_fuse_fire" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\cannon_small_smoking_barrel" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\cannon_small_blast" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\cannon_small_flash" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\cannon_small_sparks" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\cannon_small_smoke_puff_a" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\cannon_small_smoke_puff_b" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\cannon_coneblast" bone="bone_launchpoint"/>
+	</particleset>
+	<particleset name="greatbombardmuzzlefx">
+		<particle filename="units\artillery\cannon\cannon_small_smoke_puff_ring" bone="bone_launchpoint" xoff="0.0000" yoff="0.0000" zoff="0.50000"/>
+		<particle filename="units\artillery\cannon\cannon_small_barrel_explosion" bone="bone_launchpoint" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\cannon_small_fuse_fire" bone="bone_launchpoint" xoff="0.0000" yoff="0.0000" zoff="0.0000"/>
+		<particle filename="units\artillery\cannon\cannon_small_blast" bone="bone_launchpoint" xoff="0.0000" yoff="0.0000" zoff="0.5000"/>
+		<particle filename="units\artillery\cannon\cannon_small_sparks" bone="bone_launchpoint" xoff="0.0000" yoff="0.0000" zoff="1.0000"/>
+		<particle filename="units\artillery\cannon\cannon_small_smoke_puff_a" bone="bone_launchpoint" xoff="0.0000" yoff="0.0000" zoff="0.5000"/>
+		<particle filename="units\artillery\cannon\cannon_small_smoke_puff_b" bone="bone_launchpoint" xoff="0.0000" yoff="0.0000" zoff="0.5000"/>
+		<particle filename="units\artillery\cannon\battlefield_smoke" timeoff="0.2500"/>
+		<particle filename="units\artillery\cannon\cannon_large_smoking_barrel" bone="bone_launchpoint" xoff="0.0000" yoff="0.00" zoff="0.2000"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzlel01">
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_ring" bone="bone_muzzlel01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_barrel_explosion" bone="bone_muzzlel01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_fuse_fire" bone="bone_muzzlel01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_sparks" bone="bone_muzzlel01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_a" bone="bone_muzzlel01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_b" bone="bone_muzzlel01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_large_smoking_barrel" bone="bone_muzzlel01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzlel02">
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_ring" bone="bone_muzzlel02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_barrel_explosion" bone="bone_muzzlel02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_fuse_fire" bone="bone_muzzlel02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_sparks" bone="bone_muzzlel02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_a" bone="bone_muzzlel02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_b" bone="bone_muzzlel02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_large_smoking_barrel" bone="bone_muzzlel02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzlel03">
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_ring" bone="bone_muzzlel03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_barrel_explosion" bone="bone_muzzlel03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_fuse_fire" bone="bone_muzzlel03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_sparks" bone="bone_muzzlel03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_a" bone="bone_muzzlel03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_b" bone="bone_muzzlel03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_large_smoking_barrel" bone="bone_muzzlel03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzlel04">
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_ring" bone="bone_muzzlel04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_barrel_explosion" bone="bone_muzzlel04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_fuse_fire" bone="bone_muzzlel04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_sparks" bone="bone_muzzlel04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_a" bone="bone_muzzlel04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_b" bone="bone_muzzlel04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_large_smoking_barrel" bone="bone_muzzlel04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzlel05">
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_ring" bone="bone_muzzlel05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_barrel_explosion" bone="bone_muzzlel05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_fuse_fire" bone="bone_muzzlel05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_sparks" bone="bone_muzzlel05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_a" bone="bone_muzzlel05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_b" bone="bone_muzzlel05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_large_smoking_barrel" bone="bone_muzzlel05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzlel06">
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_ring" bone="bone_muzzlel06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_barrel_explosion" bone="bone_muzzlel06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_fuse_fire" bone="bone_muzzlel06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_sparks" bone="bone_muzzlel06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_a" bone="bone_muzzlel06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_small_smoke_puff_b" bone="bone_muzzlel06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannon_large_smoking_barrel" bone="bone_muzzlel06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzler01">
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_ring" bone="bone_muzzler01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_barrel_explosion" bone="bone_muzzler01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_fuse_fire" bone="bone_muzzler01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_sparks" bone="bone_muzzler01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_a" bone="bone_muzzler01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_b" bone="bone_muzzler01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_large_smoking_barrel" bone="bone_muzzler01" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzler02">
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_ring" bone="bone_muzzler02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_barrel_explosion" bone="bone_muzzler02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_fuse_fire" bone="bone_muzzler02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_sparks" bone="bone_muzzler02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_a" bone="bone_muzzler02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_b" bone="bone_muzzler02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_large_smoking_barrel" bone="bone_muzzler02" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzler03">
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_ring" bone="bone_muzzler03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_barrel_explosion" bone="bone_muzzler03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_fuse_fire" bone="bone_muzzler03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_sparks" bone="bone_muzzler03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_a" bone="bone_muzzler03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_b" bone="bone_muzzler03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_large_smoking_barrel" bone="bone_muzzler03" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzler04">
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_ring" bone="bone_muzzler04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_barrel_explosion" bone="bone_muzzler04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_fuse_fire" bone="bone_muzzler04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_sparks" bone="bone_muzzler04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_a" bone="bone_muzzler04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_b" bone="bone_muzzler04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_large_smoking_barrel" bone="bone_muzzler04" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzler05">
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_ring" bone="bone_muzzler05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_barrel_explosion" bone="bone_muzzler05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_fuse_fire" bone="bone_muzzler05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_sparks" bone="bone_muzzler05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_a" bone="bone_muzzler05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_b" bone="bone_muzzler05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_large_smoking_barrel" bone="bone_muzzler05" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="igcgalleonmuzzler06">
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_ring" bone="bone_muzzler06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_barrel_explosion" bone="bone_muzzler06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_fuse_fire" bone="bone_muzzler06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_sparks" bone="bone_muzzler06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_a" bone="bone_muzzler06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_small_smoke_puff_b" bone="bone_muzzler06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\cannon\galleycannonr_large_smoking_barrel" bone="bone_muzzler06" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="OrganGunMuzzle01">
+		<particle filename="units\artillery\organ_gun\organ_muzzle_flame" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\organ_gun\organ_muzzle_glow" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\organ_gun\organ_muzzle_smoke" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="units\artillery\organ_gun\organ_muzzle_sparks" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+	</particleset>
+	<particleset name="fixedgunmuzzlefx">
+		<particle filename="buildings\spc\fixed_gun\FG_streaks" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.0000"/>
+		<particle filename="buildings\spc\fixed_gun\FG_sparks" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.0000"/>
+		<particle filename="buildings\spc\fixed_gun\FG_smoke_puffa" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.00"/>
+		<particle filename="buildings\spc\fixed_gun\FG_smoke_puff_ring" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.0000"/>
+		<particle filename="buildings\spc\fixed_gun\FG_smoke_puff_b" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.000"/>
+		<particle filename="buildings\spc\fixed_gun\FG_muzzleflash" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.0000"/>
+		<particle filename="buildings\spc\fixed_gun\FG_muzzleflashsmoke" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.0000"/>
+		<particle filename="buildings\spc\fixed_gun\FGbattlefield_smoke" bone="bone_muzzle" xoff="0.0000" yoff="0.0000" zoff="0.0000"/>
+	</particleset>
+	<particleset name="mortarmuzzlefx">
+		<particle filename="units\artillery\cannon\mortar_small_sparks"/>
+		<particle filename="units\artillery\cannon\mortar_flame"/>
+		<particle filename="units\artillery\cannon\mortar_smokeRing"/>
+	</particleset>
+	<particleset name="monitormuzzlefx">
+		<particle filename="units\artillery\cannon\monitor_smoke_ring" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_sparks" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_smoke_puff_a" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_smoke_puff_b" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_barrel_explosion" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_deckSmoke" bone="bone_launchpoint"/>
+	</particleset>
+	<particleset name="monitorbombardmuzzlefx">
+		<particle filename="units\artillery\cannon\monitor_bombStreak" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_shockwave_a" bone="bone_main"/>
+		<particle filename="units\artillery\cannon\monitor_smoke_ring" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_sparks" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_smoke_puff_a" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_smoke_puff_b" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_barrel_explosionBig" bone="bone_launchpoint"/>
+		<particle filename="units\artillery\cannon\monitor_deckSmoke" bone="bone_launchpoint"/>
+	</particleset>
+</particlesetdef>

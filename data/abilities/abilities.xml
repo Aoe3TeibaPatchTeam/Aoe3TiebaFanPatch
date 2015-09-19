@@ -427,7 +427,7 @@
 	<ypwctempleofheaven2>
 		<ability>
 			ypPowerGoodFortune
-			<rof>216</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -435,7 +435,7 @@
 	<ypwctempleofheaven3>
 		<ability>
 			ypPowerGoodFortune
-			<rof>216</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -443,7 +443,7 @@
 	<ypwctempleofheaven4>
 		<ability>
 			ypPowerGoodFortune
-			<rof>216</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -451,7 +451,7 @@
 	<ypwctempleofheaven5>
 		<ability>
 			ypPowerGoodFortune
-			<rof>216</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -459,7 +459,7 @@
 	<ypwjgiantbuddha2>
 		<ability>
 			ypPowerInformers
-			<rof>300</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -467,7 +467,7 @@
 	<ypwjgiantbuddha3>
 		<ability>
 			ypPowerInformers
-			<rof>300</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -475,7 +475,7 @@
 	<ypwjgiantbuddha4>
 		<ability>
 			ypPowerInformers
-			<rof>300</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -483,7 +483,7 @@
 	<ypwjgiantbuddha5>
 		<ability>
 			ypPowerInformers
-			<rof>300</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -491,7 +491,7 @@
 	<ypwitajmahal2>
 		<ability>
 			ypPowerCeaseFire
-			<rof>450</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -499,7 +499,7 @@
 	<ypwitajmahal3>
 		<ability>
 			ypPowerCeaseFire
-			<rof>450</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -507,7 +507,7 @@
 	<ypwitajmahal4>
 		<ability>
 			ypPowerCeaseFire
-			<rof>450</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -515,7 +515,7 @@
 	<ypwitajmahal5>
 		<ability>
 			ypPowerCeaseFire
-			<rof>450</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -523,7 +523,7 @@
 	<ypwitowerofvictory2>
 		<ability>
 			ypPowerAttackBlessing
-			<rof>450</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -531,7 +531,7 @@
 	<ypwitowerofvictory3>
 		<ability>
 			ypPowerAttackBlessing
-			<rof>450</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -539,7 +539,7 @@
 	<ypwitowerofvictory4>
 		<ability>
 			ypPowerAttackBlessing
-			<rof>450</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -547,7 +547,7 @@
 	<ypwitowerofvictory5>
 		<ability>
 			ypPowerAttackBlessing
-			<rof>450</rof>
+			<rof>120</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>

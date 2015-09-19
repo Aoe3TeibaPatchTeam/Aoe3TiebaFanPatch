@@ -6,6 +6,7 @@
 		<Status>UNOBTAINABLE</Status>
 		<Flag>Shadow</Flag>
 		<Effects>
+		
 			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>Explorer</Target></Effect>
 			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
@@ -1017,6 +1018,9 @@
 		<Status>UNOBTAINABLE</Status>
 		<Flag>Shadow</Flag>
 		<Effects>
+			<Effect type ='Data' amount ='250.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+			<Target type ='ProtoUnit'>Church</Target></Effect>
+
 			<Effect type ='TechStatus' status ='obtainable'>GuardSpahiShadow</Effect>
 			<Effect type ='TechStatus' status ='obtainable'>ImperialSpahiShadow</Effect>
 			<Effect type ='SetName' proto ='Church' culture ='none' newName ='23779'></Effect>
@@ -3798,6 +3802,9 @@
 		<Status>UNOBTAINABLE</Status>
 		<Flag>Shadow</Flag>
 		<Effects>
+			<Effect type ='Data' amount ='1.00' subtype ='BuildLimit' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>TradingPost</Target></Effect>		
+		
 			<Effect type ='Data' amount ='0.00' subtype ='CopyUnitPortraitAndIcon' unittype ='FarmTravois' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>UPxpIroTravois</Target></Effect>
 			<Effect type ='Data' amount ='0.00' subtype ='CopyUnitPortraitAndIcon' unittype ='WarHutTravois' relativity ='Absolute'>
@@ -4059,6 +4066,10 @@
 		<Status>UNOBTAINABLE</Status>
 		<Flag>Shadow</Flag>
 		<Effects>
+		
+		<Effect type ='Data' amount ='1.00' subtype ='BuildLimit' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>TradingPost</Target></Effect>		
+				
 			<Effect type ='Data' amount ='0.00' subtype ='CopyUnitPortraitAndIcon' unittype ='FarmTravois' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>NoblesHutTravois</Target></Effect>
 			<Effect type ='Data' amount ='0.00' subtype ='CopyUnitPortraitAndIcon' unittype ='WarHutTravois' relativity ='Absolute'>
@@ -4218,6 +4229,11 @@
 		<Status>UNOBTAINABLE</Status>
 		<Flag>Shadow</Flag>
 		<Effects>
+		
+		<Effect type ='Data' amount ='1.00' subtype ='BuildLimit' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>TradingPost</Target></Effect>		
+				
+				
 			<Effect type ='Data' amount ='0.00' subtype ='CopyUnitPortraitAndIcon' unittype ='FarmTravois' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>UPxpSxTravois</Target></Effect>
 			<Effect type ='Data' amount ='0.00' subtype ='CopyUnitPortraitAndIcon' unittype ='WarHutTravois' relativity ='Absolute'>
@@ -9315,14 +9331,14 @@
 			<TechStatus status ='Active'>WarriorSocietyComanche</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHorseArcher</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHorseArcher</Target></Effect>
 			<Effect type ='SetName' proto ='NatHorseArcher' culture ='none' newName ='24041'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHorseArcher</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHorseArcher</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercHorseArcher' culture ='none' newName ='48511'></Effect>
 		</Effects>
@@ -9434,9 +9450,9 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatSharktoothBowman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatSharktoothBowman</Target></Effect>
 			<Effect type ='SetName' proto ='NatSharktoothBowman' culture ='none' newName ='42392'></Effect>
 		</Effects>
@@ -10315,18 +10331,18 @@
 			<TechStatus status ='Active'>WarriorSocietyCaribs</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunWarrior</Target></Effect>
 			<Effect type ='SetName' proto ='NatBlowgunWarrior' culture ='none' newName ='24201'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercBlowgunWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercBlowgunWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunAmbusher</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunAmbusher</Target></Effect>
 			<Effect type ='SetName' proto ='NatBlowgunAmbusher' culture ='none' newName ='200096'></Effect>
 			<Effect type ='SetName' proto ='NatMercBlowgunWarrior' culture ='none' newName ='200094'></Effect>
@@ -10349,14 +10365,14 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatRifleman</Target></Effect>
 			<Effect type ='SetName' proto ='NatRifleman' culture ='none' newName ='24205'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatRifleman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercRifleman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercRifleman</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercRifleman' culture ='none' newName ='48509'></Effect>
 		</Effects>
@@ -10378,14 +10394,14 @@
 			<TechStatus status ='Active'>WarriorSocietyCree</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatTracker</Target></Effect>
 			<Effect type ='SetName' proto ='NatTracker' culture ='none' newName ='24209'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatTracker</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercTracker</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercTracker</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercTracker' culture ='none' newName ='48512'></Effect>
 		</Effects>
@@ -10407,15 +10423,15 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBolasWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBolasWarrior</Target></Effect>
 			<Effect type ='SetName' proto ='NatBolasWarrior' culture ='none' newName ='43068'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHuaminca</Target></Effect>
 			<Effect type ='SetName' proto ='NatHuaminca' culture ='none' newName ='27776'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHuaminca</Target></Effect>
 		</Effects>
 	</Tech>
@@ -10436,14 +10452,14 @@
 			<TechStatus status ='Active'>WarriorSocietyMaya</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHolcanSpearman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHolcanSpearman</Target></Effect>
 			<Effect type ='SetName' proto ='NatHolcanSpearman' culture ='none' newName ='24221'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHolcanSpearman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHolcanSpearman</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercHolcanSpearman' culture ='none' newName ='48514'></Effect>
 		</Effects>
@@ -10489,14 +10505,14 @@
 			<TechStatus status ='Active'>WarriorSocietyTupi</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlackwoodArcher</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlackwoodArcher</Target></Effect>
 			<Effect type ='SetName' proto ='NatBlackwoodArcher' culture ='none' newName ='42393'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercBlackwoodArcher</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercBlackwoodArcher</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercBlackwoodArcher' culture ='none' newName ='48517'></Effect>
 		</Effects>
@@ -11995,12 +12011,29 @@
 			<Effect type="TechStatus" status="active">FieldGun</Effect>
 			
 			
-			
-
-
-
-
-
+			<Effect type="TechStatus" status="active">ChampionCaribs</Effect>
+			<Effect type="TechStatus" status="active">NatCeremonialFeast</Effect>
+			<Effect type="TechStatus" status="active">ChampionCherokee</Effect>
+			<Effect type="TechStatus" status="active">ChampionComanche</Effect>
+			<Effect type="TechStatus" status="active">ChampionCree</Effect>
+			<Effect type="TechStatus" status="active">ChampionInca</Effect>			
+			<Effect type="TechStatus" status="active">ChampionMaya</Effect>
+			<Effect type="TechStatus" status="active">ChampionNootka</Effect>
+			<Effect type="TechStatus" status="active">ChampionSeminoles</Effect>
+			<Effect type="TechStatus" status="active">ChampionTupi</Effect>
+			<Effect type="TechStatus" status="active">ChampionHuron</Effect>
+			<Effect type="TechStatus" status="active">ChampionZapotec</Effect>			
+			<Effect type="TechStatus" status="active">ChampionKlamath</Effect>
+			<Effect type="TechStatus" status="active">ChampionApache</Effect>
+			<Effect type="TechStatus" status="active">ChampionNavajo</Effect>
+			<Effect type="TechStatus" status="active">ChampionCheyenne</Effect>
+			<Effect type="TechStatus" status="active">ChampionMapuche</Effect>
+			<Effect type="TechStatus" status="active">ypNatHonoredBhakti</Effect>			
+			<Effect type="TechStatus" status="active">ypNatHonoredSufi</Effect>
+			<Effect type="TechStatus" status="active">ypNatHonoredJesuit</Effect>
+			<Effect type="TechStatus" status="active">ypNatHonoredShaolin</Effect>
+			<Effect type="TechStatus" status="active">ypNatHonoredZen</Effect>
+			<Effect type="TechStatus" status="active">ypNatHonoredUdasi</Effect>
 				
 				
 				
@@ -12407,8 +12440,6 @@
 		<Flag>Shadow</Flag>
 		<Effects>
 			<Effect type ='TechStatus' status ='active'>Industrialize</Effect>
-			<Effect type ='Data' amount ='1.00' subtype ='BuildLimit' relativity ='Absolute'>
-				<Target type ='ProtoUnit'>TownCenter</Target></Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='IndustrializeOttoman' type ='Normal'>
@@ -13393,7 +13424,6 @@
 			<Effect type="TechStatus" status="active">ImpLegendaryEagleKnights</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryCoyoteMen</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryArrowKnights</Effect>
-			<Effect type="TechStatus" status="active">ImpLegendaryNativesNatives</Effect>
 			
 			<Effect type="TechStatus" status="active">ImpLegendaryWarRifles</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryWarClubs</Effect>
@@ -13401,8 +13431,7 @@
 			<Effect type="TechStatus" status="active">ImpLegendaryRifleRiders</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryAxeRiders</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryBowRider</Effect>
-			<Effect type="TechStatus" status="active">ImpLegendaryNativesNatives</Effect>
-			
+		
 			<Effect type="TechStatus" status="active">ImpLegendaryTomahawks</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryRams</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryMusketWarriors</Effect>
@@ -13411,7 +13440,6 @@
 			<Effect type="TechStatus" status="active">ImpLegendaryHorsemen</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryAennas</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryLightCannon</Effect>
-			<Effect type="TechStatus" status="active">ImpLegendaryNativesNatives</Effect>
 			
 			<Effect type="TechStatus" status="active">ImperialAbusGun</Effect>
 			<Effect type="TechStatus" status="active">ImperialCavalryArchers</Effect>
@@ -13490,7 +13518,6 @@
 			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
 			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
 			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
-			<Effect type="TechStatus" status="active">ImpLegendaryNatives</Effect>
 			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>
 			
 			<Effect type="TechStatus" status="active">ImperialDragoons</Effect>
@@ -13519,7 +13546,6 @@
 			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
 			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
 			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
-			<Effect type="TechStatus" status="active">ImpLegendaryNatives</Effect>
 			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>	
 			
 			
@@ -13788,12 +13814,12 @@
 		<Prereqs>
 			<TechStatus status ='Active'>ChampionCaribs</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.20' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunWarrior</Target></Effect>
 			<Effect type ='SetName' proto ='NatBlowgunWarrior' culture ='none' newName ='34051'></Effect>
-			<Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.20' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercBlowgunWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.20' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunAmbusher</Target></Effect>
 			<Effect type ='SetName' proto ='NatBlowgunAmbusher' culture ='none' newName ='200097'></Effect>
 			<Effect type ='SetName' proto ='NatMercBlowgunWarrior' culture ='none' newName ='200095'></Effect>
@@ -14077,19 +14103,19 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatClubman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatClubman</Target></Effect>
 			<Effect type ='SetName' proto ='NatClubman' culture ='none' newName ='31800'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercClubman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercClubman</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercClubman' culture ='none' newName ='48515'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatClubmanLoyal</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatClubmanLoyal</Target></Effect>
 			<Effect type ='SetName' proto ='NatClubmanLoyal' culture ='none' newName ='70502'></Effect>
 		</Effects>
@@ -14786,19 +14812,19 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunWarrior</Target></Effect>
 			<Effect type ='SetName' proto ='NatBlowgunWarrior' culture ='none' newName ='36589'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunAmbusher</Target></Effect>
 			<Effect type ='SetName' proto ='NatBlowgunAmbusher' culture ='none' newName ='36588'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlowgunAmbusher</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercBlowgunWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercBlowgunWarrior</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercBlowgunWarrior' culture ='none' newName ='200093'></Effect>
 		</Effects>
@@ -14818,14 +14844,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatRifleman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatRifleman</Target></Effect>
 			<Effect type ='SetName' proto ='NatRifleman' culture ='none' newName ='36590'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercRifleman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercRifleman</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercRifleman' culture ='none' newName ='48496'></Effect>
 		</Effects>
@@ -14845,15 +14871,15 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHorseArcher</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHorseArcher</Target></Effect>
 			<Effect type ='SetName' proto ='NatHorseArcher' culture ='none' newName ='36591'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHorseArcher</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercHorseArcher' culture ='none' newName ='48497'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHorseArcher</Target></Effect>
 		</Effects>
 	</Tech>
@@ -14872,14 +14898,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatTracker</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatTracker</Target></Effect>
 			<Effect type ='SetName' proto ='NatTracker' culture ='none' newName ='36592'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercTracker</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercTracker</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercTracker' culture ='none' newName ='48499'></Effect>
 		</Effects>
@@ -14899,13 +14925,13 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBolasWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBolasWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHuaminca</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHuaminca</Target></Effect>
 			<Effect type ='SetName' proto ='NatHuaminca' culture ='none' newName ='36595'></Effect>
 			<Effect type ='SetName' proto ='NatBolasWarrior' culture ='none' newName ='36594'></Effect>
@@ -14975,14 +15001,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHolcanSpearman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHolcanSpearman</Target></Effect>
 			<Effect type ='SetName' proto ='NatHolcanSpearman' culture ='none' newName ='36599'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHolcanSpearman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHolcanSpearman</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercHolcanSpearman' culture ='none' newName ='48505'></Effect>
 		</Effects>
@@ -15002,19 +15028,19 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatClubman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatClubman</Target></Effect>
 			<Effect type ='SetName' proto ='NatClubman' culture ='none' newName ='36600'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatClubmanLoyal</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatClubmanLoyal</Target></Effect>
 			<Effect type ='SetName' proto ='NatClubmanLoyal' culture ='none' newName ='36601'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercClubman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercClubman</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercClubman' culture ='none' newName ='48506'></Effect>
 		</Effects>
@@ -15034,9 +15060,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatSharktoothBowman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatSharktoothBowman</Target></Effect>
 			<Effect type ='SetName' proto ='NatSharktoothBowman' culture ='none' newName ='42391'></Effect>
 		</Effects>
@@ -15056,14 +15082,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlackwoodArcher</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatBlackwoodArcher</Target></Effect>
 			<Effect type ='SetName' proto ='NatBlackwoodArcher' culture ='none' newName ='42394'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercBlackwoodArcher</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercBlackwoodArcher</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercBlackwoodArcher' culture ='none' newName ='48507'></Effect>
 		</Effects>
@@ -15453,6 +15479,11 @@
 		<Icon>ui\post_game\time_line_age_3</Icon>
 		<Flag>Shadow</Flag>
 		<Effects>
+				<Effect type ='Data' amount ='97.00' subtype ='BuildLimit' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>TradingPost</Target></Effect>		
+		
+		
+		
 			<Effect type ='Data' amount ='4.00' subtype ='LOS' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>Building</Target></Effect>
 			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
@@ -27941,14 +27972,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHuronMantlet</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHuronMantlet</Target></Effect>
 			<Effect type ='SetName' proto ='NatHuronMantlet' culture ='none' newName ='44307'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHuronMantlet</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHuronMantlet</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercHuronMantlet' culture ='none' newName ='48504'></Effect>
 		</Effects>
@@ -27968,14 +27999,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatLightningWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatLightningWarrior</Target></Effect>
 			<Effect type ='SetName' proto ='NatLightningWarrior' culture ='none' newName ='44311'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercLightningWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercLightningWarrior</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercLightningWarrior' culture ='none' newName ='48508'></Effect>
 		</Effects>
@@ -27997,14 +28028,14 @@
 			<TechStatus status ='Active'>WarriorSocietyHuron</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHuronMantlet</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatHuronMantlet</Target></Effect>
 			<Effect type ='SetName' proto ='NatHuronMantlet' culture ='none' newName ='44315'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHuronMantlet</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercHuronMantlet</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercHuronMantlet' culture ='none' newName ='48513'></Effect>
 		</Effects>
@@ -28026,14 +28057,14 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatLightningWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatLightningWarrior</Target></Effect>
 			<Effect type ='SetName' proto ='NatLightningWarrior' culture ='none' newName ='44319'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercLightningWarrior</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercLightningWarrior</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercLightningWarrior' culture ='none' newName ='48516'></Effect>
 		</Effects>
@@ -28432,9 +28463,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatKlamathRifleman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatKlamathRifleman</Target></Effect>
 			<Effect type ='SetName' proto ='NatKlamathRifleman' culture ='none' newName ='44381'></Effect>
 		</Effects>
@@ -28454,9 +28485,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatApacheCavalry</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatApacheCavalry</Target></Effect>
 			<Effect type ='SetName' proto ='NatApacheCavalry' culture ='none' newName ='44385'></Effect>
 		</Effects>
@@ -28476,9 +28507,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatNavajoRifleman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatNavajoRifleman</Target></Effect>
 			<Effect type ='SetName' proto ='NatNavajoRifleman' culture ='none' newName ='44389'></Effect>
 		</Effects>
@@ -28498,15 +28529,15 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatCheyenneRider</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatCheyenneRider</Target></Effect>
 			<Effect type ='SetName' proto ='NatCheyenneRider' culture ='none' newName ='44393'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercCheyenneRider</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercCheyenneRider' culture ='none' newName ='48495'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercCheyenneRider</Target></Effect>
 		</Effects>
 	</Tech>
@@ -28527,9 +28558,9 @@
 			<TechStatus status ='Active'>WarriorSocietyKlamath</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatKlamathRifleman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatKlamathRifleman</Target></Effect>
 			<Effect type ='SetName' proto ='NatKlamathRifleman' culture ='none' newName ='44397'></Effect>
 		</Effects>
@@ -28551,9 +28582,9 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatApacheCavalry</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatApacheCavalry</Target></Effect>
 			<Effect type ='SetName' proto ='NatApacheCavalry' culture ='none' newName ='44401'></Effect>
 		</Effects>
@@ -28575,9 +28606,9 @@
 			<TechStatus status ='Active'>WarriorSocietyNavajo</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatNavajoRifleman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatNavajoRifleman</Target></Effect>
 			<Effect type ='SetName' proto ='NatNavajoRifleman' culture ='none' newName ='44405'></Effect>
 		</Effects>
@@ -28599,14 +28630,14 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatCheyenneRider</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatCheyenneRider</Target></Effect>
 			<Effect type ='SetName' proto ='NatCheyenneRider' culture ='none' newName ='46917'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercCheyenneRider</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMercCheyenneRider</Target></Effect>
 			<Effect type ='SetName' proto ='NatMercCheyenneRider' culture ='none' newName ='48510'></Effect>
 		</Effects>
@@ -31093,9 +31124,9 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMapucheClubman</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMapucheClubman</Target></Effect>
 			<Effect type ='SetName' proto ='NatMapucheClubman' culture ='none' newName ='45391'></Effect>
 		</Effects>
@@ -31117,9 +31148,9 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMapucheClubman</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>NatMapucheClubman</Target></Effect>
 			<Effect type ='SetName' proto ='NatMapucheClubman' culture ='none' newName ='45395'></Effect>
 		</Effects>
@@ -37850,14 +37881,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatTigerClaw</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatTigerClaw</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatTigerClaw' culture ='none' newName ='61149'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercTigerClaw</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercTigerClaw</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercTigerClaw' culture ='none' newName ='65747'></Effect>
 		</Effects>
@@ -37877,15 +37908,15 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatWarElephant</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatWarElephant</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatWarElephant' culture ='none' newName ='61153'></Effect>
 			<Effect type ='SetName' proto ='ypNatMercWarElephant' culture ='none' newName ='65751'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercWarElephant</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercWarElephant</Target></Effect>
 		</Effects>
 	</Tech>
@@ -37904,15 +37935,15 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatConquistador</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatConquistador</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatConquistador' culture ='none' newName ='61157'></Effect>
 			<Effect type ='SetName' proto ='ypNatMercConquistador' culture ='none' newName ='65749'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercConquistador</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercConquistador</Target></Effect>
 		</Effects>
 	</Tech>
@@ -37931,14 +37962,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatRattanShield</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatRattanShield</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatRattanShield' culture ='none' newName ='61161'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercRattanShield</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercRattanShield</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercRattanShield' culture ='none' newName ='65750'></Effect>
 		</Effects>
@@ -37958,14 +37989,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatSohei</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatSohei</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatSohei' culture ='none' newName ='63621'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercSohei</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercSohei</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercSohei' culture ='none' newName ='65753'></Effect>
 		</Effects>
@@ -37985,14 +38016,14 @@
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatChakram</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatChakram</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatChakram' culture ='none' newName ='61169'></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercChakram</Target></Effect>
-			<Effect type ='Data' amount ='1.25' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.1' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercChakram</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercChakram' culture ='none' newName ='65752'></Effect>
 		</Effects>
@@ -38014,14 +38045,14 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatConquistador</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatConquistador</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatConquistador' culture ='none' newName ='61173'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercConquistador</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercConquistador</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercConquistador' culture ='none' newName ='65756'></Effect>
 		</Effects>
@@ -38043,14 +38074,14 @@
 			<TechStatus status ='Active'>ypNatDisciplinedZen</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatSohei</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatSohei</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatSohei' culture ='none' newName ='63622'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercSohei</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercSohei</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercSohei' culture ='none' newName ='65760'></Effect>
 		</Effects>
@@ -38072,14 +38103,14 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatTigerClaw</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatTigerClaw</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatTigerClaw' culture ='none' newName ='61181'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercTigerClaw</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercTigerClaw</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercTigerClaw' culture ='none' newName ='65754'></Effect>
 		</Effects>
@@ -38101,14 +38132,14 @@
 			<TechStatus status ='Active'>ypNatDisciplinedShaolin</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatRattanShield</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatRattanShield</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatRattanShield' culture ='none' newName ='61185'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercRattanShield</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercRattanShield</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercRattanShield' culture ='none' newName ='65757'></Effect>
 		</Effects>
@@ -38130,14 +38161,14 @@
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatWarElephant</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatWarElephant</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatWarElephant' culture ='none' newName ='61189'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercWarElephant</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercWarElephant</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercWarElephant' culture ='none' newName ='65758'></Effect>
 		</Effects>
@@ -38159,14 +38190,14 @@
 			<TechStatus status ='Active'>ypNatDisciplinedUdasi</TechStatus>
 		</Prereqs>
 		<Effects>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatChakram</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatChakram</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatChakram' culture ='none' newName ='61193'></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercChakram</Target></Effect>
-			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypNatMercChakram</Target></Effect>
 			<Effect type ='SetName' proto ='ypNatMercChakram' culture ='none' newName ='65759'></Effect>
 		</Effects>
@@ -52603,7 +52634,7 @@
 		<RolloverTextID>70512</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' action ='AutoGather' amount ='0.40' subtype ='WorkRate' unittype ='XP' relativity ='Absolute'>
+			<Effect type ='Data' action ='AutoGather' amount ='1.80' subtype ='WorkRate' unittype ='XP' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>Church</Target></Effect></Effects>
 	</Tech>
 	<Tech name ='UPPrivateersGermanBugfix' type ='Normal'>
