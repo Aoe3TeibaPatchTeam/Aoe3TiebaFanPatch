@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animfile>
+	<component>
+		lance
+		<logic type="Tech">
+			<none>
+				<assetreference type="GrannyModel">
+					<file>units\cavalry\lancer\lance_4age</file>
+				</assetreference>
+			</none>
+			<hccaballeros>
+				<assetreference type="GrannyModel">
+					<file>units\mercenaries\swiss_pikeman\swiss_pikeman_spear</file>
+				</assetreference>
+			</hccaballeros>
+		</logic>
+	</component>
+	<anim>
+		Idle
+		<component>lance</component>
+	</anim>
+</animfile>
