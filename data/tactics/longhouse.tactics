@@ -21,11 +21,21 @@
 		<rate type="Unit">1.0 </rate>
 		<instantballistics>1</instantballistics>
 	</action>
+	<action>
+		<name stringid="48958">ExtraDamage</name>
+		<type>AutoRangedModify</type>
+		<active>0</active>
+		<modifyexclusive>1</modifyexclusive>
+		<persistent>1</persistent>
+		<modifytype>Damage</modifytype>
+		<modifymultiplier>1.1</modifymultiplier>
+	</action>
 	<tactic>
 		Normal
 		<attacktype>LogicalTypeRangedUnitsAttack</attacktype>
 		<autoattacktype>LogicalTypeRangedUnitsAutoAttack</autoattacktype>
 		<attackresponsetype>LogicalTypeRangedUnitsAttack</attackresponsetype>
 		<action priority="100">RangedAttack</action>
+		<action>ExtraDamage</action>
 	</tactic>
 </tactics>

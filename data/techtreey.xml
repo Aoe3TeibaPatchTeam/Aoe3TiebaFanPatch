@@ -11345,7 +11345,10 @@
 		<Flag>OrPrereqs</Flag>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='TextOutput'>41912</Effect></Effects>
+			<Effect type ='TextOutput'>41912</Effect>
+			<Effect type ='Data' action ='GreatHeart' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Church</Target></Effect>
+		</Effects>
 	</Tech>
 	<Tech name ='Carronade' type ='Normal'>
 		<DBID>774</DBID>
@@ -15810,6 +15813,8 @@
 			<Effect type ='TechStatus' status ='obtainable'>PaperCartridge</Effect>
 			<Effect type ='Data' amount ='-1.00' subtype ='AllowedAge' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>Arsenal</Target></Effect>
+			<Effect type ='Data' action ='ExtraDamage' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Arsenal</Target></Effect>
 			<Effect type ='TextOutput'>37236</Effect>
 		</Effects>
 	</Tech>
@@ -16409,11 +16414,13 @@
 		<RolloverTextID>35298</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='TechStatus' status ='active'>Howitzer</Effect>
-			<Effect type ='TechStatus' status ='active'>FieldGun</Effect>
-			<Effect type ='TechStatus' status ='active'>GrapeShot</Effect>
-			<Effect type ='TechStatus' status ='active'>HeavyHorseArtillery</Effect>
+			<Effect type ='Data' amount ='1.10' subtype ='MaximumVelocity' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractArtillery</Target></Effect>
+			<Effect type ='Data' amount ='10.00' subtype ='LOS' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>AbstractArtillery</Target></Effect>
 			<Effect type ='TextOutput'>37238</Effect>
+			<Effect type ='Data' action ='RingAttack' amount ='500.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Mortar</Target></Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='HCImprovedLongbows' type ='Normal'>
@@ -16439,6 +16446,8 @@
 			<Effect type ='Data' action ='StaggerRangedAttack' amount ='2.00' subtype ='DamageArea' relativity ='Assign'>
 				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
 			<Effect type ='Data' amount ='0.00' subtype ='Armor' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
+			<Effect type ='Data' amount ='0.77' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
 			<Effect type ='Data' amount ='0.77' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
@@ -19826,11 +19835,13 @@
 		<RolloverTextID>36085</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='TechStatus' status ='active'>Howitzer</Effect>
-			<Effect type ='TechStatus' status ='active'>Rabauld</Effect>
-			<Effect type ='TechStatus' status ='active'>GrapeShot</Effect>
-			<Effect type ='TechStatus' status ='active'>HeavyHorseArtillery</Effect>
+			<Effect type ='Data' amount ='1.10' subtype ='MaximumVelocity' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractArtillery</Target></Effect>
+			<Effect type ='Data' amount ='10.00' subtype ='LOS' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>AbstractArtillery</Target></Effect>
 			<Effect type ='TextOutput'>37243</Effect>
+			<Effect type ='Data' action ='RingAttack' amount ='500.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Mortar</Target></Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='HCArtilleryHitpointsPortugueseTeam' type ='Normal'>
@@ -21060,6 +21071,8 @@
 				<Target type ='ProtoUnit'>Arsenal</Target></Effect>
 			<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='Uhlan' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
+			<Effect type ='Data' action ='ExtraDamage' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Arsenal</Target></Effect>
 			<Effect type ='TextOutput'>37237</Effect>
 		</Effects>
 	</Tech>
@@ -21127,6 +21140,8 @@
 			<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='Uhlan' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
 			<Effect type ='TextOutput'>41908</Effect>
+			<Effect type ='Data' action ='GreatHeart' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Church</Target></Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='HCAdvancedMillGerman' type ='Normal'>
@@ -23608,7 +23623,10 @@
 		<Flag>HomeCity</Flag>
 		<Flag>OrPrereqs</Flag>
 		<Effects>
-			<Effect type ='TextOutput'>41909</Effect></Effects>
+			<Effect type ='TextOutput'>41909</Effect>
+			<Effect type ='Data' action ='GreatHeart' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Church</Target></Effect>
+		</Effects>
 	</Tech>
 	<Tech name ='HCRoyalDecreeBritish' type ='Normal'>
 		<DBID>2646</DBID>
@@ -23621,7 +23639,10 @@
 		<Flag>HomeCity</Flag>
 		<Flag>OrPrereqs</Flag>
 		<Effects>
-			<Effect type ='TextOutput'>41905</Effect></Effects>
+			<Effect type ='TextOutput'>41905</Effect>
+			<Effect type ='Data' action ='GreatHeart' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Church</Target></Effect>
+		</Effects>
 	</Tech>
 	<Tech name ='HCRoyalDecreeFrench' type ='Normal'>
 		<DBID>2647</DBID>
@@ -23634,7 +23655,10 @@
 		<Flag>HomeCity</Flag>
 		<Flag>OrPrereqs</Flag>
 		<Effects>
-			<Effect type ='TextOutput'>41907</Effect></Effects>
+			<Effect type ='TextOutput'>41907</Effect>
+			<Effect type ='Data' action ='GreatHeart' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Church</Target></Effect>
+		</Effects>
 	</Tech>
 	<Tech name ='HCRoyalDecreeDutch' type ='Normal'>
 		<DBID>2648</DBID>
@@ -23647,7 +23671,10 @@
 		<Flag>HomeCity</Flag>
 		<Flag>OrPrereqs</Flag>
 		<Effects>
-			<Effect type ='TextOutput'>41906</Effect></Effects>
+			<Effect type ='TextOutput'>41906</Effect>
+			<Effect type ='Data' action ='GreatHeart' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Church</Target></Effect>
+		</Effects>
 	</Tech>
 	<Tech name ='HCRoyalDecreeRussian' type ='Normal'>
 		<DBID>2649</DBID>
@@ -23660,7 +23687,10 @@
 		<Flag>HomeCity</Flag>
 		<Flag>OrPrereqs</Flag>
 		<Effects>
-			<Effect type ='TextOutput'>41911</Effect></Effects>
+			<Effect type ='TextOutput'>41911</Effect>
+			<Effect type ='Data' action ='GreatHeart' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Church</Target></Effect>
+		</Effects>
 	</Tech>
 	<Tech name ='HCRoyalDecreePortuguese' type ='Normal'>
 		<DBID>2650</DBID>
@@ -23673,7 +23703,10 @@
 		<Flag>HomeCity</Flag>
 		<Flag>OrPrereqs</Flag>
 		<Effects>
-			<Effect type ='TextOutput'>46633</Effect></Effects>
+			<Effect type ='TextOutput'>46633</Effect>
+			<Effect type ='Data' action ='GreatHeart' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Church</Target></Effect>
+		</Effects>
 	</Tech>
 	<Tech name ='HCAdvancedArtilleryGerman' type ='Normal'>
 		<DBID>2652</DBID>
@@ -23685,13 +23718,15 @@
 		<RolloverTextID>38281</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='TechStatus' status ='active'>Howitzer</Effect>
-			<Effect type ='TechStatus' status ='active'>FieldGun</Effect>
-			<Effect type ='TechStatus' status ='active'>GrapeShot</Effect>
-			<Effect type ='TechStatus' status ='active'>HeavyHorseArtillery</Effect>
+			<Effect type ='Data' amount ='1.10' subtype ='MaximumVelocity' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractArtillery</Target></Effect>
+			<Effect type ='Data' amount ='10.00' subtype ='LOS' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>AbstractArtillery</Target></Effect>
 			<Effect type ='TextOutput'>38283</Effect>
 			<Effect type ='Data' amount ='4.00' subtype ='FreeHomeCityUnit' unittype ='Uhlan' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
+			<Effect type ='Data' action ='RingAttack' amount ='500.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Mortar</Target></Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='HCPalatineSettlements' type ='Normal'>
@@ -35124,6 +35159,8 @@
 			<Effect type ='TechStatus' status ='obtainable'>Rifling</Effect>
 			<Effect type ='TechStatus' status ='obtainable'>CavalryCuirass</Effect>
 			<Effect type ='TextOutput'>47126</Effect>
+			<Effect type ='Data' action ='ExtraDamage' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Longhouse</Target></Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='HCXPNewWaysSioux' type ='Normal'>
