@@ -2,36 +2,10 @@
 
 <tactics>
 	<action>
-		<name stringid="38135">HandAttack</name>
-		<type>Attack</type>
-		<maxrange>1.75</maxrange>
-		<rate type="Unit">1.0 </rate>
-		<attackaction>1</attackaction>
-		<handlogic>1</handlogic>
-		<speedboost>1</speedboost>
-		<anim>Charge_attack</anim>
-		<impacteffect>effects\impacts\melee</impacteffect>
-		<targetspeedboost>1</targetspeedboost>
-		<basedamagecap>1</basedamagecap>
-	</action>
-	<action>
-		<name stringid="38131">CoverHandAttack</name>
-		<type>Attack</type>
-		<maxrange>1.75</maxrange>
-		<rate type="Unit">1.0 </rate>
-		<attackaction>1</attackaction>
-		<handlogic>1</handlogic>
-		<speedboost>1</speedboost>
-		<anim>Charge_attack</anim>
-		<impacteffect>effects\impacts\melee</impacteffect>
-		<targetspeedboost>1</targetspeedboost>
-		<basedamagecap>1</basedamagecap>
-	</action>
-	<action>
 		<name stringid="38118">BuildingAttack</name>
 		<type>Attack</type>
 		<maxrange>1.75</maxrange>
-		<rate type="LogicalTypeShipsAndBuildings">1.0 </rate>
+		<rate type="All">1.0 </rate>
 		<attackaction>1</attackaction>
 		<handlogic>1</handlogic>
 		<speedboost>1</speedboost>
@@ -47,7 +21,7 @@
 		<name stringid="38118">CoverBuildingAttack</name>
 		<type>Attack</type>
 		<maxrange>1.75</maxrange>
-		<rate type="LogicalTypeShipsAndBuildings">1.0 </rate>
+		<rate type="All">1.0 </rate>
 		<attackaction>1</attackaction>
 		<handlogic>1</handlogic>
 		<speedboost>1</speedboost>
@@ -62,7 +36,6 @@
 	<tactic>
 		Melee
 		<action priority="100">BuildingAttack</action>
-		<action priority="75">HandAttack</action>
 		<speedmodifier>1.0</speedmodifier>
 		<attacktype>LogicalTypeHandUnitsAttack</attacktype>
 		<autoattacktype>LogicalTypeHandUnitsAutoAttack</autoattacktype>
@@ -84,7 +57,6 @@
 	<tactic>
 		Defend
 		<action priority="100">BuildingAttack</action>
-		<action priority="25">HandAttack</action>
 		<attacktype>LogicalTypeHandUnitsAttack</attacktype>
 		<autoattacktype>LogicalTypeHandUnitsAutoAttack</autoattacktype>
 		<attackresponsetype>LogicalTypeHandUnitsAttack</attackresponsetype>
@@ -106,7 +78,6 @@
 		Cover
 		<speedmodifier>0.5</speedmodifier>
 		<action priority="100">CoverBuildingAttack</action>
-		<action priority="25">CoverHandAttack</action>
 		<attacktype>LogicalTypeHandUnitsAttack</attacktype>
 		<autoattacktype>LogicalTypeHandUnitsAutoAttack</autoattacktype>
 		<attackresponsetype>LogicalTypeHandUnitsAttack</attackresponsetype>
