@@ -84,7 +84,7 @@
 	<action>
 		<name stringid="48957">ConvertGuardian</name>
 		<type>ConvertGuardian</type>
-		<active>1</active>
+		<active>0</active>
 		<maxrange>16</maxrange>
 		<anim>AblBeastMaster</anim>
 		<rate type="Guardian">1.0</rate>

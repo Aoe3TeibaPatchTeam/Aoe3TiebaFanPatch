@@ -48987,7 +48987,7 @@
 			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>ypConsulateRonin</Target></Effect>
 			<Effect type ='TechStatus' status ='obtainable'>ypBigSequesterJapanese</Effect>
-			<Effect type ='TechStatus' status ='obtainable'>ypConsulateJapaneseMeijiRestoration</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypConsulateJapanesePerry</Effect>
 			<Effect type ='TechStatus' status ='active'>ypBigTradeTaxEnable</Effect>
 			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>ypConsulateYamabushi</Target></Effect>
@@ -49024,7 +49024,7 @@
 				<Target type ='ProtoUnit'>ypConsulateRonin</Target></Effect>
 			<Effect type ='TechStatus' status ='unobtainable'>ypConsulateJapaneseMasterTraining</Effect>
 			<Effect type ='TechStatus' status ='unobtainable'>ypConsulateJapaneseMilitaryRickshaw</Effect>
-			<Effect type ='TechStatus' status ='unobtainable'>ypConsulateJapaneseMeijiRestoration</Effect>
+			<Effect type ='TechStatus' status ='unobtainable'>ypConsulateJapanesePerry</Effect>
 			<Effect type ='Data' amount ='0.95' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
 			<Effect type ='TechStatus' status ='obtainable'>ypPickConsulateTech</Effect>
@@ -52913,6 +52913,95 @@
 				<Target type ='ProtoUnit'>Halberdier</Target></Effect>
 			<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Halberdier</Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='ypConsulateJapanesePerry' type ='Normal'>
+		<DBID>5298</DBID>
+		<DisplayNameID>28335</DisplayNameID>
+		<Cost resourcetype ='Trade'>1625.0000</Cost>
+		<ResearchPoints>5.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>units\animals\orca\orca_icon</Icon>
+		<RolloverTextID>28346</RolloverTextID>
+		<Flag>CheckLandHCGatherPoint</Flag>
+		<Flag>CountsTowardMilitaryScore</Flag>
+		<Flag>YPNeverObtainableAfterUse</Flag>
+		<Flag>YPCheckPopCap</Flag>
+		<Flag>Shadow</Flag>
+		<Flag>YPNoTextMessage</Flag>
+		<Prereqs>
+			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
+		<Effects>
+			<Effect type ='TechStatus' status ='active'>ypBigSequesterJapanese</Effect>
+			<Effect civ ='Washington' type ='Data' amount ='0.00' subtype ='SetCivRelation' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+			<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractGunpowderTrooper</Target></Effect>
+			<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractGunpowderTrooper</Target></Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='BuildLimit' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>xpIronclad</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypNashagaru</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='AddTrain' unittype ='ypNashagaru' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>TownCenter</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='AddTrain' unittype ='ypNashagaru' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypBarracksJapanese</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='AddTrain' unittype ='ypNashagaru' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypStableJapanese</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='AddTrain' unittype ='ypNashagaru' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypCastle</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='AddTrain' unittype ='ypNashagaru' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypConsulate</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>xpIronclad</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='AddTrain' unittype ='xpIronclad' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypDockAsian</Target></Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='xpIronclad' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='Settler'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='Coureur'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='SettlerWagon'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='CoureurCree'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='Pilgrim'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='SettlerNative'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypSettlerAsian'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypSettlerJapanese'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypSettlerIndian'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypAshigaru'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypYumi'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypYabusame'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypShinobiHorse'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypKensei'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypNaginataRider'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypFlamingArrow'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypMorutaru'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypConsulateShinobi'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypYamabushi'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypConsulateNinja'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypConsulateYamabushi'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypConsulateRonin'></Effect>
+			<Effect type ='TransformUnit' toprotoid ='ypNashagaru' fromprotoid ='ypNatMercSohei'></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypAshigaru</Target></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypYumi</Target></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypYabusame</Target></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypSettlerJapanese</Target></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypShinobiHorse</Target></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypKensei</Target></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypNaginataRider</Target></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypMorutaru</Target></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypFlamingArrow</Target></Effect>
+			<Effect type ='Data' amount ='-1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypYamabushi</Target></Effect>
 		</Effects>
 	</Tech>
 </TechTree>
