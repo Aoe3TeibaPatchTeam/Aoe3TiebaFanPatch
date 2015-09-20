@@ -13353,6 +13353,7 @@
 			<Effect type="TechStatus" status="active">YPExaltedYabusame</Effect>
 			<Effect type="TechStatus" status="active">YPExaltedFlamingArrow</Effect>
 			<Effect type="TechStatus" status="active">YPExaltedMorutaru</Effect>
+			
 			<Effect type="TechStatus" status="active">ImpLegendaryPumaMen</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryMacehualtins</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryJaguarKnights</Effect>
@@ -13373,6 +13374,7 @@
 			<Effect type="TechStatus" status="active">ImpLegendaryHorsemen</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryAennas</Effect>
 			<Effect type="TechStatus" status="active">ImpLegendaryLightCannon</Effect>
+			
 			<Effect type="TechStatus" status="active">ImperialAbusGun</Effect>
 			<Effect type="TechStatus" status="active">ImperialCavalryArchers</Effect>
 			<Effect type="TechStatus" status="active">ImperialJanissaries</Effect>
@@ -13471,7 +13473,7 @@
 			<Effect type="TechStatus" status="active">ImperialFieldGun</Effect>
 			<Effect type="TechStatus" status="active">ImperialMonitors</Effect>
 			<Effect type="TechStatus" status="active">ImperialManOWar</Effect>
-			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>	
+			<Effect type="TechStatus" status="active">ImperialHorseArtillery</Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='ImperialManOWar' type ='Normal'>
