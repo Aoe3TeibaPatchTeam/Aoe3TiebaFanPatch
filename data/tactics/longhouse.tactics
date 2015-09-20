@@ -32,10 +32,10 @@
 	</action>
 	<tactic>
 		Normal
+		<action priority="100">RangedAttack</action>
+		<action>ExtraDamage</action>
 		<attacktype>LogicalTypeRangedUnitsAttack</attacktype>
 		<autoattacktype>LogicalTypeRangedUnitsAutoAttack</autoattacktype>
 		<attackresponsetype>LogicalTypeRangedUnitsAttack</attackresponsetype>
-		<action priority="100">RangedAttack</action>
-		<action>ExtraDamage</action>
 	</tactic>
 </tactics>

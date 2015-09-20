@@ -59,27 +59,30 @@
 		<transition>
 			<tactic>Bombard</tactic>
 			<action>Limber</action>
-			<anim>Bombard_unlimber</anim>
-			<length>4</length>
+			<length>1</length>
 			<exit>1</exit>
 			<commandautomatic>1</commandautomatic>
 			<automatic>1</automatic>
 		</transition>
+		<idleanim>idle</idleanim>
+		<boredanim>bored</boredanim>
+		<walkanim>walk</walkanim>
+		<joganim>jog</joganim>
+		<runanim>run</runanim>
 		<deathanim>Death_by_melee</deathanim>
 	</tactic>
 	<tactic>
 		Bombard
-		<speedmodifier>0.4</speedmodifier>
+		<speedmodifier>1.0</speedmodifier>
 		<attacktype>LogicalTypeRangedUnitsAttack</attacktype>
 		<autoattacktype>LogicalTypeRangedUnitsAutoAttack</autoattacktype>
 		<exclusive>1</exclusive>
-		<action priority="100">RingAttack</action>
-		<action priority="75">CannonAttack</action>
+		<action priority="100">CannonAttack</action>
+		<action priority="75">RingAttack</action>
 		<transition>
 			<tactic>Limber</tactic>
 			<action>Limber</action>
-			<anim>Bombard_limber</anim>
-			<length>6</length>
+			<length>1</length>
 			<exit>1</exit>
 		</transition>
 		<idleanim>Bombard_ranged_idle</idleanim>
