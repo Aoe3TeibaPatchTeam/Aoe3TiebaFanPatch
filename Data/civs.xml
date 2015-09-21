@@ -5434,7 +5434,7 @@
 	<civ>
 		<name>Washington</name>
 		<main>0</main>
-		<homecityflagtexture>objects\flags\USA</homecityflagtexture>
+		<homecityflagtexture>objects\flags\perry</homecityflagtexture>
 		<homecityflagbuttonset>washingtonFlagBtn</homecityflagbuttonset>
 		<homecityflagbuttonsetlarge>washingtonFlagBtnLarge</homecityflagbuttonsetlarge>
 		<postgameflagtexture>ui\ingame\ingame_ui_postgame_flag_USA</postgameflagtexture>
