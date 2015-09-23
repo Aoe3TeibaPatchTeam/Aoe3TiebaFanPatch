@@ -119,7 +119,7 @@
 	<tactic>
 		Stealth
 		<action>Stealth</action>
-		<checkifcanstealth range="1.0">1</checkifcanstealth>
+		<checkifcanstealth range="2.0">1</checkifcanstealth>
 		<speedmodifier>0.5</speedmodifier>
 		<attacktype>LogicalTypeHandUnitsAttack</attacktype>
 		<active>0</active>

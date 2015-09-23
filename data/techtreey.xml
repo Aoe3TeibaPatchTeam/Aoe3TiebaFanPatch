@@ -16058,7 +16058,7 @@
 		<RolloverTextID>35297</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' amount ='0.40' subtype ='Cost' resource ='Wood' relativity ='BasePercent'>
+			<Effect type ='Data' amount ='0.50' subtype ='Cost' resource ='Wood' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Manor</Target></Effect>
 			<Effect type ='TextOutput'>41819</Effect>
 		</Effects>
@@ -23976,9 +23976,9 @@
 		<Effect type ='Data' action ='Gather' amount ='1.25' subtype ='WorkRate' unittype ='Farm' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>Herdable</Target></Effect>
 		<Effect type ='Data' action ='Stealth' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>xpHorseman</Target></Effect>
+		<Effect type="TechStatus" status="active">EliteTomahawks</Effect>
 		<Effect type ='Data' amount ='1.00' tactic ='Stealth' subtype ='TacticEnable' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>xpHorseman</Target></Effect>	
+		<Effect type="TechStatus" status="active">EliteHorsemen</Effect>
 		<Effect type="TechStatus" status="active">EliteAennas</Effect>
 		<Effect type="TechStatus" status="active">EliteTomahawks</Effect>
 		<Effect type="TechStatus" status="active">EliteMusketWarriorShadow</Effect>
