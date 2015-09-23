@@ -23975,10 +23975,6 @@
 			<Target type ='ProtoUnit'>xpIroquoisWarChief</Target></Effect>
 		<Effect type ='Data' action ='Gather' amount ='1.25' subtype ='WorkRate' unittype ='Farm' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>Herdable</Target></Effect>
-		<Effect type ='Data' action ='Stealth' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
-		<Effect type="TechStatus" status="active">EliteTomahawks</Effect>
-		<Effect type ='Data' amount ='1.00' tactic ='Stealth' subtype ='TacticEnable' relativity ='Absolute'>
-		<Effect type="TechStatus" status="active">EliteHorsemen</Effect>
 		<Effect type="TechStatus" status="active">EliteAennas</Effect>
 		<Effect type="TechStatus" status="active">EliteTomahawks</Effect>
 		<Effect type="TechStatus" status="active">EliteMusketWarriorShadow</Effect>
