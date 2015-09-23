@@ -24116,8 +24116,13 @@
 			<Target type ='ProtoUnit'>xpHorseman</Target></Effect>
 		<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>xpHorseman</Target></Effect>
-		<Effect type ='SetName' proto ='xpHorseman' culture ='none' newName ='47154'></Effect>
 		<!-- 坎亚骑兵隐匿 -->
+		<Effect type ='Data' action ='Stealth' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>xpHorseman</Target></Effect>
+		<Effect type ='Data' amount ='1.00' tactic ='Stealth' subtype ='TacticEnable' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>xpHorseman</Target></Effect>
+		<!-- END -->
+		<Effect type ='SetName' proto ='xpHorseman' culture ='none' newName ='47154'></Effect>
 	</Effects>
 </Tech>
 <Tech name ='ChampionMusketRiders' type ='Normal'>
@@ -46360,9 +46365,9 @@
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
-		<Effect type ='Data' amount ='1.100' subtype ='Hitpoints' relativity ='BasePercent'>
+		<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractDaimyo</Target></Effect>
-		<Effect type ='Data' amount ='1.100' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+		<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractDaimyo</Target></Effect>
 	</Effects>
 </Tech>
@@ -46374,9 +46379,9 @@
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 	<Effects>
-		<Effect type ='Data' amount ='1.200' subtype ='Hitpoints' relativity ='BasePercent'>
+		<Effect type ='Data' amount ='1.20' subtype ='Hitpoints' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractDaimyo</Target></Effect>
-		<Effect type ='Data' amount ='1.200' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+		<Effect type ='Data' amount ='1.20' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractDaimyo</Target></Effect>
 	</Effects>
 </Tech>
@@ -49809,14 +49814,14 @@
 			<Target type ='ProtoUnit'>ypChangdao</Target></Effect>
 		<Effect type ='Data' amount ='1.15' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>ypChangdao</Target></Effect>
-		<Effect type ='Data' amount ='1.15' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
-			<Target type ='ProtoUnit'>ypMeteorHammer</Target></Effect>
-		<Effect type ='Data' amount ='1.15' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
-			<Target type ='ProtoUnit'>ypQiangPikeman</Target></Effect>
-		<Effect type ='Data' amount ='1.15' subtype ='Hitpoints' relativity ='BasePercent'>
-			<Target type ='ProtoUnit'>ypQiangPikeman</Target></Effect>
 		<Effect type ='Data' amount ='1.15' subtype ='Hitpoints' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>ypMeteorHammer</Target></Effect>
+		<Effect type ='Data' amount ='1.15' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Target type ='ProtoUnit'>ypMeteorHammer</Target></Effect>
+		<Effect type ='Data' amount ='1.15' subtype ='Hitpoints' relativity ='BasePercent'>
+			<Target type ='ProtoUnit'>ypQiangPikeman</Target></Effect>
+		<Effect type ='Data' amount ='1.15' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+			<Target type ='ProtoUnit'>ypQiangPikeman</Target></Effect>
 		<Effect type ='Data' amount ='1.15' subtype ='Hitpoints' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>ypKeshik</Target></Effect>
 		<Effect type ='Data' amount ='1.15' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
