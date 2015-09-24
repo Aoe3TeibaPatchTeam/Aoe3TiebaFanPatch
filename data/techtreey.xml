@@ -16092,23 +16092,17 @@
 		<RolloverTextID>35308</RolloverTextID>
 		<Flag>HomeCity</Flag>
 		<Effects>
-			<Effect type ='Data' action ='VolleyRangedAttack' amount ='2.00' subtype ='MaximumRange' relativity ='Absolute'>
-				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
-			<Effect type ='Data' action ='DefendRangedAttack' amount ='2.00' subtype ='MaximumRange' relativity ='Absolute'>
-				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
-			<Effect type ='Data' action ='StaggerRangedAttack' amount ='2.00' subtype ='MaximumRange' relativity ='Absolute'>
-				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
-			<Effect type ='Data' action ='VolleyRangedAttack' amount ='2.00' subtype ='DamageArea' relativity ='Assign'>
-				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
-			<Effect type ='Data' action ='DefendRangedAttack' amount ='2.00' subtype ='DamageArea' relativity ='Assign'>
-				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
-			<Effect type ='Data' action ='StaggerRangedAttack' amount ='2.00' subtype ='DamageArea' relativity ='Assign'>
-				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
 			<Effect type ='Data' amount ='0.00' subtype ='Armor' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
 			<Effect type ='Data' amount ='0.77' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
 			<Effect type ='Data' amount ='2.00' subtype ='LOS' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
+			<Effect type ='Data' action ='AdvanceVolleyRangedAttack' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
+			<Effect type ='Data' action ='AdvanceDefendRangedAttack' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
+			<Effect type ='Data' action ='AdvanceStaggerRangedAttack' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>Longbowman</Target></Effect>
 		  <Effect type ='TextOutput'>41862</Effect>
 	</Effects>
