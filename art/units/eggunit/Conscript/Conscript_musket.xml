@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animfile>
+	<component>
+		musket
+		<assetreference type="GrannyModel">
+		<file>units\infantry_ranged\strelet\strelet_musket_age04</file>
+		</assetreference>
+	</component>
+	<anim>
+		Idle
+		<component>musket</component>
+	</anim>
+</animfile>
