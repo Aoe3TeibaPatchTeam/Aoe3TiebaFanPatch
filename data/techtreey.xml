@@ -32743,6 +32743,8 @@
 	<RolloverTextID>46787</RolloverTextID>
 	<Flag>HomeCity</Flag>
 	<Effects>
+		<Effect type ='TextOutput'>46860</Effect>
+		<Effect type ='TechStatus' status ='active'>SaloonRonin</Effect>
 		<Effect type ='SetName' proto ='Saloon' culture ='none' newName ='46789'></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>SaloonOutlawPistol</Target></Effect>
@@ -32752,8 +32754,6 @@
 			<Target type ='ProtoUnit'>SaloonPirate</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>SaloonOutlawRifleman</Target></Effect>
-		<Effect type ='TextOutput'>46860</Effect>
-		<Effect type ='TechStatus' status ='active'>SaloonRonin</Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypDacoit</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
@@ -32812,7 +32812,11 @@
 	<RolloverTextID>46807</RolloverTextID>
 	<Flag>HomeCity</Flag>
 	<Effects>
+		<Effect type ='TextOutput'>46859</Effect>
+		<Effect type ='TechStatus' status ='active'>SaloonRonin</Effect>
 		<Effect type ='SetName' proto ='Saloon' culture ='none' newName ='46809'></Effect>
+		<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='Uhlan' relativity ='Absolute'>
+			<Target type ='Player'></Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>SaloonOutlawPistol</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
@@ -32821,10 +32825,6 @@
 			<Target type ='ProtoUnit'>SaloonPirate</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>SaloonOutlawRifleman</Target></Effect>
-		<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='Uhlan' relativity ='Absolute'>
-			<Target type ='Player'></Target></Effect>
-		<Effect type ='TextOutput'>46859</Effect>
-		<Effect type ='TechStatus' status ='active'>SaloonRonin</Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypDacoit</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
@@ -46403,30 +46403,30 @@
 	<Flag>YPConsulateTech</Flag>
 	<Flag>YPInfiniteTech</Flag>
 	<Effects>
+		<Effect civ ='Germans' type ='Data' amount ='0.00' subtype ='SetCivRelation' relativity ='Absolute'>
+			<Target type ='Player'></Target></Effect>
 		<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypConsulateArmyGerman1</Target></Effect>
+		<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypConsulateArmyGerman2</Target></Effect>
+		<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypConsulateArmyGerman3</Target></Effect>
 		<Effect type ='TechStatus' status ='obtainable'>ypConsulateGermansFoodTrickle</Effect>
 		<Effect type ='TechStatus' status ='obtainable'>ypConsulateGermansWoodTrickle</Effect>
 		<Effect type ='TechStatus' status ='obtainable'>ypConsulateGermansCoinTrickle</Effect>
+		<Effect type ='TechStatus' status ='obtainable'>ypConsulateGermansBrigade</Effect>
+		<Effect type ='TechStatus' status ='obtainable'>ypConsulateRelationsGermans</Effect>
 		<Effect type ='TechStatus' status ='obtainable'>ypBigSequesterGermans</Effect>
-		<Effect type ='TechStatus' status ='active'>ypBigSequesterRemove</Effect>
-		<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypConsulateArmyGerman3</Target></Effect>
-		<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypConsulateArmyGerman2</Target></Effect>
 		<Effect type ='Data' amount ='-15.00' subtype ='Cost' resource ='Food' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>AbstractBannerArmy</Target></Effect>
-		<Effect type ='TechStatus' status ='obtainable'>ypConsulateGermansBrigade</Effect>
-		<Effect type ='TechStatus' status ='active'>ypBigTradeTaxEnable</Effect>
-		<Effect civ ='Germans' type ='Data' amount ='0.00' subtype ='SetCivRelation' relativity ='Absolute'>
-			<Target type ='Player'></Target></Effect>
-		<Effect type ='TechStatus' status ='obtainable'>ypConsulateRelationsGermans</Effect>
 		<Effect type ='Data' amount ='-15.00' subtype ='Cost' resource ='Wood' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>AbstractBannerArmy</Target></Effect>
 		<Effect type ='Data' amount ='-15.00' subtype ='Cost' resource ='Gold' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>AbstractBannerArmy</Target></Effect>
 		<Effect type ='Data' amount ='-15.00' subtype ='Cost' resource ='Gold' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypMandarinArmy</Target></Effect>
+		<Effect type ='TechStatus' status ='active'>ypBigSequesterRemove</Effect>
+		<Effect type ='TechStatus' status ='active'>ypBigTradeTaxEnable</Effect>
 	</Effects>
 </Tech>
 <Tech name ='ypBigSequesterGermans' type ='Normal'>
@@ -50786,21 +50786,8 @@
 	<RolloverTextID>69649</RolloverTextID>
 	<Flag>HomeCity</Flag>
 	<Effects>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonOutlawPistol</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonOutlawRider</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonPirate</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonOutlawRifleman</Target></Effect>
 		<Effect type ='TextOutput'>69653</Effect>
-		<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypRepentantYojimbo</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypDacoit</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypThuggee</Target></Effect>
+		<Effect type ='TechStatus' status ='active'>ypSaloonYojimbo</Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypWokouWanderingHorseman</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
@@ -50810,14 +50797,6 @@
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypWokouPirate</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypRepentantWanderingHorseman</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypRepentantBlindMonk</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypRepentantSmuggler</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypRepentantWaywardRonin</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypRepentantOutlawRider</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypRepentantOutlawRifleman</Target></Effect>
@@ -50826,9 +50805,17 @@
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypRepentantPirate</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypRepentantThuggee</Target></Effect>
+			<Target type ='ProtoUnit'>ypRepentantWanderingHorseman</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypRepentantBlindMonk</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypRepentantSmuggler</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypRepentantWaywardRonin</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypRepentantDacoit</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypRepentantThuggee</Target></Effect>
 	</Effects>
 </Tech>
 <Tech name ='YPHCAtonementChinese' type ='Normal'>
@@ -50841,20 +50828,10 @@
 	<RolloverTextID>69654</RolloverTextID>
 	<Flag>HomeCity</Flag>
 	<Effects>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonOutlawPistol</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonOutlawRider</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonPirate</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonOutlawRifleman</Target></Effect>
 		<Effect type ='TextOutput'>69657</Effect>
 		<Effect type ='TechStatus' status ='active'>ypSaloonIronTroop</Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypDacoit</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypThuggee</Target></Effect>
+		<Effect type ='Data' amount ='1.00' subtype ='AddTrain' unittype ='ypWokouArmy' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypVillage</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypWokouWanderingHorseman</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
@@ -50898,20 +50875,12 @@
 	<Flag>HomeCity</Flag>
 	<Flag>YPIgnorePopCostBuildLimitFreeHCUnitIfTechObtainable</Flag>
 	<Effects>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonOutlawPistol</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonOutlawRider</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonPirate</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>SaloonOutlawRifleman</Target></Effect>
 		<Effect type ='TextOutput'>69661</Effect>
 		<Effect type ='TechStatus' status ='active'>ypSaloonJat</Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypDacoit</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypThuggee</Target></Effect>
+		<Effect tech ='ypFreeIndianSepoy' type ='Data' amount ='2.00' subtype ='FreeHomeCityUnitIfTechObtainable' unittype ='ypSepoy' relativity ='Absolute'>
+			<Target type ='Player'></Target></Effect>
+		<Effect tech ='ypFreeIndianVillager' type ='Data' amount ='1.00' subtype ='FreeHomeCityUnitIfTechObtainable' unittype ='ypSettlerIndian' relativity ='Absolute'>
+			<Target type ='Player'></Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypWokouWanderingHorseman</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
@@ -50920,18 +50889,14 @@
 			<Target type ='ProtoUnit'>ypWokouBlindMonk</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypWokouPirate</Target></Effect>
-		<Effect tech ='ypFreeIndianSepoy' type ='Data' amount ='2.00' subtype ='FreeHomeCityUnitIfTechObtainable' unittype ='ypSepoy' relativity ='Absolute'>
-			<Target type ='Player'></Target></Effect>
-		<Effect tech ='ypFreeIndianVillager' type ='Data' amount ='1.00' subtype ='FreeHomeCityUnitIfTechObtainable' unittype ='ypSettlerIndian' relativity ='Absolute'>
-			<Target type ='Player'></Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypRepentantOutlawRider</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypRepentantPirate</Target></Effect>
+			<Target type ='ProtoUnit'>ypRepentantOutlawRifleman</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypRepentantOutlawPistol</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypRepentantOutlawRifleman</Target></Effect>
+			<Target type ='ProtoUnit'>ypRepentantPirate</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypRepentantWanderingHorseman</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
@@ -50941,9 +50906,9 @@
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypRepentantWaywardRonin</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypRepentantThuggee</Target></Effect>
-		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypRepentantDacoit</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypRepentantThuggee</Target></Effect>
 	</Effects>
 </Tech>
 <Tech name ='YPHCAdmiralityIndians' type ='Normal'>
