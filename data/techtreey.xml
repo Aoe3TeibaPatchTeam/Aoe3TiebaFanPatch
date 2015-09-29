@@ -50787,7 +50787,20 @@
 	<Flag>HomeCity</Flag>
 	<Effects>
 		<Effect type ='TextOutput'>69653</Effect>
+		<Effect type ='TechStatus' status ='active'>ypSaloonWaywardRonin</Effect>
 		<Effect type ='TechStatus' status ='active'>ypSaloonYojimbo</Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonOutlawPistol</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonOutlawRider</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonPirate</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonOutlawRifleman</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypDacoit</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypThuggee</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypWokouWanderingHorseman</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
@@ -50830,10 +50843,21 @@
 	<Effects>
 		<Effect type ='TextOutput'>69657</Effect>
 		<Effect type ='TechStatus' status ='active'>ypSaloonIronTroop</Effect>
-		<Effect type ='Data' amount ='1.00' subtype ='AddTrain' unittype ='ypWokouArmy' relativity ='Absolute'>
-			<Target type ='ProtoUnit'>ypVillage</Target></Effect>
+		<Effect type ='TechStatus' status ='active'>ypSaloonWanderingHorseman</Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypWokouWanderingHorseman</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonOutlawPistol</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonOutlawRider</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonPirate</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonOutlawRifleman</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypDacoit</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypThuggee</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypWokouWaywardRonin</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
@@ -50877,10 +50901,23 @@
 	<Effects>
 		<Effect type ='TextOutput'>69661</Effect>
 		<Effect type ='TechStatus' status ='active'>ypSaloonJat</Effect>
+		<Effect type ='TechStatus' status ='active'>ypSaloonDacoit</Effect>
 		<Effect tech ='ypFreeIndianSepoy' type ='Data' amount ='2.00' subtype ='FreeHomeCityUnitIfTechObtainable' unittype ='ypSepoy' relativity ='Absolute'>
 			<Target type ='Player'></Target></Effect>
 		<Effect tech ='ypFreeIndianVillager' type ='Data' amount ='1.00' subtype ='FreeHomeCityUnitIfTechObtainable' unittype ='ypSettlerIndian' relativity ='Absolute'>
 			<Target type ='Player'></Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonOutlawPistol</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonOutlawRider</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonPirate</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>SaloonOutlawRifleman</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypDacoit</Target></Effect>
+		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
+			<Target type ='ProtoUnit'>ypThuggee</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
 			<Target type ='ProtoUnit'>ypWokouWanderingHorseman</Target></Effect>
 		<Effect type ='Data' amount ='-2.00' subtype ='PopulationCount' relativity ='Absolute'>
