@@ -9525,11 +9525,9 @@
 		<Effects>
 			<Effect type ='Data' amount ='9.00' subtype ='FreeHomeCityUnit' unittype ='Dragoon' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
-			<Effect type ='SetName' proto ='Dragoon' culture ='none' newName ='42453'></Effect>
 			<Effect type ='Data' amount ='0.00' subtype ='UpdateVisual' unittype ='Dragoon' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
-			<Effect type ='TechStatus' status ='active'>VeteranDragoonsShadow</Effect>
-			<Effect type ='TechStatus' status ='active'>GuardDragoons</Effect>
+			<Effect type ='SetName' proto ='Dragoon' culture ='none' newName ='42453'></Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='ChurchBashkirPonies' type ='Normal'>
@@ -9550,11 +9548,9 @@
 		<Effects>
 			<Effect type ='Data' amount ='17.00' subtype ='FreeHomeCityUnit' unittype ='Hussar' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
-			<Effect type ='SetName' proto ='Hussar' culture ='none' newName ='42452'></Effect>
 			<Effect type ='Data' amount ='0.00' subtype ='UpdateVisual' unittype ='Hussar' relativity ='Absolute'>
 				<Target type ='Player'></Target></Effect>
-			<Effect type ='TechStatus' status ='active'>VeteranHussars</Effect>
-			<Effect type ='TechStatus' status ='active'>GuardHussars</Effect>
+			<Effect type ='SetName' proto ='Hussar' culture ='none' newName ='42452'></Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='ChurchWesternization' type ='Normal'>
@@ -12053,9 +12049,7 @@
 			<Effect type="TechStatus" status="active">GuardDragoons</Effect>
 			<Effect type="TechStatus" status="active">GuardCossacks</Effect>
 			<Effect type="TechStatus" status="active">GuardOprichniks</Effect>
-			<Effect type="TechStatus" status="active">GuardCavalryArchers</Effect>
 			<Effect type="TechStatus" status="active">RGTartarLoyalists</Effect>
-			<Effect type="TechStatus" status="active">GuardGrenadiers</Effect>
 			<Effect type="TechStatus" status="active">RGPavlovGrenadiers</Effect>
 			<Effect type="TechStatus" status="active">FieldGun</Effect>
 			<Effect type="TechStatus" status="active">GrapeShot</Effect>
@@ -12080,14 +12074,12 @@
 		<Effects>
 			<Effect type ='TechStatus' status ='active'>Industrialize</Effect>
 			<Effect type="TechStatus" status="active">GuardMusketeers</Effect>
-			<Effect type="TechStatus" status="active">GuardSkirmishers</Effect>
-			<Effect type="TechStatus" status="active">RGVoltigeur</Effect>
 			<Effect type="TechStatus" status="active">GuardHalberdiers</Effect>
 			<Effect type="TechStatus" status="active">GuardHussars</Effect>
 			<Effect type="TechStatus" status="active">GuardDragoons</Effect>
-			<Effect type="TechStatus" status="active">GuardCuirassiers</Effect>
-			<Effect type="TechStatus" status="active">RGGendarmes</Effect>
 			<Effect type="TechStatus" status="active">GuardGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">RGVoltigeur</Effect>
+			<Effect type="TechStatus" status="active">RGGendarmes</Effect>
 			<Effect type="TechStatus" status="active">FieldGun</Effect>
 			<Effect type="TechStatus" status="active">GrapeShot</Effect>
 			<Effect type="TechStatus" status="active">Howitzer</Effect>
@@ -12104,13 +12096,11 @@
 		<Effects>
 			<Effect type ='TechStatus' status ='active'>Industrialize</Effect>
 			<Effect type="TechStatus" status="active">GuardLongbowmen</Effect>
-			<Effect type="TechStatus" status="active">GuardMusketeers</Effect>
-			<Effect type="TechStatus" status="active">RGRedcoats</Effect>
 			<Effect type="TechStatus" status="active">GuardSkirmishers</Effect>
-			<Effect type="TechStatus" status="active">GuardHussars</Effect>
-			<Effect type="TechStatus" status="active">RGLifeGuardHussars</Effect>
 			<Effect type="TechStatus" status="active">GuardDragoons</Effect>
 			<Effect type="TechStatus" status="active">GuardGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">RGRedcoats</Effect>
+			<Effect type="TechStatus" status="active">RGLifeGuardHussars</Effect>
 			<Effect type="TechStatus" status="active">FieldGun</Effect>
 			<Effect type="TechStatus" status="active">GrapeShot</Effect>
 			<Effect type="TechStatus" status="active">Howitzer</Effect>
@@ -12128,11 +12118,9 @@
 			<Effect type ='TechStatus' status ='active'>Industrialize</Effect>
 			<Effect type="TechStatus" status="active">GuardMusketeers</Effect>
 			<Effect type="TechStatus" status="active">GuardSkirmishers</Effect>
-			<Effect type="TechStatus" status="active">GuardHalberdiers</Effect>
-			<Effect type="TechStatus" status="active">RGNassausLinearTactics</Effect>
 			<Effect type="TechStatus" status="active">GuardHussars</Effect>
-			<Effect type="TechStatus" status="active">GuardRuyters</Effect>
 			<Effect type="TechStatus" status="active">RGCarabineer</Effect>
+			<Effect type="TechStatus" status="active">RGNassausLinearTactics</Effect>
 			<Effect type="TechStatus" status="active">GuardGrenadiers</Effect>
 			<Effect type="TechStatus" status="active">FieldGun</Effect>
 			<Effect type="TechStatus" status="active">GrapeShot</Effect>
@@ -12224,16 +12212,13 @@
 		<Flag>Shadow</Flag>
 		<Effects>
 			<Effect type ='TechStatus' status ='active'>Industrialize</Effect>
-			<Effect type="TechStatus" status="active">GuardPikemen</Effect>
-			<Effect type="TechStatus" status="active">RGTercio</Effect>
 			<Effect type="TechStatus" status="active">GuardMusketeers</Effect>
 			<Effect type="TechStatus" status="active">GuardSkirmishers</Effect>
 			<Effect type="TechStatus" status="active">GuardHalberdiers</Effect>
-			<Effect type="TechStatus" status="active">GuardRodeleros</Effect>
-			<Effect type="TechStatus" status="active">RGEspadachins</Effect>
 			<Effect type="TechStatus" status="active">GuardHussars</Effect>
 			<Effect type="TechStatus" status="active">GuardDragoons</Effect>
-			<Effect type="TechStatus" status="active">GuardLancers</Effect>
+			<Effect type="TechStatus" status="active">RGTercio</Effect>
+			<Effect type="TechStatus" status="active">RGEspadachins</Effect>
 			<Effect type="TechStatus" status="active">RGGarrochista</Effect>
 			<Effect type="TechStatus" status="active">FieldGun</Effect>
 			<Effect type="TechStatus" status="active">GrapeShot</Effect>
@@ -12262,12 +12247,10 @@
 		<Flag>Shadow</Flag>
 		<Effects>
 			<Effect type ='TechStatus' status ='active'>Industrialize</Effect>
-			<Effect type="TechStatus" status="active">GuardSkirmishers</Effect>
-			<Effect type="TechStatus" status="active">RGPrussianNeedleGun</Effect>
 			<Effect type="TechStatus" status="active">GuardDopplesoldners</Effect>
 			<Effect type="TechStatus" status="active">GuardHussars</Effect>
-			<Effect type="TechStatus" status="active">GuardUhlans</Effect>
 			<Effect type="TechStatus" status="active">RGCzapkaUhlans</Effect>
+			<Effect type="TechStatus" status="active">RGPrussianNeedleGun</Effect>
 			<Effect type="TechStatus" status="active">GuardWarWagons</Effect>
 			<Effect type="TechStatus" status="active">FieldGun</Effect>
 			<Effect type="TechStatus" status="active">GrapeShot</Effect>
@@ -12284,13 +12267,11 @@
 		<Flag>Shadow</Flag>
 		<Effects>
 			<Effect type ='TechStatus' status ='active'>Industrialize</Effect>
-			<Effect type="TechStatus" status="active">GuardMusketeers</Effect>
-			<Effect type="TechStatus" status="active">RGGuerreiros</Effect>
 			<Effect type="TechStatus" status="active">GuardHalberdiers</Effect>
 			<Effect type="TechStatus" status="active">GuardCacadores</Effect>
 			<Effect type="TechStatus" status="active">GuardHussars</Effect>
-			<Effect type="TechStatus" status="active">GuardDragoons</Effect>
 			<Effect type="TechStatus" status="active">RGJinetes</Effect>
+			<Effect type="TechStatus" status="active">RGGuerreiros</Effect>
 			<Effect type="TechStatus" status="active">Rabauld</Effect>
 			<Effect type="TechStatus" status="active">GrapeShot</Effect>
 			<Effect type="TechStatus" status="active">Howitzer</Effect>
@@ -13359,6 +13340,7 @@
 			<Effect type ='TechStatus' status ='active'>ImperialBombard</Effect>
 			<Effect type ='TechStatus' status ='active'>ImperialManOWar</Effect>
 			<Effect type ='TechStatus' status ='active'>ImperialMonitors</Effect>
+			<Effect type ='TechStatus' status ='active'>ImperialCavalryArchers</Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='ImperializePortuguese' type ='Normal'>
@@ -13398,7 +13380,6 @@
 			<Effect type ='TechStatus' status ='active'>ImperialStrelets</Effect>
 			<Effect type ='TechStatus' status ='active'>ImperialCossack</Effect>
 			<Effect type ='TechStatus' status ='active'>ImperialOprichniks</Effect>
-			<Effect type ='TechStatus' status ='active'>ImperialCavalryArchers</Effect>
 			<Effect type ='TechStatus' status ='active'>ImperialTartarLoyalist</Effect>
 			<Effect type ='TechStatus' status ='active'>ImperialPavlovs</Effect>
 			<Effect type ='TechStatus' status ='active'>ImperialFieldGun</Effect>
@@ -15379,10 +15360,10 @@
 			<Effect type="TechStatus" status="active">VeteranMusketeers</Effect>
 			<Effect type="TechStatus" status="active">VeteranStrelets</Effect>
 			<Effect type="TechStatus" status="active">VeteranHussars</Effect>
-			<Effect type="TechStatus" status="active">VeteranDragoonsShadow</Effect>
 			<Effect type="TechStatus" status="active">VeteranCossacks</Effect>
-			<Effect type="TechStatus" status="active">VeteranCavalryArchersShadow</Effect>
 			<Effect type="TechStatus" status="active">VeteranGrenadiers</Effect>
+			<Effect type="TechStatus" status="active">VeteranDragoonsShadow</Effect>
+			<Effect type="TechStatus" status="active">VeteranCavalryArchersShadow</Effect>
 		</Effects>
 	</Tech>
 	<Tech name ='FortressizeSPCAct1' type ='Normal'>
@@ -24926,6 +24907,7 @@
 	<IconTextureCoords>.400390625 .001953125 .59765625 .302734375</IconTextureCoords>
 	<RolloverTextID>43689</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>NativeDance</Flag>
 	<Prereqs>
@@ -24944,6 +24926,7 @@
 	<RolloverTextID>43692</RolloverTextID>
 	<Flag>NativeDance</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Effects>
 		<Effect type ='Data' action ='ExtraBounty' amount ='0.00' subtype ='ActionEnable' relativity ='Absolute'>
@@ -24963,6 +24946,7 @@
 	<IconTextureCoords>.599609375 .001953125 .796875 .302734375</IconTextureCoords>
 	<RolloverTextID>43695</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>NativeDance</Flag>
 	<Prereqs>
@@ -31366,6 +31350,7 @@
 	<IconTextureCoords>.001953125 .3046875 .19921875 .60546875</IconTextureCoords>
 	<RolloverTextID>45708</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>NativeDance</Flag>
 	<Prereqs>
@@ -31386,6 +31371,7 @@
 	<RolloverTextID>45710</RolloverTextID>
 	<Flag>NativeDance</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -32437,6 +32423,7 @@
 	<RolloverTextID>46181</RolloverTextID>
 	<Flag>CheckWaterHCGatherPoint</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>NativeDance</Flag>
 	<Prereqs>
@@ -35968,7 +35955,7 @@
 		<Effect type ='Data' amount ='1.20' subtype ='Hitpoints' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
 		<Effect type ='TextOutput'>70362</Effect>
-		<Effect type ='Data' action ='SabotageAttack' amount ='0.50' subtype ='Damage' relativity ='BasePercent'>
+		<Effect type ='Data' action ='SabotageAttack' amount ='0.80' subtype ='Damage' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
 	</Effects>
 </Tech>
@@ -37914,7 +37901,7 @@
 			<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
 		<Effect type ='TechStatus' status ='active'>ypColonializeWonderHelper</Effect>
 		<Effect type ='TechStatus' status ='active'>ypFakeColonialAge</Effect>
-		<Effect type ='Data' action ='SabotageAttack' amount ='1.00' subtype ='Damage' relativity ='Percent'>
+		<Effect type ='Data' action ='SabotageAttack' amount ='0.50' subtype ='Damage' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractJapaneseMonk</Target></Effect>
 	</Effects>
 </Tech>
@@ -38005,7 +37992,7 @@
 			<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
 		<Effect type ='TechStatus' status ='active'>ypFortessizeWonderHelper</Effect>
 		<Effect type ='TechStatus' status ='active'>ypFakeFortressAge</Effect>
-		<Effect type ='Data' action ='SabotageAttack' amount ='1.00' subtype ='Damage' relativity ='Percent'>
+		<Effect type ='Data' action ='SabotageAttack' amount ='0.00' subtype ='Damage' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractJapaneseMonk</Target></Effect>
 		<Effect type="TechStatus" status="active">YPDisciplinedYumi</Effect>
 		<Effect type="TechStatus" status="active">YPDisciplinedAshigaru</Effect>
@@ -38102,7 +38089,7 @@
 			<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
 		<Effect type ='TechStatus' status ='active'>ypIndustializeWonderHelper</Effect>
 		<Effect type ='TechStatus' status ='active'>ypFakeIndustrialAge</Effect>
-		<Effect type ='Data' action ='SabotageAttack' amount ='1.00' subtype ='Damage' relativity ='Percent'>
+		<Effect type ='Data' action ='SabotageAttack' amount ='-0.50' subtype ='Damage' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractJapaneseMonk</Target></Effect>
 		<Effect type="TechStatus" status="active">YPHonoredYumi</Effect>
 		<Effect type="TechStatus" status="active">YPHonoredAshigaru</Effect>
@@ -38198,7 +38185,7 @@
 			<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
 		<Effect type ='TechStatus' status ='active'>ypImperializeWonderHelper</Effect>
 		<Effect type ='TechStatus' status ='active'>ypFakeImperialAge</Effect>
-		<Effect type ='Data' action ='SabotageAttack' amount ='1.00' subtype ='Damage' relativity ='Percent'>
+		<Effect type ='Data' action ='SabotageAttack' amount ='-1.00' subtype ='Damage' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>AbstractJapaneseMonk</Target></Effect>
 		<Effect type ='TechStatus' status ='active'>ypConsulateJapaneseMeijiRestoration</Effect>
 		<Effect type ='TechStatus' status ='unobtainable'>ypConsulateJapaneseMeijiRestoration</Effect>
@@ -52707,6 +52694,7 @@
 	<RolloverTextID>23262</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>ForceLastInLine</Flag>
 	<Flag>Shadow</Flag>
 	<Effects>
