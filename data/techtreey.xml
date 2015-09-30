@@ -8030,6 +8030,7 @@
 		<RolloverTextID>70234</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<techstatus status ='Active'>Imperialize</techstatus></Prereqs>
 		<Effects>
@@ -8059,6 +8060,7 @@
 		<Icon>ui\techs\veteran_infantry\veteran_infantry</Icon>
 		<RolloverTextID>22851</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -8081,6 +8083,7 @@
 		<RolloverTextID>23056</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
@@ -8101,6 +8104,7 @@
 		<Icon>ui\techs\guard_infantry\guard_infantry</Icon>
 		<RolloverTextID>23055</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>VeteranMusketeers</TechStatus>
@@ -8146,6 +8150,7 @@
 		<RolloverTextID>23187</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
@@ -8166,6 +8171,7 @@
 		<Icon>ui\techs\veteran_cavalry\veteran_cavalry</Icon>
 		<RolloverTextID>23196</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -8188,6 +8194,7 @@
 		<RolloverTextID>23199</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>VeteranUhlans</TechStatus>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -8210,6 +8217,7 @@
 		<Icon>ui\techs\guard_spear_infantry\guard_spear_infantry</Icon>
 		<RolloverTextID>23206</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -8232,6 +8240,7 @@
 		<RolloverTextID>23209</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
@@ -8252,6 +8261,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23213</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -8276,6 +8286,7 @@
 		<RolloverTextID>23220</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -8296,6 +8307,7 @@
 		<Icon>ui\techs\guard_grenadier_artillery\guard_grenadier_artillery</Icon>
 		<RolloverTextID>23223</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -8320,6 +8332,7 @@
 		<RolloverTextID>23226</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -8340,6 +8353,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23229</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -8362,6 +8376,7 @@
 		<RolloverTextID>23232</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -8382,6 +8397,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23254</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>Shadow</Flag>
 		<Prereqs>
@@ -8405,6 +8421,7 @@
 		<RolloverTextID>23262</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>ForceLastInLine</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -8428,6 +8445,7 @@
 		<Icon>ui\techs\infantry_breastplate\infantry_breastplate</Icon>
 		<RolloverTextID>23294</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -8492,6 +8510,7 @@
 		<Icon>ui\techs\paper_cartridge\paper_cartridge</Icon>
 		<RolloverTextID>23297</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -8510,6 +8529,7 @@
 		<RolloverTextID>23306</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
 		<Effects>
@@ -8526,6 +8546,7 @@
 		<Icon>ui\techs\trunion\trunion</Icon>
 		<RolloverTextID>23310</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -8544,6 +8565,7 @@
 		<RolloverTextID>23321</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
 		<Effects>
@@ -8561,6 +8583,7 @@
 		<RolloverTextID>23327</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
 		<Effects>
@@ -8578,6 +8601,7 @@
 		<RolloverTextID>23330</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
 		<Effects>
@@ -8594,6 +8618,7 @@
 		<Icon>ui\techs\bayonet\bayonet</Icon>
 		<RolloverTextID>23334</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
 		<Effects>
@@ -8733,6 +8758,7 @@
 		<Icon>ui\techs\rifling\rifling</Icon>
 		<RolloverTextID>23340</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -8786,6 +8812,7 @@
 		<RolloverTextID>23348</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
 		<Effects>
@@ -8802,6 +8829,7 @@
 		<Icon>ui\techs\heated_shot\heated_shot</Icon>
 		<RolloverTextID>23353</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -8821,6 +8849,7 @@
 		<RolloverTextID>23363</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -8839,6 +8868,7 @@
 		<Icon>ui\techs\guard_artillery\guard_artillery</Icon>
 		<RolloverTextID>23366</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -8859,6 +8889,7 @@
 		<RolloverTextID>23369</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -9013,6 +9044,7 @@
 		<RolloverTextID>23419</RolloverTextID>
 		<Flag>CountsTowardEconomicScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Effects>
 			<Effect type ='Data' amount ='1.35' subtype ='Hitpoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>AbstractVillager</Target></Effect></Effects>
@@ -9027,6 +9059,7 @@
 		<Icon>ui\techs\bastion\bastion</Icon>
 		<RolloverTextID>23451</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -9068,6 +9101,7 @@
 		<RolloverTextID>23475</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -9087,6 +9121,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23478</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -9235,6 +9270,7 @@
 		<Icon>ui\techs\champion_natives\champion_natives</Icon>
 		<RolloverTextID>23568</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
@@ -9264,6 +9300,7 @@
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 			<TechStatus status ='Active'>WarriorSocietyComanche</TechStatus>
@@ -9380,6 +9417,7 @@
 		<RolloverTextID>23627</RolloverTextID>
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>WarriorSocietySeminoles</TechStatus>
@@ -9404,6 +9442,7 @@
 		<RolloverTextID>23624</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -9430,6 +9469,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23659</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -9454,6 +9494,7 @@
 		<RolloverTextID>23663</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 		<Effects>
@@ -9560,6 +9601,7 @@
 		<Icon>ui\techs\guard_infantry\guard_infantry</Icon>
 		<RolloverTextID>23715</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -9600,6 +9642,7 @@
 		<Icon>ui\techs\veteran_infantry\veteran_infantry</Icon>
 		<RolloverTextID>23756</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -9622,6 +9665,7 @@
 		<RolloverTextID>23760</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>VeteranJanissaries</TechStatus>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -9682,6 +9726,7 @@
 		<Icon>ui\techs\guard_grenadier_artillery\guard_grenadier_artillery</Icon>
 		<RolloverTextID>23776</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -9705,6 +9750,7 @@
 		<RolloverTextID>23830</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -9724,6 +9770,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23833</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -9787,6 +9834,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23845</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -9832,6 +9880,7 @@
 		<Icon>ui\techs\veteran_sword_infantry\veteran_sword_infantry</Icon>
 		<RolloverTextID>23857</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -9854,6 +9903,7 @@
 		<RolloverTextID>23871</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -9874,6 +9924,7 @@
 		<Icon>ui\techs\guard_spear_infantry\guard_spear_infantry</Icon>
 		<RolloverTextID>23875</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -9929,6 +9980,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23887</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -9950,6 +10002,7 @@
 		<RolloverTextID>23910</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -9970,6 +10023,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23914</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -10017,6 +10071,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>23955</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -10043,6 +10098,7 @@
 		<Flag>UniqueTech</Flag>
 		<Flag>CountsTowardEconomicScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Effects>
 			<Effect type ='Data' amount ='-5.00' subtype ='TrainPoints' relativity ='Absolute'>
 				<Target type ='ProtoUnit'>Settler</Target></Effect></Effects>
@@ -10134,6 +10190,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>24110</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -10156,6 +10213,7 @@
 		<RolloverTextID>24124</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -10176,6 +10234,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>24137</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -10197,6 +10256,7 @@
 		<RolloverTextID>24159</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 			<TechStatus status ='Active'>VeteranGrenadiers</TechStatus>
@@ -10218,6 +10278,7 @@
 		<Icon>ui\techs\champion_natives\champion_natives</Icon>
 		<RolloverTextID>24198</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
@@ -10252,6 +10313,7 @@
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>WarriorSocietyCherokee</TechStatus>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -10277,6 +10339,7 @@
 		<Icon>ui\techs\champion_natives\champion_natives</Icon>
 		<RolloverTextID>24206</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
@@ -10306,6 +10369,7 @@
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>WarriorSocietyInca</TechStatus>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -10331,6 +10395,7 @@
 		<Icon>ui\techs\champion_natives\champion_natives</Icon>
 		<RolloverTextID>24218</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
@@ -10362,6 +10427,7 @@
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>WarriorSocietyLakota</TechStatus>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -10382,6 +10448,7 @@
 		<Icon>ui\techs\champion_natives\champion_natives</Icon>
 		<RolloverTextID>24230</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
@@ -10856,6 +10923,7 @@
 		<Icon>ui\techs\blunderbuss\blunderbuss_64x64</Icon>
 		<RolloverTextID>24783</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardEconomicScore</Flag>
 		<Effects>
 			<Effect type ='Data' amount ='3.00' subtype ='Damage' allactions ='1' relativity ='Absolute'>
@@ -10972,6 +11040,7 @@
 		<Icon>ui\techs\star_fort\star_fort</Icon>
 		<RolloverTextID>25511</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -11110,6 +11179,7 @@
 		<Icon>ui\techs\guard_spear_infantry\guard_spear_infantry</Icon>
 		<RolloverTextID>26138</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -11168,6 +11238,7 @@
 		<Icon>ui\techs\veteran_sword_infantry\veteran_sword_infantry</Icon>
 		<RolloverTextID>26295</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>Shadow</Flag>
 		<Prereqs>
@@ -11191,6 +11262,7 @@
 		<RolloverTextID>26298</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>VeteranDopplesoldners</TechStatus>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -11213,6 +11285,7 @@
 		<Icon>ui\techs\guard_sword_infantry\guard_sword_infantry</Icon>
 		<RolloverTextID>26803</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -11254,6 +11327,7 @@
 		<Icon>ui\techs\carronade\carronade</Icon>
 		<RolloverTextID>27224</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -11271,6 +11345,7 @@
 		<Icon>ui\techs\percussion_locks\percussion_locks</Icon>
 		<RolloverTextID>27225</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus>
@@ -11290,6 +11365,7 @@
 		<Icon>ui\techs\armor_plating\armor_plating</Icon>
 		<RolloverTextID>27227</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -11305,6 +11381,7 @@
 		<Icon>ui\techs\ship_howitzers\ship_howitzers</Icon>
 		<RolloverTextID>27244</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -11324,6 +11401,7 @@
 		<Icon>ui\techs\guard_cavalry\guard_cavalry</Icon>
 		<RolloverTextID>28767</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>VeteranUhlans</TechStatus>
@@ -11359,6 +11437,7 @@
 		<Icon>ui\techs\guard_spear_infantry\guard_spear_infantry</Icon>
 		<RolloverTextID>28057</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -11380,6 +11459,7 @@
 		<RolloverTextID>28061</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 			<TechStatus status ='Active'>VeteranLongbowmen</TechStatus>
@@ -11435,6 +11515,7 @@
 		<Icon>ui\techs\veteran_grenadier_artillery\veteran_grenadier_artillery</Icon>
 		<RolloverTextID>28320</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -11555,6 +11636,7 @@
 		<RolloverTextID>29208</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
 			<TechStatus status ='Active'>VeteranMusketeers</TechStatus>
@@ -11607,6 +11689,7 @@
 		<RolloverTextID>29449</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
 		<Effects>
@@ -11872,6 +11955,7 @@
 		<Icon>ui\techs\veteran_infantry\veteran_infantry</Icon>
 		<RolloverTextID>29806</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -11894,6 +11978,7 @@
 		<RolloverTextID>29811</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>VeteranStrelets</TechStatus>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -12396,6 +12481,7 @@
 		<Icon>ui\techs\imperial_grenadier_artillery\imperial_grenadier_artillery</Icon>
 		<RolloverTextID>30928</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12419,6 +12505,7 @@
 		<RolloverTextID>30932</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardRuyters</TechStatus>
 			<TechStatus status ='Active'>RGCarabineer</TechStatus>
@@ -12440,6 +12527,7 @@
 		<Icon>ui\techs\imperial_cavalry\imperial_cavalry</Icon>
 		<RolloverTextID>30936</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12463,6 +12551,7 @@
 		<RolloverTextID>30944</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardDragoons</TechStatus>
 			<TechStatus status ='Active'>RGJinetes</TechStatus>
@@ -12484,6 +12573,7 @@
 		<Icon>ui\techs\imperial_spear_infantry\imperial_spear_infantry</Icon>
 		<RolloverTextID>30948</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12507,6 +12597,7 @@
 		<RolloverTextID>30958</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardMusketeers</TechStatus>
 			<TechStatus status ='Active'>RGRedcoats</TechStatus>
@@ -12528,6 +12619,7 @@
 		<Icon>ui\techs\imperial_cavalry\imperial_cavalry</Icon>
 		<RolloverTextID>30961</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12550,6 +12642,7 @@
 		<RolloverTextID>30965</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardCavalryArchers</TechStatus>
 			<TechStatus status ='Active'>RGTartarLoyalists</TechStatus>
@@ -12571,6 +12664,7 @@
 		<Icon>ui\techs\imperial_infantry\imperial_infantry</Icon>
 		<RolloverTextID>30979</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12594,6 +12688,7 @@
 		<RolloverTextID>30983</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardDragoons</TechStatus>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12614,6 +12709,7 @@
 		<Icon>ui\techs\imperial_grenadier_artillery\imperial_grenadier_artillery</Icon>
 		<RolloverTextID>30988</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12636,6 +12732,7 @@
 		<RolloverTextID>30991</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardHalberdiers</TechStatus>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12656,6 +12753,7 @@
 		<Icon>ui\techs\imperial_cavalry\imperial_cavalry</Icon>
 		<RolloverTextID>30995</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12678,6 +12776,7 @@
 		<RolloverTextID>30999</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardMusketeers</TechStatus>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12698,6 +12797,7 @@
 		<Icon>ui\techs\imperial_cavalry\imperial_cavalry</Icon>
 		<RolloverTextID>31003</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12721,6 +12821,7 @@
 		<RolloverTextID>31007</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardSkirmishers</TechStatus>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12741,6 +12842,7 @@
 		<Icon>ui\techs\imperial_cavalry\imperial_cavalry</Icon>
 		<RolloverTextID>31015</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12764,6 +12866,7 @@
 		<RolloverTextID>31020</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardMusketeers</TechStatus>
 			<TechStatus status ='Active'>RGGuerreiros</TechStatus>
@@ -12785,6 +12888,7 @@
 		<Icon>ui\techs\imperial_grenadier_artillery\imperial_grenadier_artillery</Icon>
 		<RolloverTextID>31024</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12808,6 +12912,7 @@
 		<RolloverTextID>31029</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardJanissaries</TechStatus>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12828,6 +12933,7 @@
 		<Icon>ui\techs\imperial_infantry\imperial_infantry</Icon>
 		<RolloverTextID>31033</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12850,6 +12956,7 @@
 		<RolloverTextID>31045</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardLongbowmen</TechStatus>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12870,6 +12977,7 @@
 		<Icon>ui\techs\imperial_sword_infantry\imperial_sword_infantry</Icon>
 		<RolloverTextID>31049</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12892,6 +13000,7 @@
 		<RolloverTextID>31053</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardCossacks</TechStatus>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12912,6 +13021,7 @@
 		<Icon>ui\techs\imperial_cavalry\imperial_cavalry</Icon>
 		<RolloverTextID>31057</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12934,6 +13044,7 @@
 		<RolloverTextID>31061</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>ForceLastInLine</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>GuardWarWagons</TechStatus>
@@ -12955,6 +13066,7 @@
 		<Icon>ui\techs\imperial_cavalry\imperial_cavalry</Icon>
 		<RolloverTextID>31065</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12977,6 +13089,7 @@
 		<RolloverTextID>31069</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>FieldGun</TechStatus>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -12997,6 +13110,7 @@
 		<Icon>ui\techs\imperial_artillery\imperial_artillery</Icon>
 		<RolloverTextID>31073</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -13019,6 +13133,7 @@
 		<RolloverTextID>31077</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Howitzer</TechStatus>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -13039,6 +13154,7 @@
 		<Icon>ui\techs\imperial_artillery\imperial_artillery</Icon>
 		<RolloverTextID>31081</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus></Prereqs>
@@ -13058,6 +13174,7 @@
 		<Icon>ui\techs\imperial_artillery\imperial_artillery</Icon>
 		<RolloverTextID>31085</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -13116,6 +13233,7 @@
 		<Icon>ui\techs\imperial_navy\imperial_navy</Icon>
 		<RolloverTextID>31111</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>OrPrereqs</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
@@ -13327,6 +13445,7 @@
 		<Icon>ui\techs\imperial_artillery\imperial_artillery</Icon>
 		<RolloverTextID>31121</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus></Prereqs>
@@ -13347,6 +13466,7 @@
 		<RolloverTextID>31185</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>OrPrereqs</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus></Prereqs>
@@ -13366,6 +13486,7 @@
 		<Icon>ui\techs\imperial_infantry\imperial_infantry</Icon>
 		<RolloverTextID>31190</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -13388,6 +13509,7 @@
 		<RolloverTextID>31285</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 		<Effects>
@@ -13445,6 +13567,7 @@
 		<RolloverTextID>31477</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>ChampionCaribs</TechStatus></Prereqs>
@@ -13609,6 +13732,7 @@
 		<RolloverTextID>31556</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus></Prereqs>
 		<Effects>
@@ -13730,6 +13854,7 @@
 		<RolloverTextID>31795</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>WarriorSocietyNootka</TechStatus>
@@ -13761,6 +13886,7 @@
 		<Icon>ui\techs\veteran_artillery\veteran_artillery</Icon>
 		<RolloverTextID>32065</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -13783,6 +13909,7 @@
 		<RolloverTextID>32069</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
 			<TechStatus status ='Active'>GuardAbusGuns</TechStatus>
@@ -13827,6 +13954,7 @@
 		<RolloverTextID>32342</RolloverTextID>
 		<Flag>CountsTowardEconomicScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Colonialize</TechStatus>
 			<TechStatus status ='Active'>ChurchKopruluViziers</TechStatus>
@@ -13845,6 +13973,7 @@
 		<Icon>ui\techs\topkapi\topkapi</Icon>
 		<RolloverTextID>32345</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardEconomicScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>ChurchGalataTowerDistrict</TechStatus>
@@ -14410,6 +14539,7 @@
 		<RolloverTextID>33344</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14435,6 +14565,7 @@
 		<RolloverTextID>33349</RolloverTextID>
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14465,6 +14596,7 @@
 		<RolloverTextID>33352</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14490,6 +14622,7 @@
 		<RolloverTextID>33355</RolloverTextID>
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14515,6 +14648,7 @@
 		<RolloverTextID>33358</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14540,6 +14674,7 @@
 		<RolloverTextID>33361</RolloverTextID>
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14567,6 +14702,7 @@
 		<RolloverTextID>33367</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14594,6 +14730,7 @@
 		<RolloverTextID>33371</RolloverTextID>
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14614,6 +14751,7 @@
 		<RolloverTextID>33374</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14639,6 +14777,7 @@
 		<RolloverTextID>33377</RolloverTextID>
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14669,6 +14808,7 @@
 		<RolloverTextID>33380</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>YPNativeImprovement</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -14689,6 +14829,7 @@
 		<RolloverTextID>33383</RolloverTextID>
 		<Flag>YPNativeImprovement</Flag>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -15448,6 +15589,7 @@
 		<Icon>ui\techs\imperial_artillery\imperial_artillery</Icon>
 		<RolloverTextID>34572</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus></Prereqs>
@@ -15901,6 +16043,7 @@
 		<Icon>ui\techs\guard_sword_infantry\guard_sword_infantry</Icon>
 		<RolloverTextID>35178</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -15923,6 +16066,7 @@
 		<Icon>ui\techs\imperial_spear_infantry\imperial_spear_infantry</Icon>
 		<RolloverTextID>35185</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>RGTercio</TechStatus>
@@ -15944,6 +16088,7 @@
 		<Icon>ui\techs\imperial_cavalry\imperial_cavalry</Icon>
 		<RolloverTextID>35191</RolloverTextID>
 		<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
 			<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -16415,6 +16560,7 @@
 	<Icon>ui\techs\imperial_sword_infantry\imperial_sword_infantry</Icon>
 	<RolloverTextID>35384</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>GuardRodeleros</TechStatus>
@@ -21794,6 +21940,7 @@
 	<Icon>ui\techs\guard_artillery\guard_artillery</Icon>
 	<RolloverTextID>36748</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>VeteranAbusGuns</TechStatus>
@@ -22322,6 +22469,7 @@
 	<Icon>ui\techs\imperial_artillery\imperial_artillery</Icon>
 	<RolloverTextID>37010</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>RGPrussianNeedleGun</TechStatus>
@@ -23546,6 +23694,7 @@
 	<Flag>UniqueTech</Flag>
 	<Flag>CountsTowardEconomicScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Colonialize</TechStatus>
 		<TechStatus status ='Active'>ChurchMilletSystem</TechStatus>
@@ -23565,6 +23714,7 @@
 	<Flag>UniqueTech</Flag>
 	<Flag>CountsTowardEconomicScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
 	<Effects>
@@ -23582,6 +23732,7 @@
 	<Icon>ui\techs\tanzimat\tanzimat_icon_64x64</Icon>
 	<RolloverTextID>41961</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardEconomicScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChurchTopkapi</TechStatus>
@@ -24023,6 +24174,7 @@
 	<RolloverTextID>43511</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -24042,6 +24194,7 @@
 	<RolloverTextID>43515</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -24061,6 +24214,7 @@
 	<RolloverTextID>43519</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 	<Effects>
@@ -24080,6 +24234,7 @@
 	<RolloverTextID>43523</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 	<Effects>
@@ -24099,6 +24254,7 @@
 	<RolloverTextID>43527</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -24124,6 +24280,7 @@
 	<RolloverTextID>43531</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 	<Effects>
@@ -24143,6 +24300,7 @@
 	<RolloverTextID>43535</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 	<Effects>
@@ -24161,6 +24319,7 @@
 	<Icon>ui\techs\native\champion_ranged_infantry</Icon>
 	<RolloverTextID>43539</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -24182,6 +24341,7 @@
 	<Icon>ui\techs\native\champion_cavalry</Icon>
 	<RolloverTextID>43543</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>EliteHorsemen</TechStatus>
@@ -24203,6 +24363,7 @@
 	<Icon>ui\techs\native\champion_ranged_infantry</Icon>
 	<RolloverTextID>43547</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -24224,6 +24385,7 @@
 	<Icon>ui\techs\field_gun\field_gun_64x64</Icon>
 	<RolloverTextID>43561</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -24243,6 +24405,7 @@
 	<Icon>ui\techs\native\legendary_siege</Icon>
 	<RolloverTextID>43565</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -24264,6 +24427,7 @@
 	<Icon>ui\techs\native\legendary_ranged_infantry</Icon>
 	<RolloverTextID>43569</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChampionAennas</TechStatus>
@@ -24285,6 +24449,7 @@
 	<Icon>ui\techs\native\legendary_cavalry</Icon>
 	<RolloverTextID>43573</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -24306,6 +24471,7 @@
 	<Icon>ui\techs\native\legendary_siege</Icon>
 	<RolloverTextID>43576</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChampionRams</TechStatus>
@@ -24327,6 +24493,7 @@
 	<Icon>ui\techs\native\legendary_siege</Icon>
 	<RolloverTextID>43579</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -24348,6 +24515,7 @@
 	<Icon>ui\techs\native\legendary_cavalry</Icon>
 	<RolloverTextID>43582</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChampionMusketRiders</TechStatus>
@@ -24369,6 +24537,7 @@
 	<Icon>ui\techs\native\legendary_ranged_infantry</Icon>
 	<RolloverTextID>43585</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -24390,6 +24559,7 @@
 	<Icon>ui\techs\native\legendary_ranged_infantry</Icon>
 	<RolloverTextID>43588</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChampionTomahawk</TechStatus>
@@ -25779,6 +25949,7 @@
 	<Icon>ui\techs\native\legendary_ranged_infantry</Icon>
 	<RolloverTextID>43865</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -25801,6 +25972,7 @@
 	<RolloverTextID>43935</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -25820,6 +25992,7 @@
 	<RolloverTextID>43939</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -25838,6 +26011,7 @@
 	<Icon>ui\techs\native\champion_ranged_infantry</Icon>
 	<RolloverTextID>43943</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -25859,6 +26033,7 @@
 	<Icon>ui\techs\native\champion_infantry</Icon>
 	<RolloverTextID>43947</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>EliteWarClubs</TechStatus>
@@ -25881,6 +26056,7 @@
 	<RolloverTextID>43959</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 	<Effects>
@@ -25933,6 +26109,7 @@
 	<RolloverTextID>43978</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -25958,6 +26135,7 @@
 	<RolloverTextID>43981</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -25976,6 +26154,7 @@
 	<Icon>ui\techs\native\champion_ranged_infantry</Icon>
 	<RolloverTextID>43984</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -25997,6 +26176,7 @@
 	<Icon>ui\techs\native\champion_infantry</Icon>
 	<RolloverTextID>43987</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>EliteCoyotemen</TechStatus>
@@ -26655,6 +26835,7 @@
 	<RolloverTextID>44127</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
 	<Effects>
@@ -26673,6 +26854,7 @@
 	<Icon>ui\techs\native\champion_infantry</Icon>
 	<RolloverTextID>44166</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -26694,6 +26876,7 @@
 	<Icon>ui\techs\native\champion_ranged_infantry</Icon>
 	<RolloverTextID>44170</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -26713,6 +26896,7 @@
 	<Icon>ui\techs\native\champion_ranged_infantry</Icon>
 	<RolloverTextID>44173</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -26732,6 +26916,7 @@
 	<Icon>ui\techs\native\champion_infantry</Icon>
 	<RolloverTextID>44176</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -26752,6 +26937,7 @@
 	<RolloverTextID>44182</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -26770,6 +26956,7 @@
 	<Icon>ui\techs\native\legendary_infantry</Icon>
 	<RolloverTextID>44198</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -26791,6 +26978,7 @@
 	<Icon>ui\techs\native\legendary_infantry</Icon>
 	<RolloverTextID>44201</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChampionPumaMen</TechStatus>
@@ -26812,6 +27000,7 @@
 	<Icon>ui\techs\native\legendary_ranged_infantry</Icon>
 	<RolloverTextID>44205</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -26833,6 +27022,7 @@
 	<Icon>ui\techs\native\legendary_ranged_infantry</Icon>
 	<RolloverTextID>44208</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChampionArrowKnight</TechStatus>
@@ -26854,6 +27044,7 @@
 	<Icon>ui\techs\native\legendary_ranged_infantry</Icon>
 	<RolloverTextID>44211</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -26875,6 +27066,7 @@
 	<Icon>ui\techs\native\legendary_infantry</Icon>
 	<RolloverTextID>44214</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChampionJaguarKnight</TechStatus>
@@ -27493,6 +27685,7 @@
 	<RolloverTextID>44304</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -27519,6 +27712,7 @@
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -27542,6 +27736,7 @@
 	<Icon>ui\techs\champion_natives\champion_natives</Icon>
 	<RolloverTextID>44312</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
@@ -27570,6 +27765,7 @@
 	<RolloverTextID>44316</RolloverTextID>
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>WarriorSocietyZapotec</TechStatus>
@@ -27976,6 +28172,7 @@
 	<RolloverTextID>44378</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -27997,6 +28194,7 @@
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -28016,6 +28214,7 @@
 	<RolloverTextID>44386</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -28037,6 +28236,7 @@
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -28060,6 +28260,7 @@
 	<Icon>ui\techs\champion_natives\champion_natives</Icon>
 	<RolloverTextID>44394</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
@@ -28083,6 +28284,7 @@
 	<RolloverTextID>44398</RolloverTextID>
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>WarriorSocietyApache</TechStatus>
@@ -28104,6 +28306,7 @@
 	<Icon>ui\techs\champion_natives\champion_natives</Icon>
 	<RolloverTextID>44402</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
@@ -28127,6 +28330,7 @@
 	<RolloverTextID>44406</RolloverTextID>
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>WarriorSocietyCheyenne</TechStatus>
@@ -28700,6 +28904,7 @@
 	<Icon>ui\techs\native\spirit_medicine</Icon>
 	<RolloverTextID>44603</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardEconomicScore</Flag>
 	<Effects>
 		<Effect type ='Data' amount ='3.00' subtype ='Damage' allactions ='1' relativity ='Absolute'>
@@ -29412,6 +29617,7 @@
 	<Icon>ui\techs\veteran_infantry\veteran_infantry</Icon>
 	<RolloverTextID>44819</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -29433,6 +29639,7 @@
 	<Icon>ui\techs\guard_infantry\guard_infantry</Icon>
 	<RolloverTextID>44823</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>VeteranColonialMilitia</TechStatus>
@@ -29810,6 +30017,7 @@
 	<Icon>ui\techs\warrior_society\warrior_society</Icon>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>Shadow</Flag>
 	<Flag>OrPrereqs</Flag>
 	<Prereqs>
@@ -30372,6 +30580,7 @@
 	<RolloverTextID>45355</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>NativeDance</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Colonialize</TechStatus></Prereqs>
@@ -30621,6 +30830,7 @@
 	<RolloverTextID>45387</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -30642,6 +30852,7 @@
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>WarriorSocietyMapuche</TechStatus>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -30977,6 +31188,7 @@
 	<RolloverTextID>45667</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -30995,6 +31207,7 @@
 	<Icon>ui\techs\native\champion_cavalry</Icon>
 	<RolloverTextID>45677</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>EliteAxeRiders</TechStatus>
@@ -31018,6 +31231,7 @@
 	<Icon>ui\techs\native\champion_cavalry</Icon>
 	<RolloverTextID>45681</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -31037,6 +31251,7 @@
 	<Icon>ui\techs\native\legendary_cavalry</Icon>
 	<RolloverTextID>45688</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -31060,6 +31275,7 @@
 	<Icon>ui\techs\native\legendary_cavalry</Icon>
 	<RolloverTextID>45691</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChampionCoupRiders</TechStatus>
@@ -31081,6 +31297,7 @@
 	<Icon>ui\techs\native\legendary_cavalry</Icon>
 	<RolloverTextID>45694</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -31102,6 +31319,7 @@
 	<Icon>ui\techs\native\legendary_infantry</Icon>
 	<RolloverTextID>45700</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>ChampionWarClubs</TechStatus>
@@ -31123,6 +31341,7 @@
 	<Icon>ui\techs\native\legendary_ranged_infantry</Icon>
 	<RolloverTextID>45703</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -32329,6 +32548,7 @@
 	<RolloverTextID>46308</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -32347,6 +32567,7 @@
 	<Icon>ui\techs\native\champion_cavalry</Icon>
 	<RolloverTextID>46312</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>EliteBowRider</TechStatus>
@@ -32368,6 +32589,7 @@
 	<Icon>ui\techs\native\legendary_cavalry</Icon>
 	<RolloverTextID>46316</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -33897,6 +34119,7 @@
 	<Icon>ui\techs\native\Incendiary_Grenades</Icon>
 	<RolloverTextID>46983</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -34127,6 +34350,7 @@
 	<Icon>ui\techs\native\Dance_Hall</Icon>
 	<RolloverTextID>47001</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -35403,6 +35627,7 @@
 	<RolloverTextID>48832</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus></Prereqs>
 	<Effects>
@@ -35497,6 +35722,7 @@
 	<Icon>ui\techs\imperial_artillery\imperial_artillery</Icon>
 	<RolloverTextID>48893</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -35518,6 +35744,7 @@
 	<Icon>ui\techs\guard_artillery\guard_artillery</Icon>
 	<RolloverTextID>48897</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -35670,6 +35897,7 @@
 	<Icon>ui\techs\asians\disciplined_infantry</Icon>
 	<RolloverTextID>60454</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -35689,6 +35917,7 @@
 	<Icon>ui\techs\asians\disciplined_cavalry</Icon>
 	<RolloverTextID>60462</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -35708,6 +35937,7 @@
 	<Icon>ui\techs\asians\disciplined_cavalry</Icon>
 	<RolloverTextID>60468</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -35750,6 +35980,7 @@
 	<Icon>ui\techs\asians\exalted_infantry</Icon>
 	<RolloverTextID>60482</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -35771,6 +36002,7 @@
 	<Icon>ui\techs\asians\honored_infantry</Icon>
 	<RolloverTextID>60486</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPDisciplinedRajput</TechStatus>
@@ -35810,6 +36042,7 @@
 	<Icon>ui\techs\asians\honored_cavalry</Icon>
 	<RolloverTextID>60494</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -35831,6 +36064,7 @@
 	<Icon>ui\techs\asians\honored_cavalry</Icon>
 	<RolloverTextID>60498</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPDisciplinedCamelGun</TechStatus>
@@ -35852,6 +36086,7 @@
 	<Icon>ui\techs\asians\honored_elephants</Icon>
 	<RolloverTextID>60502</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -35871,6 +36106,7 @@
 	<Icon>ui\techs\asians\honored_elephants</Icon>
 	<RolloverTextID>60506</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -35908,6 +36144,7 @@
 	<Icon>ui\techs\asians\exalted_cavalry</Icon>
 	<RolloverTextID>60514</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -35929,6 +36166,7 @@
 	<Icon>ui\techs\asians\exalted_cavalry</Icon>
 	<RolloverTextID>60518</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredCamelGun</TechStatus>
@@ -35950,6 +36188,7 @@
 	<Icon>ui\techs\asians\exalted_elephants</Icon>
 	<RolloverTextID>60522</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -35971,6 +36210,7 @@
 	<Icon>ui\techs\asians\exalted_elephants</Icon>
 	<RolloverTextID>60526</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredHowdah</TechStatus>
@@ -35992,6 +36232,7 @@
 	<Icon>ui\techs\asians\exalted_elephants</Icon>
 	<RolloverTextID>60530</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -36028,6 +36269,7 @@
 	<Icon>ui\techs\asians\disciplined_ranged_infantry</Icon>
 	<RolloverTextID>60550</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -36049,6 +36291,7 @@
 	<Icon>ui\techs\asians\disciplined_natives</Icon>
 	<RolloverTextID>60554</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -36068,6 +36311,7 @@
 	<Icon>ui\techs\asians\disciplined_ranged_infantry</Icon>
 	<RolloverTextID>60558</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -36087,6 +36331,7 @@
 	<Icon>ui\techs\asians\disciplined_cavalry</Icon>
 	<RolloverTextID>60566</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -36106,6 +36351,7 @@
 	<Icon>ui\techs\asians\honored_ranged_infantry</Icon>
 	<RolloverTextID>60570</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPDisciplinedYumi</TechStatus>
@@ -36127,6 +36373,7 @@
 	<Icon>ui\techs\asians\honored_ranged_infantry</Icon>
 	<RolloverTextID>60578</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -36148,6 +36395,7 @@
 	<Icon>ui\techs\asians\honored_cavalry</Icon>
 	<RolloverTextID>60586</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPDisciplinedNaginataRider</TechStatus>
@@ -36169,6 +36417,7 @@
 	<Icon>ui\techs\asians\honored_cavalry</Icon>
 	<RolloverTextID>60590</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -36188,6 +36437,7 @@
 	<Icon>ui\techs\asians\exalted_ranged_infantry</Icon>
 	<RolloverTextID>60600</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -36209,6 +36459,7 @@
 	<Icon>ui\techs\asians\exalted_ranged_infantry</Icon>
 	<RolloverTextID>60608</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredAshigaru</TechStatus>
@@ -36230,6 +36481,7 @@
 	<Icon>ui\techs\asians\exalted_cavalry</Icon>
 	<RolloverTextID>60621</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -36251,6 +36503,7 @@
 	<Icon>ui\techs\asians\exalted_cavalry</Icon>
 	<RolloverTextID>60625</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredYabusame</TechStatus>
@@ -36272,6 +36525,7 @@
 	<Icon>ui\techs\asians\disciplined_chokuno</Icon>
 	<RolloverTextID>60631</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -36293,6 +36547,7 @@
 	<RolloverTextID>60642</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -36314,6 +36569,7 @@
 	<Icon>ui\techs\asians\honored_chokuno</Icon>
 	<RolloverTextID>60646</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -36337,6 +36593,7 @@
 	<RolloverTextID>60651</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -36356,6 +36613,7 @@
 	<Icon>ui\techs\asians\honored_keshik</Icon>
 	<RolloverTextID>60657</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -36379,6 +36637,7 @@
 	<RolloverTextID>60663</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -36398,6 +36657,7 @@
 	<Icon>ui\techs\asians\exalted_chokuno</Icon>
 	<RolloverTextID>60671</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -36421,6 +36681,7 @@
 	<RolloverTextID>60676</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredArquebusier</TechStatus>
@@ -36442,6 +36703,7 @@
 	<Icon>ui\techs\asians\exalted_keshik</Icon>
 	<RolloverTextID>60682</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -36465,6 +36727,7 @@
 	<RolloverTextID>60688</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredIronFlail</TechStatus>
@@ -36486,6 +36749,7 @@
 	<Icon>ui\techs\asians\disciplined_siege</Icon>
 	<RolloverTextID>60694</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -36505,6 +36769,7 @@
 	<Icon>ui\techs\asians\honored_siege</Icon>
 	<RolloverTextID>60698</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPDisciplinedFlameThrower</TechStatus>
@@ -36526,6 +36791,7 @@
 	<Icon>ui\techs\asians\honored_siege</Icon>
 	<RolloverTextID>60702</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -36545,6 +36811,7 @@
 	<Icon>ui\techs\asians\exalted_siege</Icon>
 	<RolloverTextID>60706</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -36566,6 +36833,7 @@
 	<Icon>ui\techs\asians\exalted_siege</Icon>
 	<RolloverTextID>60710</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredHandMortar</TechStatus>
@@ -37272,6 +37540,7 @@
 	<RolloverTextID>61146</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -37298,6 +37567,7 @@
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -37322,6 +37592,7 @@
 	<RolloverTextID>61154</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -37348,6 +37619,7 @@
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -37372,6 +37644,7 @@
 	<RolloverTextID>61162</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -37398,6 +37671,7 @@
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
 	<Effects>
@@ -37421,6 +37695,7 @@
 	<Icon>ui\techs\asians\honered_natives</Icon>
 	<RolloverTextID>61170</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
@@ -37449,6 +37724,7 @@
 	<RolloverTextID>61174</RolloverTextID>
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -37475,6 +37751,7 @@
 	<Icon>ui\techs\asians\honered_natives</Icon>
 	<RolloverTextID>61178</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
@@ -37503,6 +37780,7 @@
 	<RolloverTextID>61182</RolloverTextID>
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -37529,6 +37807,7 @@
 	<Icon>ui\techs\asians\honered_natives</Icon>
 	<RolloverTextID>61186</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPNativeImprovement</Flag>
 	<Prereqs>
@@ -37557,6 +37836,7 @@
 	<RolloverTextID>61190</RolloverTextID>
 	<Flag>YPNativeImprovement</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -39959,6 +40239,7 @@
 	<Icon>ui\techs\asians\disciplined_ranged_infantry</Icon>
 	<RolloverTextID>62058</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -39978,6 +40259,7 @@
 	<Icon>ui\techs\asians\exalted_ranged_infantry</Icon>
 	<RolloverTextID>62062</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredSepoy</TechStatus>
@@ -39999,6 +40281,7 @@
 	<Icon>ui\techs\asians\honored_ranged_infantry</Icon>
 	<RolloverTextID>62066</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -40043,6 +40326,7 @@
 	<Icon>ui\techs\asians\exalted_siege</Icon>
 	<RolloverTextID>62077</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredFlameThrower</TechStatus>
@@ -40079,6 +40363,7 @@
 	<Icon>ui\techs\asians\exalted_elephants</Icon>
 	<RolloverTextID>65518</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
 		<TechStatus status ='Active'>YPHonoredFlailElephant</TechStatus>
@@ -40241,6 +40526,7 @@
 	<Icon>ui\techs\imperial_navy\imperial_navy</Icon>
 	<RolloverTextID>62363</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>OrPrereqs</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
@@ -40261,6 +40547,7 @@
 	<Icon>ui\techs\imperial_navy\imperial_navy</Icon>
 	<RolloverTextID>62367</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>OrPrereqs</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
@@ -40761,6 +41048,7 @@
 	<Icon>ui\techs\asians\disciplined_infantry</Icon>
 	<RolloverTextID>63577</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -40780,6 +41068,7 @@
 	<Icon>ui\techs\asians\honored_infantry</Icon>
 	<RolloverTextID>63581</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPDisciplinedSamurai</TechStatus>
@@ -40802,6 +41091,7 @@
 	<RolloverTextID>63578</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
 		<TechStatus status ='Active'>YPHonoredSamurai</TechStatus>
@@ -43382,6 +43672,7 @@
 	<Icon>ui\techs\imperial_navy\imperial_navy</Icon>
 	<RolloverTextID>64605</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>OrPrereqs</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
@@ -45322,6 +45613,7 @@
 	<Icon>ui\techs\asians\disciplined_elephants</Icon>
 	<RolloverTextID>65519</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -45341,6 +45633,7 @@
 	<Icon>ui\techs\asians\honored_elephants</Icon>
 	<RolloverTextID>65523</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPDisciplinedFlailElephant</TechStatus>
@@ -46862,6 +47155,7 @@
 	<Icon>ui\techs\asians\exalted_siege</Icon>
 	<RolloverTextID>66010</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPHonoredMorutaru</TechStatus>
@@ -46883,6 +47177,7 @@
 	<Icon>ui\techs\asians\exalted_siege</Icon>
 	<RolloverTextID>66014</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -46904,6 +47199,7 @@
 	<Icon>ui\techs\asians\honored_elephants</Icon>
 	<RolloverTextID>66018</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -46923,6 +47219,7 @@
 	<Icon>ui\techs\asians\honored_siege</Icon>
 	<RolloverTextID>66022</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -47882,6 +48179,7 @@
 	<Icon>ui\techs\asians\tech_spirit_medicine_icon_64</Icon>
 	<RolloverTextID>66471</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardEconomicScore</Flag>
 	<Effects>
 		<Effect type ='Data' amount ='3.00' subtype ='Damage' allactions ='1' relativity ='Absolute'>
@@ -48208,6 +48506,7 @@
 	<Icon>ui\techs\asians\disciplined_pikeman</Icon>
 	<RolloverTextID>67132</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -48229,6 +48528,7 @@
 	<RolloverTextID>67136</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -48248,6 +48548,7 @@
 	<Icon>ui\techs\asians\honored_meteorhammer</Icon>
 	<RolloverTextID>67140</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -48269,6 +48570,7 @@
 	<RolloverTextID>67144</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -48290,6 +48592,7 @@
 	<Icon>ui\techs\asians\honored_changdao</Icon>
 	<RolloverTextID>67148</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -48311,6 +48614,7 @@
 	<RolloverTextID>67152</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -48332,6 +48636,7 @@
 	<Icon>ui\techs\asians\exalted_meteorhammer</Icon>
 	<RolloverTextID>67156</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -48355,6 +48660,7 @@
 	<RolloverTextID>67160</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -48376,6 +48682,7 @@
 	<Icon>ui\techs\asians\exalted_pikeman</Icon>
 	<RolloverTextID>67164</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Prereqs>
@@ -48399,6 +48706,7 @@
 	<RolloverTextID>67168</RolloverTextID>
 	<Flag>YPGridShiftRowRightOne</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -48921,6 +49229,7 @@
 	<Icon>ui\techs\asians\honored_siege</Icon>
 	<RolloverTextID>68562</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus></Prereqs>
@@ -50285,6 +50594,7 @@
 	<Icon>ui\techs\imperial_navy\imperial_navy</Icon>
 	<RolloverTextID>69199</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>OrPrereqs</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
@@ -51021,6 +51331,7 @@
 	<Icon>ui\home_city\hc_Atonement</Icon>
 	<RolloverTextID>69795</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>YPMonasteryTech</Flag>
 	<Prereqs>
@@ -51116,6 +51427,7 @@
 	<Icon>ui\techs\asians\disciplined_ranged_infantry</Icon>
 	<RolloverTextID>69797</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Fortressize</TechStatus></Prereqs>
@@ -51143,6 +51455,7 @@
 	<Icon>ui\techs\asians\honored_ranged_infantry</Icon>
 	<RolloverTextID>69801</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>YPDisciplinedGurkha</TechStatus>
@@ -51172,6 +51485,7 @@
 	<Icon>ui\techs\asians\exalted_ranged_infantry</Icon>
 	<RolloverTextID>69805</RolloverTextID>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus>
@@ -51803,6 +52117,7 @@
 	<RolloverTextID>70370</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Imperialize</TechStatus></Prereqs>
 	<Effects>
@@ -52365,6 +52680,7 @@
 	<RolloverTextID>23262</RolloverTextID>
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
+		<Flag>Shadow</Flag>
 	<Flag>ForceLastInLine</Flag>
 	<Prereqs>
 		<TechStatus status ='Active'>Industrialize</TechStatus>
@@ -52392,8 +52708,7 @@
 	<Flag>CountsTowardMilitaryScore</Flag>
 	<Flag>UpgradeTech</Flag>
 	<Flag>ForceLastInLine</Flag>
-	<Prereqs>
-	</Prereqs>
+	<Flag>Shadow</Flag>
 	<Effects>
 		<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
 			<Target type ='ProtoUnit'>Spahi</Target></Effect>
@@ -52506,4 +52821,596 @@
 			<Target type ='ProtoUnit'>ypYamabushi</Target></Effect>
 	</Effects>
 </Tech>
+
+	
+	<Tech name ='modChineseAge0' type ='Normal'>
+		<DBID>10000</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Flag>Shadow</Flag>
+		<Effects>
+			<Effect type ='TechStatus' status ='active'>ModChineseStartingTechs</Effect>
+			<Effect type ='TechStatus' status ='active'>YPAge0ChineseSpecialTechs</Effect>
+			<Effect type ='TechStatus' status ='active'>YPAge0ChineseTechs</Effect>
+			<Effect type ='TechStatus' status ='active'>YPAge0ChineseConsulate</Effect>
+			<Effect type ='TechStatus' status ='active'>YPAge0ChineseUnits</Effect>
+			<Effect type ='TechStatus' status ='active'>YPAge0ChineseBuildings</Effect>
+
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp1A</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp1B</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp1C</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp1D</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp2A</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp2B</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp2C</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp2D</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp3A</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp3B</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp3C</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp3D</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp4A</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>modChineseAgeUp4B</Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAge1' type ='Normal'>
+		<DBID>10001</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\post_game\time_line_age_2</Icon>
+		<Effects>
+			<Effect type ='TechStatus' status ='active'>Colonialize</Effect>
+			<Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
+			<Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
+			<Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ChineseExplorer</Target></Effect>
+			<Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ChineseExplorer</Target></Effect>
+			<Effect type ='Data' amount ='1.20' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' amount ='1.20' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' action ='RoundhouseAttack' amount ='20.00' subtype ='Damage' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>AbstractChineseMonk</Target></Effect>
+			<Effect type ='TechStatus' status ='active'>ypMonkMakeDisciple</Effect>
+			<Effect type ='Data' action ='HandAttack' amount ='0.00' subtype ='HitPercentType' relativity ='Absolute' hitpercenttype ='CriticalDisciple'>
+				<Target type ='ProtoUnit'>AbstractChineseMonk</Target></Effect>
+			<Effect type ='Data' action ='HandAttack' amount ='0.00' subtype ='HitPercentType' relativity ='Absolute' hitpercenttype ='CriticalDisciple'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' action ='CoverHandAttack' amount ='0.00' subtype ='HitPercentType' relativity ='Absolute' hitpercenttype ='CriticalDisciple'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' action ='DefendHandAttack' amount ='0.00' subtype ='HitPercentType' relativity ='Absolute' hitpercenttype ='CriticalDisciple'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAge2' type ='Normal'>
+		<DBID>10002</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\post_game\time_line_age_3</Icon>
+		<Flag>Shadow</Flag>
+		<Effects>
+			<Effect type ='TechStatus' status ='active'>Fortressize</Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='BuildLimit' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>TownCenter</Target></Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ChineseExplorer</Target></Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ChineseExplorer</Target></Effect>
+			<Effect type ='TechStatus' status ='active'>ypFortessizeWonderHelper</Effect>
+			<Effect type ='Data' action ='Gather' amount ='1.25' subtype ='WorkRate' unittype ='ypVillage' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Herdable</Target></Effect>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' amount ='1.20' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' amount ='1.20' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' action ='CannonAttack' amount ='5.00' subtype ='MaximumRange' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' action ='CannonAttack' amount ='1.00' subtype ='DamageArea' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' action ='RoundhouseAttack' amount ='35.00' subtype ='Damage' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>AbstractChineseMonk</Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAge3' type ='Normal'>
+		<DBID>10003</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\post_game\time_line_age_4</Icon>
+		<Flag>Shadow</Flag>
+		<Effects>
+			<Effect type ='TechStatus' status ='active'>Industrialize</Effect>
+			<Effect type ='Data' amount ='2.50' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
+			<Effect type ='Data' amount ='2.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
+			<Effect type ='Data' amount ='2.50' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ChineseExplorer</Target></Effect>
+			<Effect type ='Data' amount ='2.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ChineseExplorer</Target></Effect>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' amount ='1.30' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' action ='CannonAttack' amount ='5.00' subtype ='MaximumRange' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' action ='CannonAttack' amount ='1.00' subtype ='DamageArea' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' amount ='1.40' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' amount ='1.40' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' action ='RoundhouseAttack' amount ='45.00' subtype ='Damage' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>AbstractChineseMonk</Target></Effect>
+			<Effect type ='Data' action ='Gather' amount ='1.25' subtype ='WorkRate' unittype ='ypVillage' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>Herdable</Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAge4' type ='Normal'>
+		<DBID>10004</DBID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\post_game\time_line_age_5</Icon>
+		<Flag>Shadow</Flag>
+		<Effects>
+			<Effect type ='TechStatus' status ='active'>Imperialize</Effect>
+			<Effect type ='Data' amount ='3.00' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
+			<Effect type ='Data' amount ='3.00' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractMonk</Target></Effect>
+			<Effect type ='Data' amount ='3.00' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ChineseExplorer</Target></Effect>
+			<Effect type ='Data' amount ='3.00' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ChineseExplorer</Target></Effect>
+			<Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' amount ='1.50' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypFlyingCrow</Target></Effect>
+			<Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypMonkDisciple</Target></Effect>
+			<Effect type ='Data' action ='RoundhouseAttack' amount ='1.00' subtype ='Damage' relativity ='Percent'>
+				<Target type ='ProtoUnit'>AbstractChineseMonk</Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='ModChineseStartingTechs' type ='Normal'>
+		<DBID>10005</DBID>
+		<DisplayNameID>60326</DisplayNameID>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>units\artillery\organ_gun\organ_gun_icon_64x64</Icon>
+		<Flag>Shadow</Flag>
+		<Effects>
+			<Effect type ='SetName' proto ='CoveredWagon' culture ='none' newName ='69995'></Effect>
+			
+			<Effect type ='TechStatus' status ='obtainable'>ypMonasteryCriticalUpgrade</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypMonasteryAttackSpeed</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypMonasteryShaolinWarrior</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypMonasteryDiscipleAura</Effect>
+		
+			<Effect type ='TechStatus' status ='obtainable'>ypDisciplinedDaimyoShadow</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypHonoredDaimyoShadow</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypExaltedDaimyoShadow</Effect>
+			
+			<Effect type ='TechStatus' status ='obtainable'>HCBlockadeNative</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>SpiesNative</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypImpLegendaryNatives2</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ImpImmigrantsNative</Effect>
+
+			<Effect type ='TechStatus' status ='obtainable'>ypMarketSpiritMedicine</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypMarketLogFlume</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypMarketCircularSaw</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypMarketAmalgamation</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypImpDeforestationAsian</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypMarketPlacerMines</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypMarketGangsaw</Effect>
+
+			<Effect type ='TechStatus' status ='obtainable'>ypCooperative</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypCropMarket</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypLandRedistribution</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypSharecropping</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypImpLargeScaleAgricultureAsian</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypWaterConservancy</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypIrrigationSystems</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypCultivateWasteland</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypImpExcessiveTributeAsian</Effect>
+
+			<Effect type ='TechStatus' status ='obtainable'>ForestSpiritCeremony</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ForestPeopleCeremony</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ImpExcessiveTributeNative</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ImpLargeScaleGathering</Effect>
+	
+			<Effect type ='TechStatus' status ='obtainable'>LongLines</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>GillNets</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>PercussionLocks</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>Carronade</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ArmorPlating</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypImperialMonitors</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ShipHowitzers</Effect>
+
+			<Effect type ='TechStatus' status ='obtainable'>Bastion</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>FrontierOutpost</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>FortifiedOutpost</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypFortifiedCastle</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>ypFrontierCastle</Effect>
+
+			<Effect type ='TechStatus' status ='obtainable'>CavalryCuirass</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>GunnersQuadrant</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>HeatedShot</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>InfantryBreastplate</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>Bayonet</Effect>
+			
+			<Effect type ='TechStatus' status ='obtainable'>FactoryMassProduction</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>FactoryWaterPower</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>FactorySteamPower</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>FactoryCannery</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>Revetment</Effect>
+			<Effect type ='TechStatus' status ='obtainable'>StarFort</Effect>
+
+			<Effect type ='TechStatus' status ='obtainable'>ypMonasteryCompunction</Effect>
+
+			<Effect type ='Data' amount ='0.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+				<Target type ='ProtoUnit'>Cannon</Target></Effect>
+			<Effect type ='Data' amount ='200.00' subtype ='Cost' resource ='Trade' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Cannon</Target></Effect>
+			<Effect type ='Data' amount ='0.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+				<Target type ='ProtoUnit'>Culverin</Target></Effect>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Trade' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Culverin</Target></Effect>
+			<Effect type ='Data' amount ='0.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+				<Target type ='ProtoUnit'>Falconet</Target></Effect>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Trade' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Falconet</Target></Effect>
+			<Effect type ='Data' amount ='0.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+				<Target type ='ProtoUnit'>Mortar</Target></Effect>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Trade' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Mortar</Target></Effect>
+			<Effect type ='Data' amount ='100.00' subtype ='Cost' resource ='Trade' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>OrganGun</Target></Effect>
+			<Effect type ='Data' amount ='0.00' subtype ='Cost' resource ='Wood' relativity ='Assign'>
+				<Target type ='ProtoUnit'>OrganGun</Target></Effect>
+			<Effect type ='Data' amount ='180.00' subtype ='Cost' resource ='Trade' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Surgeon</Target></Effect>
+			<Effect type ='Data' amount ='0.00' subtype ='Cost' resource ='Gold' relativity ='Assign'>
+				<Target type ='ProtoUnit'>Surgeon</Target></Effect>
+			<Effect type ='Data' amount ='1.10' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractConsulateUnit</Target></Effect>
+			<Effect type ='Data' amount ='1.10' subtype ='Hitpoints' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractConsulateUnit</Target></Effect>
+			<Effect type ='TechStatus' status ='active'>YPAAConsulateUnits</Effect>
+			<Effect type ='Data' amount ='0.00' subtype ='MinimumResourceTrickleRate' resource ='Trade' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+			<Effect type ='Data' action ='AutoGatherTrade' amount ='1.00' subtype ='ActionEnable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+			<Effect type ='Data' action ='AutoGatherTrade' amount ='1.16' subtype ='WorkRate' unittype ='Trade' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+			<Effect type ='Data2' action ='Gather' amount ='0.90' subtype ='WorkRateSpecific' resource ='Gold' unittype ='ypRicePaddy' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractVillager</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>Monitor</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='Enable' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypPetOrangutan</Target></Effect>
+		</Effects>
+	</Tech>
+	
+	<Tech name ='modChineseAgeUp1A' type ='Normal'>
+		<DBID>10006</DBID>
+		<DisplayNameID>250005</DisplayNameID>
+		<Cost resourcetype ='Food'>800.0000</Cost>
+		<ResearchPoints>90.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_ii</Icon>
+		<RolloverTextID>250006</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age1</Effect>
+			<Effect type ='Data' amount ='4.00' subtype ='FreeHomeCityUnit' unittype ='ypCrateofFood' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp1B' type ='Normal'>
+		<DBID>10007</DBID>
+		<DisplayNameID>250007</DisplayNameID>
+		<Cost resourcetype ='Food'>800.0000</Cost>
+		<ResearchPoints>110.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iii</Icon>
+		<RolloverTextID>250008</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age1</Effect>
+			<Effect type ='Data' amount ='3.00' subtype ='FreeHomeCityUnit' unittype ='ypCrateofWood' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp1C' type ='Normal'>
+		<DBID>10008</DBID>
+		<DisplayNameID>250009</DisplayNameID>
+		<Cost resourcetype ='Food'>800.0000</Cost>
+		<ResearchPoints>110.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iii</Icon>
+		<RolloverTextID>250010</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age1</Effect>
+			<Effect type ='Data' amount ='4.00' subtype ='FreeHomeCityUnit' unittype ='ypCrateofCoin' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp1D' type ='Normal'>
+		<DBID>10009</DBID>
+		<DisplayNameID>250011</DisplayNameID>
+		<Cost resourcetype ='Food'>800.0000</Cost>
+		<ResearchPoints>110.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iii</Icon>
+		<RolloverTextID>250012</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age1</Effect>
+			<Effect type ='Data' amount ='200.00' subtype ='Resource' resource ='Trade' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp2A' type ='Normal'>
+		<DBID>10010</DBID>
+		<DisplayNameID>250013</DisplayNameID>
+		<Cost resourcetype ='Food'>1200.0000</Cost>
+		<Cost resourcetype ='Gold'>1000.0000</Cost>
+		<ResearchPoints>110.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iii</Icon>
+		<RolloverTextID>250014</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age2</Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='FreeHomeCityUnit' unittype ='CrateofFoodLarge' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>		
+			<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='ypCrateofFood' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp2B' type ='Normal'>
+		<DBID>10011</DBID>
+		<DisplayNameID>250015</DisplayNameID>
+		<Cost resourcetype ='Food'>1200.0000</Cost>
+		<Cost resourcetype ='Gold'>1000.0000</Cost>
+		<ResearchPoints>110.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iii</Icon>
+		<RolloverTextID>250016</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age2</Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='FreeHomeCityUnit' unittype ='CrateofWoodLarge' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>		
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp2C' type ='Normal'>
+		<DBID>10012</DBID>
+		<DisplayNameID>250017</DisplayNameID>
+		<Cost resourcetype ='Food'>1200.0000</Cost>
+		<Cost resourcetype ='Gold'>1000.0000</Cost>
+		<ResearchPoints>110.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iii</Icon>
+		<RolloverTextID>250018</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age2</Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='FreeHomeCityUnit' unittype ='CrateofCoinLarge' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>		
+			<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='ypCrateofCoin' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp2D' type ='Normal'>
+		<DBID>10013</DBID>
+		<DisplayNameID>250019</DisplayNameID>
+		<Cost resourcetype ='Food'>1200.0000</Cost>
+		<Cost resourcetype ='Gold'>1000.0000</Cost>
+		<ResearchPoints>110.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iii</Icon>
+		<RolloverTextID>250020</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age2</Effect>
+			<Effect type ='Data' amount ='400.00' subtype ='Resource' resource ='Trade' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp3A' type ='Normal'>
+		<DBID>10014</DBID>
+		<DisplayNameID>250021</DisplayNameID>
+		<Cost resourcetype ='Food'>2000.0000</Cost>
+		<Cost resourcetype ='Gold'>1200.0000</Cost>
+		<ResearchPoints>90.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iv</Icon>
+		<RolloverTextID>250022</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age3</Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='CrateofFoodLarge' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp3B' type ='Normal'>
+		<DBID>10015</DBID>
+		<DisplayNameID>250023</DisplayNameID>
+		<Cost resourcetype ='Food'>2000.0000</Cost>
+		<Cost resourcetype ='Gold'>1200.0000</Cost>
+		<ResearchPoints>90.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iv</Icon>
+		<RolloverTextID>250024</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age3</Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='FreeHomeCityUnit' unittype ='CrateofWoodLarge' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='ypCrateofWood' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp3C' type ='Normal'>
+		<DBID>10016</DBID>
+		<DisplayNameID>250025</DisplayNameID>
+		<Cost resourcetype ='Food'>2000.0000</Cost>
+		<Cost resourcetype ='Gold'>1200.0000</Cost>
+		<ResearchPoints>90.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iv</Icon>
+		<RolloverTextID>250026</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age3</Effect>
+			<Effect type ='Data' amount ='2.00' subtype ='FreeHomeCityUnit' unittype ='CrateofCoinLarge' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp3D' type ='Normal'>
+		<DBID>10017</DBID>
+		<DisplayNameID>250027</DisplayNameID>
+		<Cost resourcetype ='Food'>2000.0000</Cost>
+		<Cost resourcetype ='Gold'>1200.0000</Cost>
+		<ResearchPoints>90.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_iv</Icon>
+		<RolloverTextID>250028</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age3</Effect>
+			<Effect type ='Data' amount ='600.00' subtype ='Resource' resource ='Trade' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp4A' type ='Normal'>
+		<DBID>10018</DBID>
+		<DisplayNameID>250029</DisplayNameID>
+		<Cost resourcetype ='Food'>4000.0000</Cost>
+		<Cost resourcetype ='Gold'>4000.0000</Cost>
+		<ResearchPoints>90.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_v</Icon>
+		<RolloverTextID>250030</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age4</Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='FreeHomeCityUnit' unittype ='FactoryWagon' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+			<Effect type ='Data' amount ='4.00' subtype ='FreeHomeCityUnit' unittype ='CrateofCoinLarge' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+	<Tech name ='modChineseAgeUp4B' type ='Normal'>
+		<DBID>10019</DBID>
+		<DisplayNameID>250031</DisplayNameID>
+		<Cost resourcetype ='Food'>4000.0000</Cost>
+		<Cost resourcetype ='Gold'>4000.0000</Cost>
+		<ResearchPoints>90.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\ingame\icon_age_v</Icon>
+		<RolloverTextID>250032</RolloverTextID>
+		<Flag>Shadow</Flag>
+		<Flag>AgeUpgrade</Flag>
+		<Flag>CountsTowardEconomicScore</Flag>
+		<Effects>
+			<Effect type ='SetAge'>Age4</Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='FreeHomeCityUnit' unittype ='FortWagon' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='BuildLimit' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>FortFrontier</Target></Effect>
+			<Effect type ='Data' amount ='21.00' subtype ='FreeHomeCityUnit' unittype ='ypArquebusier' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='FreeHomeCityUnit' unittype ='ypFlyingCrow' relativity ='Absolute'>
+				<Target type ='Player'></Target></Effect>
+		</Effects>
+	</Tech>
+
+	<Tech name ='MODHCMongolianScourge' type ='Normal'>
+		<DBID>10100</DBID>
+		<DisplayNameID>260001</DisplayNameID>
+		<Cost resourcetype ='Ships'>1.0000</Cost>
+		<ResearchPoints>40.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\home_city\hc_mongolian_scourge</Icon>
+		<RolloverTextID>260000</RolloverTextID>
+		<Flag>HomeCity</Flag>
+		<Effects>
+			<Effect type ='TextOutput'>61577</Effect>
+			<Effect type ='Data' amount ='1.50' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypSteppeRider</Target></Effect>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypMeteorHammer</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='DamageBonus' unittype ='AbstractHeavyCavalry' allactions ='1' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypKeshik</Target></Effect>
+			<Effect type ='Data' amount ='1.00' subtype ='DamageBonus' unittype ='AbstractLightInfantry' allactions ='1' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypKeshik</Target></Effect>
+			<Effect type ='Data' amount ='0.50' subtype ='DamageBonus' unittype ='AbstractInfantry' allactions ='1' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypIronFlail</Target></Effect>
+			<Effect type ='Data' action ='BuildingAttack' amount ='1.50' subtype ='DamageBonus' unittype ='Building' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>AbstractHeavyCavalry</Target></Effect>
+			<Effect type ='Data' action ='BuildingAttack' amount ='-1.00' subtype ='DamageBonus' unittype ='AbstractHeavyCavalry' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypKeshik</Target></Effect>
+			<Effect type ='Data' action ='BuildingAttack' amount ='-1.00' subtype ='DamageBonus' unittype ='AbstractLightInfantry' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypKeshik</Target></Effect>
+			<Effect type ='Data' action ='BuildingAttack' amount ='-0.50' subtype ='DamageBonus' unittype ='AbstractInfantry' relativity ='Absolute'>
+				<Target type ='ProtoUnit'>ypIronFlail</Target></Effect>
+		</Effects>
+	</Tech>
+
+	<Tech name ='YPHCMongolianArmyCombat' type ='Normal'>
+		<DBID>10101</DBID>
+		<DisplayNameID>69420</DisplayNameID>
+		<Cost resourcetype ='Ships'>1.0000</Cost>
+		<ResearchPoints>40.0000</ResearchPoints>
+		<Status>UNOBTAINABLE</Status>
+		<Icon>ui\home_city\hc_territorial_army_combat</Icon>
+		<RolloverTextID>69419</RolloverTextID>
+		<Flag>HomeCity</Flag>
+		<Effects>
+			<Effect type ='TextOutput'>70327</Effect>		
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypKeshik</Target></Effect>
+			<Effect type ='Data' amount ='1.30' subtype ='Damage' allactions ='1' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypHandMortar</Target></Effect>
+			<Effect type ='Data' amount ='1.05' subtype ='MaximumVelocity' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypKeshik</Target></Effect>
+			<Effect type ='Data' amount ='1.05' subtype ='MaximumVelocity' relativity ='BasePercent'>
+				<Target type ='ProtoUnit'>ypHandMortar</Target></Effect>
+		</Effects>
+	</Tech>
 </TechTree>

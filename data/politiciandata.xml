@@ -198,4 +198,19 @@
 	<ypbigconsulatespcchina portraitfilename="ui\ingame\politicians\consulate_chinese"/>
 	<ypbigconsulatespcfrench portraitfilename="ui\ingame\politicians\consulate_french"/>
 	<ypbigconsulatespcottomans portraitfilename="ui\ingame\politicians\consulate_ottomans"/>
+	
+	<modChineseAgeUp1A portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp1B portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp1C portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp1D portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp2A portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp2B portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp2C portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp2D portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp3A portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp3B portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp3C portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp3D portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp4A portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	<modChineseAgeUp4B portraitfilename="ui\ingame\politicians\consulate_chinese"/>
 </politicians>
