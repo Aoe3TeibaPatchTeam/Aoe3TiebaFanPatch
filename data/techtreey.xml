@@ -24124,6 +24124,7 @@
 		<Effect type="TechStatus" status="active">ChampionMusketWarriors</Effect>
 		<Effect type="TechStatus" status="active">ChampionHorsemen</Effect>
 		<Effect type="TechStatus" status="active">ChampionMusketRiders</Effect>
+		<Effect type="TechStatus" status="active">ChampionMantlets</Effect>
 	</Effects>
 </Tech>
 <Tech name ='ImperializeXPIroquois' type ='Normal'>
@@ -24786,7 +24787,6 @@
 		<Effect type="TechStatus" status="active">ChampionEagleKnight</Effect>
 		<Effect type="TechStatus" status="active">ChampionJaguarKnight</Effect>
 		<Effect type="TechStatus" status="active">ChampionSkullKnightShadow</Effect>
-		<Effect type="TechStatus" status="active">ChampionMantlets</Effect>
 		<Effect type="TechStatus" status="active">ChampionRams</Effect>
 		<Effect type="TechStatus" status="active">FieldCannon</Effect>
 	</Effects>
