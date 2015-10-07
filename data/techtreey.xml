@@ -54644,8 +54644,9 @@
 		<RolloverTextID>66444</RolloverTextID>
 		<Flag>CountsTowardMilitaryScore</Flag>
 		<Prereqs>
-			<TechStatus status ='Active'>Imperialize</TechStatus></Prereqs>
-			<TechStatus status ='Active'>ypDojoUpgrade1</TechStatus></Prereqs>
+			<TechStatus status ='Active'>Imperialize</TechStatus>
+			<TechStatus status ='Active'>ypDojoUpgrade1</TechStatus>
+		</Prereqs>
 		<Effects>
 			<Effect type ='Data' amount ='0.75' subtype ='TrainPoints' relativity ='BasePercent'>
 				<Target type ='ProtoUnit'>ypDojoNaginataRiderArmy</Target></Effect>
