@@ -25,9 +25,19 @@
 		<active>1</active>
 		<persistent>1</persistent>
 	</action>
+	<action>
+		<name stringid="48954">GreatHeart</name>
+		<type>AutoRangedModify</type>
+		<active>1</active>
+		<persistent>1</persistent>
+		<modifyabstracttype>AbstractShrine</modifyabstracttype>
+		<modifytype>MaxHP</modifytype>
+		<modifymultiplier>0.8</modifymultiplier>
+	</action>
 	<tactic>
 		ShrineFood
 		<action>AutoGatherFood</action>
+		<action>GreatHeart</action>
 		<protounitcommand>TacticFood</protounitcommand>
 		<transition>
 			<tactic>ShrineCoin</tactic>
@@ -48,6 +58,7 @@
 	<tactic>
 		ShrineCoin
 		<action>AutoGatherCoin</action>
+		<action>GreatHeart</action>
 		<protounitcommand>TacticCoin</protounitcommand>
 		<transition>
 			<tactic>ShrineFood</tactic>
@@ -68,6 +79,7 @@
 	<tactic>
 		ShrineWood
 		<action>AutoGatherWood</action>
+		<action>GreatHeart</action>
 		<protounitcommand>TacticWood</protounitcommand>
 		<transition>
 			<tactic>ShrineCoin</tactic>
@@ -88,6 +100,7 @@
 	<tactic>
 		ShrineXP
 		<action>AutoGatherXP</action>
+		<action>GreatHeart</action>
 		<active>0</active>
 		<protounitcommand>TacticXP</protounitcommand>
 		<transition>

@@ -41,6 +41,7 @@
 	<politicianquartermaster portraitfilename="ui\ingame\politicians\politician_quarter_master"/>
 	<politicianscout portraitfilename="ui\ingame\politicians\politician_scout"/>
 	<politicianscoutrussian portraitfilename="ui\ingame\politicians\politician_scout"/>
+	<politicianscoutdutch portraitfilename="ui\ingame\politicians\politician_scout"/>
 	<politicianscoutspanish portraitfilename="ui\ingame\politicians\politician_scout"/>
 	<politiciansergeantdutch portraitfilename="ui\ingame\politicians\politician_sergeant_arms"/>
 	<politiciansergeantgerman portraitfilename="ui\ingame\politicians\politician_sergeant_arms"/>

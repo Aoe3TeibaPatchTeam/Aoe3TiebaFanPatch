@@ -53,6 +53,8 @@
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityspanish.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\spanish</homecityflagtexture>
 		<homecityflagbuttonset>spanishFlagBtn</homecityflagbuttonset>
@@ -129,6 +131,8 @@
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecitybritish.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\british</homecityflagtexture>
 		<homecityflagbuttonset>britishFlagBtn</homecityflagbuttonset>
@@ -200,6 +204,8 @@
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityfrench.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\french</homecityflagtexture>
 		<homecityflagbuttonset>frenchFlagBtn</homecityflagbuttonset>
@@ -269,6 +275,8 @@
 		<townstartingunit>Settler</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityportuguese.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\portuguese</homecityflagtexture>
 		<homecityflagbuttonset>portugueseFlagBtn</homecityflagbuttonset>
@@ -341,6 +349,8 @@
 		<townstartingunit>CrateofCoin</townstartingunit>
 		<townstartingunit>CrateofCoin</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecitydutch.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\dutch</homecityflagtexture>
 		<homecityflagbuttonset>dutchFlagBtn</homecityflagbuttonset>
@@ -411,6 +421,8 @@
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityrussians.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\russians</homecityflagtexture>
 		<homecityflagbuttonset>russianFlagBtn</homecityflagbuttonset>
@@ -499,6 +511,8 @@
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecitygerman.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\germans</homecityflagtexture>
 		<homecityflagbuttonset>germanFlagBtn</homecityflagbuttonset>
@@ -570,6 +584,8 @@
 		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityottomans.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\ottomans</homecityflagtexture>
 		<homecityflagbuttonset>ottomanFlagBtn</homecityflagbuttonset>
@@ -1054,6 +1070,8 @@
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityxpiroquois.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\iroquois</homecityflagtexture>
 		<homecityflagbuttonset>iroquoisFlagBtn</homecityflagbuttonset>
@@ -1125,6 +1143,8 @@
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityxpsioux.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\sioux</homecityflagtexture>
 		<homecityflagbuttonset>siouxFlagBtn</homecityflagbuttonset>
@@ -1198,6 +1218,8 @@
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityxpaztec.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\aztec</homecityflagtexture>
 		<homecityflagbuttonset>AztecFlagBtn</homecityflagbuttonset>
@@ -1338,6 +1360,8 @@
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityjapanese.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\japan</homecityflagtexture>
 		<homecityflagbuttonset>JapaneseFlagBtn</homecityflagbuttonset>
@@ -1722,6 +1746,8 @@
 		<townstartingunit>ypGoat</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
+		<townstartingunit>CrateofFood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofWood</townstartingunit>
@@ -2898,6 +2924,8 @@
 		<townstartingunit>CrateofWood</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
 		<townstartingunit>CrateofFood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<randomstartingunits>0</randomstartingunits>
 		<homecityfilename>homecityindians.xml</homecityfilename>
 		<homecityflagtexture>objects\flags\india</homecityflagtexture>
 		<homecityflagbuttonset>IndianFlagBtn</homecityflagbuttonset>
@@ -6436,5 +6464,90 @@
 			</unitcounts>
 		</multipleblocktrain>
 		<key>J</key>
+	</civ>
+	<civ>
+		<name>extSpanish</name>
+		<main>1</main>
+		<statsid>SP</statsid>
+		<portrait>objects\flags\spanish</portrait>
+		<culture>Mediterranean</culture>
+		<displaynameid>250107</displaynameid>
+		<rollovernameid>250106</rollovernameid>
+		<alliedid>26446</alliedid>
+		<alliedotherid>26445</alliedotherid>
+		<unalliedid>26444</unalliedid>
+		<agetech>
+			<age>Age0</age>
+			<tech>Age0extSpanish</tech>
+		</agetech>
+		<agetech>
+			<age>Age1</age>
+			<tech>extColonializeSpanish</tech>
+		</agetech>
+		<agetech>
+			<age>Age2</age>
+			<tech>extFortressizeSpanish</tech>
+		</agetech>
+		<agetech>
+			<age>Age3</age>
+			<tech>extIndustrializeSpanish</tech>
+		</agetech>
+		<agetech>
+			<age>Age4</age>
+			<tech>extImperializeSpanish</tech>
+		</agetech>
+		<postindustrialtech>PostIndustrialSpanish</postindustrialtech>
+		<postimperialtech>PostImperialSpanish</postimperialtech>
+		<buildingefficiency>0.3</buildingefficiency>
+		<gold>0</gold>
+		<food>0</food>
+		<wood>0</wood>
+		<startingunit>extElPolloGuapo</startingunit>
+		<startingunit>ypNatMercConquistador</startingunit>
+		<townstartingunit>Settler</townstartingunit>
+		<townstartingunit>Settler</townstartingunit>
+		<townstartingunit>Settler</townstartingunit>
+		<townstartingunit>Settler</townstartingunit>
+		<townstartingunit>Pilgrim</townstartingunit>
+		<townstartingunit>CrateofFood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofWood</townstartingunit>
+		<townstartingunit>CrateofCoin</townstartingunit>
+		<homecityfilename>homecityextepgspanish.xml</homecityfilename>
+		<homecityflagtexture>objects\flags\spanish</homecityflagtexture>
+		<homecityflagbuttonset>spanishFlagBtn</homecityflagbuttonset>
+		<homecityflagbuttonsetlarge>spanishFlagBtnLarge</homecityflagbuttonsetlarge>
+		<postgameflagtexture>ui\ingame\ingame_ui_postgame_flag_spanish</postgameflagtexture>
+		<matchmakingtextures>
+			<bannertexture>ui\eso\civ_flags_quick_launch</bannertexture>
+			<bannertexturecoords>0 0 0.78125 0.125</bannertexturecoords>
+			<portraittexture>ui\eso\eso_quick_search_politicians_02</portraittexture>
+			<portraittexturecoords>0.4375 0.4296875 0.830078125 0.814453125</portraittexturecoords>
+			<smallportraittexture>ui\singleplayer\cpai_avatar_spanish</smallportraittexture>
+			<smallportraittexturecoords>0 0 1 1</smallportraittexturecoords>
+		</matchmakingtextures>
+		<unitregen>
+			<unittype>extElPolloGuapo</unittype>
+			<rate>0.30</rate>
+			<idletimeout>1.5</idletimeout>
+		</unitregen>
+		<unitregen>
+			<unittype>AbstractCavalry</unittype>
+			<rate>0.375</rate>
+			<idletimeout>2.5</idletimeout>
+		</unitregen>
+		<unitregen>
+			<unittype>Minuteman</unittype>
+			<rate>-1.75</rate>
+		</unitregen>
+		<unitregen>
+			<unittype>Settler</unittype>
+			<rate>0.25</rate>
+		</unitregen>
+		<unitregen>
+			<unittype>SPCBolivar</unittype>
+			<rate>0.25</rate>
+			<idletimeout>3.5</idletimeout>
+		</unitregen>
 	</civ>
 </civs>

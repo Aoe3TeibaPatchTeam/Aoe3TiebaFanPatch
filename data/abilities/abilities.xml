@@ -491,7 +491,7 @@
 	<ypwitajmahal2>
 		<ability>
 			ypPowerCeaseFire
-			<rof>120</rof>
+			<rof>240</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -499,7 +499,7 @@
 	<ypwitajmahal3>
 		<ability>
 			ypPowerCeaseFire
-			<rof>120</rof>
+			<rof>240</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -507,7 +507,7 @@
 	<ypwitajmahal4>
 		<ability>
 			ypPowerCeaseFire
-			<rof>120</rof>
+			<rof>240</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -515,7 +515,7 @@
 	<ypwitajmahal5>
 		<ability>
 			ypPowerCeaseFire
-			<rof>120</rof>
+			<rof>240</rof>
 			<castonself>true</castonself>
 			<usebigbutton>false</usebigbutton>
 		</ability>
@@ -555,7 +555,7 @@
 	<explorer>
 		<ability>
 			PowerSharpshooter
-			<rof>60</rof>
+			<rof>30</rof>
 		</ability>
 		<ability>
 			PowerCrackshot
@@ -648,6 +648,12 @@
 			<rof>90</rof>
 		</ability>
 	</xpaztecwarchief>
+	<extelpolloguapo>
+		<ability>
+			PowerSwashbuckler
+			<rof>90</rof>
+		</ability>
+	</extelpolloguapo>
 	<spcsahin>
 		<ability>
 			PowerSwashbuckler
