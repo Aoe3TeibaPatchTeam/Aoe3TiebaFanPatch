@@ -213,4 +213,9 @@
 	<modChineseAgeUp3D portraitfilename="ui\ingame\politicians\consulate_chinese"/>
 	<modChineseAgeUp4A portraitfilename="ui\ingame\politicians\consulate_chinese"/>
 	<modChineseAgeUp4B portraitfilename="ui\ingame\politicians\consulate_chinese"/>
+	
+	<modJapaneseAgeUp1 portraitfilename="ui\ingame\politicians\consulate_japanese"/>
+	<modJapaneseAgeUp2 portraitfilename="ui\ingame\politicians\consulate_japanese"/>
+	<modJapaneseAgeUp3 portraitfilename="ui\ingame\politicians\consulate_japanese"/>
+	<modJapaneseAgeUp4 portraitfilename="ui\ingame\politicians\consulate_japanese"/>
 </politicians>
